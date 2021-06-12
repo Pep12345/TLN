@@ -1,0 +1,14 @@
+S->NP VP | X1 VP | 'book' | 'include' | 'prefer' | Verb NP | X2 PP | Verb PP | VP PP
+X1->Aux NP
+NP->'I' | 'she' | 'me' | 'Houston' | 'NWA' | Det Nominal
+Nominal->'book' | 'flight' | 'meal' | 'money' | Nominal Noun | Nominal PP | 'morning'
+VP->'book' | 'include' | 'prefer' | Verb NP | X2 PP | Verb PP | VP PP
+X2->Verb NP
+PP->Preposition NP
+Det->'that' | 'this' | 'a' | 'the'
+Noun->'book' | 'flight' | 'meal' | 'money' | 'morning'
+Verb->'book' | 'include' | 'prefer'
+Pronoun->'I' | 'she' | 'me'
+Pronoun-Noun->'Houston' | 'NWA'
+Aux->'does'
+Preposition->'from' | 'to' | 'on' | 'near' | 'through'

@@ -1,0 +1,26 @@
+##
+% start S
+############################
+# Grammar Rules
+#############################
+S[SEM = <?vp(?subj)>] -> NP[SEM=?subj] VP[SEM=?vp]
+S[SEM = <?v(?subj)>] -> NP[SEM=?subj] V[SEM=?v]
+S[SEM = <(is(?subj,?obj))>] -> NP[SEM=?subj] NP[SEM=?obj]
+S[SEM = (?aux + <?vp(?np)>)] -> Aux[SEM=?aux] NP[SEM=?np] VP[SEM=?vp]
+S[SEM = (?aux + ?vp)] -> Aux[SEM=?aux] VP[SEM=?vp]
+NP[SEM=?np] -> PropN[SEM=?np]
+NP[SEM=?np] -> Pronoun[SEM=?np]
+NP[+by, SEM=?np] -> P[+by] NP[SEM=?np]
+VP[SEM=<?v(?obj)>] -> V[SEM=?v] NP[SEM=?obj]
+#############################
+# Lexical Rules
+#############################
+PropN[SEM=<dothraki>] -> 'Dothraki'
+P[+by] -> 'ki'
+Pronoun[SEM=<i>] -> 'Anha'
+Pronoun[SEM=<you>] -> 'yer'
+Pronoun[SEM=<you>] -> 'yera'
+V[SEM=<\y (\x.love(x,y))>] -> 'zhilak'
+V[SEM=<\y (\x.speak(x,y))>] -> 'astoe'
+V[SEM=<\x.hungry(x)>] -> 'gavork'
+Aux[SEM=<Yes/No>] -> 'Hash'

@@ -1,0 +1,9 @@
+S->NP VP | NP Verb | NP NP | Aux Q | Aux VP
+Q->NP VP
+VP->Verb NP
+NP->'Dothraki' | 'Anha' | 'yer' | 'yera' | P NP
+P->'ki'
+PropN->'Dothraki'
+Pronoun->'Anha' | 'yer' | 'yera'
+Verb->'zhilak' | 'gavork' | 'astoe'
+Aux->'Hash'
