@@ -4,7 +4,7 @@ from collections import defaultdict
 class Grammar:
 
     lexical_rules = defaultdict(set)
-    syn_rules = defaultdict(set)   # non dovrebbe servire
+    syn_rules = defaultdict(set)  
 
     def __init__(self, text_file):
         dir = os.path.dirname(os.path.abspath(__file__))
@@ -15,7 +15,6 @@ class Grammar:
                     break
                 line = line.replace('| ', '|').replace(' |', '|').replace('\n', '').split('->')
                 for body in line[1].split('|'):
-                    #self.rules.append({line[0]: body})
                     self.add_rule(line[0], body)
 
     def add_rule(self, head, body):
@@ -28,11 +27,11 @@ class Grammar:
     #Get testa regola dato corpo
     def get_rules_for_word(self, word):
         return list(self.lexical_rules.get(word.lower()) if self.lexical_rules.__contains__(word.lower()) else [])
-        #return [head for body, head in self.lexical_rules.items() if body.replace('\'','') == word]
+
 
     def get_rules_for_tag(self, tag):
         return list(self.syn_rules.get(tag) if self.syn_rules.__contains__(tag) else [])
-        #[head for body,head in self.syn_rules.items() if body==tag]
+
 
 
     def print(self):
