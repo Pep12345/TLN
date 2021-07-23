@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad503db3-6b1a-4e63-afb8-adaedafa6633" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Radicioni/WSD/1-wsd/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.TXT" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nltk_dothraki.py" beforeDir="false" afterPath="$PROJECT_DIR$/nltk_dothraki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tst.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nltk_dothraki.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="116" column="28" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="28" />
+            <state relative-caret-position="1887">
+              <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -37,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cky.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+            <state relative-caret-position="935">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -55,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grammar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="17" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -68,18 +69,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L1_grammar.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dothraki_gr_sem.fcfg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="323">
               <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
             </state>
           </provider>
@@ -129,9 +121,9 @@
         <option value="$PROJECT_DIR$/grammar.py" />
         <option value="$PROJECT_DIR$/tst.py" />
         <option value="$PROJECT_DIR$/Cky.py" />
-        <option value="$PROJECT_DIR$/__main__.py" />
         <option value="$PROJECT_DIR$/dothraki_gr_sem.fcfg" />
         <option value="$PROJECT_DIR$/nltk_dothraki.py" />
+        <option value="$PROJECT_DIR$/__main__.py" />
       </list>
     </option>
   </component>
@@ -183,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nltk_dothraki">
+  <component name="RunManager" selected="Python.__main__">
     <configuration name="Cky" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mazzei" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,16 +303,16 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.__main__" />
       <item itemvalue="Python.Cky" />
+      <item itemvalue="Python.__main__" />
       <item itemvalue="Python.ex" />
       <item itemvalue="Python.nltk_dothraki" />
       <item itemvalue="Python.tst" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nltk_dothraki" />
         <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.nltk_dothraki" />
         <item itemvalue="Python.tst" />
         <item itemvalue="Python.Cky" />
         <item itemvalue="Python.ex" />
@@ -385,13 +377,38 @@
     <entry file="file://$PROJECT_DIR$/L1_grammar" />
     <entry file="file://$PROJECT_DIR$/Dothraki_grammar_semantic.txt" />
     <entry file="file://$PROJECT_DIR$/ex.py" />
+    <entry file="file://$PROJECT_DIR$/tst.py" />
+    <entry file="file://$PROJECT_DIR$/L1_grammar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nltk_dothraki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="116" column="28" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="28" />
+        <state relative-caret-position="1887">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
@@ -402,6 +419,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dothraki_gr_sem.fcfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dothraki_grammar_CF.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -409,51 +433,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dothraki_gr_sem.fcfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nltk_dothraki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/L1_grammar.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grammar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="17" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cky.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
         </state>
       </provider>
     </entry>

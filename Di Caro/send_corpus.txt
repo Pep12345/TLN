@@ -1,0 +1,840 @@
+<doc id="file21596889" filename="allow-members-to-send-as-or-send-on-behalf-of-group" parent_folder="web1" url="https://docs.microsoft.com/en-us/microsoft-365/solutions/allow-members-to-send-as-or-send-on-behalf-of-group">
+<p> Allow members to send as or send on behalf of a group </p>
+<p> A member of a Microsoft 365 group who has been granted Send as or Send on behalf permissions can send email as the group, or on behalf of the group. (Guests in the group cannot be granted these permissions.) </p>
+<p> This article explains how a global or Exchange administrator can set these permissions. </p>
+<p> For example, if Megan Bowen is part of the Training Microsoft 365 group, and has Send as permissions on the group, if she sends an email as the group, it will look like the Training group sent the email. </p>
+<p> The Send on Behalf permission lets a user send email on behalf of a Microsoft 365 group. For example, if Alex Wilber is a part of the Marketing Microsoft 365 group, and has Send on Behalf permissions and sends an email as the group, the email looks like it was sent by Alex Wilber on behalf of Marketing. </p>
+<p> Important </p>
+<p> You can configure Send as or Send on behalf for a given user, but not both. If you configure both, it will default to Send as. </p>
+<p> Allow members to send email as a group </p>
+<p> This section explains how to allow users to send email as a group in the Exchange admin center (EAC) in Exchange Online. </p>
+<p> Select Edit on the group that you want to allow users to send as. </p>
+<p> Select group delegation. </p>
+<p> In the Send As section, select the + sign to add the users that you want to send as the Group. </p>
+<p> Type to search or pick a user from the list. Select OK and Save. </p>
+<p> Allow members to send email on behalf of a group </p>
+<p> This section explains how to allow users to send email on behalf of a group in the Exchange admin center (EAC) in Exchange Online. </p>
+<p> Select Edit on the group that you want to allow users to send as. </p>
+<p> Select group delegation. </p>
+<p> In the Send on Behalf section, select the + sign to add the users that you want to send as the Group. </p>
+<p> Type to search or pick a user from the list. Select OK and Save. </p>
+<p> Related articles </p>
+<p> Is this page helpful? </p>
+<p> Yes No </p>
+<p> Any additional feedback? </p>
+<p> Feedback will be sent to Microsoft: By pressing the submit button, your feedback will be used to improve Microsoft products and services. Privacy policy. </p>
+<p> Skip Submit </p>
+<p> Thank you. </p>
+<p> Feedback </p>
+<p> Is this page helpful? </p>
+<p> Yes No </p>
+<p> Any additional feedback? </p>
+<p> Feedback will be sent to Microsoft: By pressing the submit button, your feedback will be used to improve Microsoft products and services. Privacy policy. </p>
+</doc>
+<doc id="file21596906" filename="article.page_kid_art17403309b2c" parent_folder="web1" url="https://www.ups.com/us/en/services/knowledge-center/article.page?kid=art17403309b2c">
+<p> How to Send a Certified Letter in Four Easy Steps </p>
+<p> Sending a certified letter with The UPS Store® services is easy and convenient, but what exactly is Certified Mail® and when might you use this service? </p>
+<p> What is Certified Mail® </p>
+<p> Certified Mail® is a service offered by the United States Postal Service (USPS) that provides both the sender with a mailing receipt and electronic verification that an article was delivered or that a delivery attempt was made. Signature confirmation can be requested at the time of mailing by requesting Return Receipt Service to the sender that the article was received. You can have the option of receiving the return receipt by mail or electronically for your convenience. </p>
+<p> In addition to Certified Mail®, many other USPS products are available at The UPS Store® locations. </p>
+<p> Why Send Certified Mail </p>
+<p> Perhaps you’re mailing a commercially sensitive letter or submitting legal or financial documents. Sending Certified Mail® offers peace of mind. It establishes a unique identifier such as a paper trail or electronic verification that the letter was sent and received. </p>
+<p> It’s difficult to claim that something was never actually sent if the record shows otherwise. </p>
+<p> How to Send Certified Mail </p>
+<p> Sending a Certified Mail letter with The UPS Store® is straightforward. Follow these four simple steps: </p>
+<p> 1. Visit The UPS Store location and ask to purchase *Certified Mail service with First-Class Mail®, First-Class Package Service or Priority Mail® </p>
+<p> 2. Complete a Certified Mail® slip or ask if it is available electronically. You may be asked to present proof of identity. </p>
+<p> 3. Select your desired mail service depending on how quickly you need the mail piece to arrive. Choose from a range of USPS delivery options available at The UPS Store®. You will receive a unique 18-digit USPS tracking number. </p>
+<p> 4. Go to USPS.com and enter your Certified Mail number or call the dedicated USPS service line to check on the delivery status of your letter. </p>
+<p> For peace of mind request proof of delivery by collecting a signature with a return receipt. The Certified Mail® Return Receipt - a green card attached to your certified mail piece - is mailed back to you once the recipient signs for the article. You may opt to receive email confirmation instead. </p>
+<p> Adding restricted delivery, adult signature required or adult signature restricted delivery are other options. With restricted delivery options, only the named recipient (or authorized agent), only an adult (individual that is 21 years of age or older) or only the specified recipient (or agent) who is 21 years of age or older can sign for the article. As a result, you know for sure that your addressee personally received the letter. </p>
+<p> Ask your The UPS Store® associate about the additional fees associated with these services. </p>
+<p> *Certified Mail, First-Class Mail, First-Class Package Service, and Priority Mail are trademarks owned by the United States Postal Service. </p>
+<p> Signature Required </p>
+<p> Remember that somebody needs to sign for Certified Mail®. If nobody at the address is available to sign, the postal worker is not permitted to deliver the letter. If the letter subsequently goes uncollected from the Post Office, it will be returned to sender. </p>
+<p> You can still send Certified Mail® to a P.O. Box address. The P.O. Box tenant will receive a notification to sign for the letter at the Post Office counter. </p>
+<p> Here to Help </p>
+<p> To send Certified Mail® or Certified Mail® Return Receipt, stop by any of the conveniently located The UPS Store locations and ask an associate for help. Take advantage of other USPS services available at The UPS Store, such as buying postage stamps and getting your photos and documents ready for your . </p>
+<p> Access a range of professional services offered by The UPS Store during your visit. From printing and packaging to mailboxes and shredding, The UPS Store is here to help. </p>
+<p> Make sending Certified Mail® easy while enjoying all The UPS Store has to offer. </p>
+<p> Related Topics </p>
+<p> Related Reading </p>
+<p> Find Out More </p>
+<p> The UPS Store </p>
+<p> Rely on The UPS Store® for all of your packing, shipping, printing, and small business needs. </p>
+<p> Expand Your Options with the UPS Access Point Network </p>
+<p> Receive packages at secure locations around the world, and right in your neighborhood. </p>
+<p> Get Your Deliveries on Your Schedule </p>
+<p> Track all your shipments in a calendar view, reroute or reschedule deliveries, leave driver instructions, and more. </p>
+<p> Email Examples </p>
+<p> Sign up for email offers, insights, and industry news that can help improve your shipping. You can manage your preferences at any time. </p>
+<p> News and Insights to help you ship smarter </p>
+<p> Service Updates to alert you to severe weather and events impacting operations </p>
+<p> Promotions and Offers to help you get the most for your money </p>
+<p> Product News to keep you up-to-date on new services, tools, and features </p>
+</doc>
+<doc id="file21596900" filename="cards" parent_folder="web1" url="https://www.postable.com/cards/">
+<p> Real Cards Mailed For You </p>
+<p> Sending snail mail from the post office is so 20th century. If you’re like us, and still absolutely love receiving mail, you’re probably wishing there was an easier way to send it. Oh wait! There is. It’s Postable. Sending a card no longer means having to go to the store and browse the poor card collection while your feet start to blister. No more standing in line at the post office and having to endure the sweat aromas of your neighboring post-office goers. To send a card in this day and age all you have to do is get online (and let’s be honest, when are you offline?). Choose a delightful designer card from Postable’s bewitching card collection, your feet won’t blister but your mind may get blown. You can even use one of our unbelievably believable handwritten fonts to write your very own personal message (sans ink smudge). Postable will print (on beautiful paper), stuff in envelope, and mail the card for you via traditional snail mail. Send a card in minutes with a click of a button without any unpleasant odors to deal with. The best part? All the cards are beautifully designed and curated to be the most epic collection of designer cards out there. If you’re going to send a card, Postable has pretty much got you covered. </p>
+<p> Get in touch! </p>
+<p> Get in touch </p>
+<p> Please login or sign up to add cards to your favorites list! </p>
+<p> Pricing Calculator </p>
+<p> Send more, spend less. </p>
+<p> Calculate </p>
+<p> Please note: Because our volume rates are so spectacularly low, they cannot be combined with discount codes. </p>
+<p> Cards with envelopes </p>
+<p> $2.25 per card </p>
+<p> $1,400.00 / Total </p>
+<p> including 55¢ domestic postage </p>
+<p> Postcards </p>
+<p> $1.32 per postcard </p>
+<p> $935.00 / Total </p>
+<p> including 55¢ domestic postage </p>
+<p> Please note: Because our volume rates are so spectacularly low, they cannot be combined with discount codes. </p>
+</doc>
+<doc id="file21596891" filename="change-the-account-used-to-send-email-messages-2bdd8d4f-e30f-4ec8-88a0-406ce7b23cc5" parent_folder="web1" url="https://support.microsoft.com/en-us/office/change-the-account-used-to-send-email-messages-2bdd8d4f-e30f-4ec8-88a0-406ce7b23cc5">
+<p> Change the account used to send email messages </p>
+<p> Outlook for Microsoft 365 Outlook 2019 Outlook 2016 Outlook 2013 More... Less </p>
+<p> If you have multiple accounts in Outlook, when you compose a new email message, Outlook picks the default account as the From account. However, if you want to Reply, Reply All, or Forward a message, Outlook will send your message with the same account the original mail was sent to. For example, Cheryl has two accounts. Her default account is cheryl.parsons64@outlook.com. Her second account is cheryl@contoso.com. If Cheryl receives an email message from Chester at her cheryl@contoso.com account, when she replies to Chester's message, her reply will be sent using cheryl@contoso.com. If she creates a new message to Chester that's not a reply or a forward, the message will be sent using her cheryl.parsons64@outlook.com account. </p>
+<p> You can change which account is used to send a message. </p>
+<p> In the message window, above to To button, click From. </p>
+<p> Click the account that you want to use. </p>
+<p> Why is the From button is missing? </p>
+<p> If you see the Send button, but don’t see the From button, the typical cause is that your Outlook profile contains only one email account. To view the From button, you'll need to add another email account. </p>
+<p> If you have multiple email accounts, you can add the From button manually. Once you add the From button, you can't remove it unless you remove all but one email account from Outlook. </p>
+<p> Create a new email message. </p>
+<p> Select Options, then select From in the Show Fields group on the ribbon. </p>
+<p> Change your default email account </p>
+<p> You can change your default email account using the following steps. </p>
+<p> Select File > Account Settings > Account Settings. </p>
+<p> From the list of accounts on the Email tab, select the account you want to use as the default account. </p>
+<p> Select Set as Default > Close. </p>
+<p> Always use the default email account for sending new email </p>
+<p> If you want to use the default email account when clicking New Email regardless what account or folder you start from use the following steps. </p>
+<p> Select File > Options > Mail. </p>
+<p> Under Send Messages, check the box Always use the default account when composing new messages. </p>
+<p> Select OK. </p>
+<p> Need more help? </p>
+<p> Was this information helpful? </p>
+<p> Yes No </p>
+<p> Great! Any other feedback? The more you tell us, the more we can help. How can we improve? The more you tell us, the more we can help. </p>
+</doc>
+<doc id="file21596892" filename="delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba" parent_folder="web1" url="https://support.microsoft.com/en-us/office/delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba">
+<p> Delay or schedule sending email messages </p>
+<p> Outlook for Microsoft 365, Outlook 2019, Outlook 2016, Outlook 2013, Outlook 2010 </p>
+<p> You can delay the delivery of an individual message or you can use rules to delay the delivery of all messages by having them held in the Outbox for a specified time after you click Send. </p>
+<p> Delay the delivery of a message </p>
+<p> While composing a message, select the More options arrow from the Tags group in the Ribbon. </p>
+<p> Under Delivery options, select the Do not deliver before check box, and then click the delivery date and time you want. </p>
+<p> Click Close. </p>
+<p> When you're done composing your email message, select Send. </p>
+<p> After you click Send, the message remains in the Outbox folder until the delivery time. </p>
+<p> If you decide later that you want to send the message immediately, do the following: </p>
+<p> Switch to the Outbox folder. </p>
+<p> Open the delayed message. </p>
+<p> Select the More options arrow from the Tags group in the Ribbon. </p>
+<p> Under Delivery options, clear the Do not deliver before check box. </p>
+<p> Delay the delivery of all messages </p>
+<p> You can delay the delivery of all messages by up to two hours by creating a rule. </p>
+<p> Click File. </p>
+<p> Click Manage Rules & Alerts. </p>
+<p> Click New Rule. </p>
+<p> In the Step 1: Select a template box, under Start from a Blank Rule, click Apply rule on messages I send, and then click Next. </p>
+<p> In the Step 1: Select condition(s) list, select the check boxes for any options that you want, and then click Next. </p>
+<p> If you do not select any check boxes, a confirmation dialog box appears. If you click Yes, the rule that you are creating is applied to all messages that you send. </p>
+<p> In the Step 1: Select action(s) list, select the defer delivery by a number of minutes check box. </p>
+<p> In the Step 2: Edit the rule description (click an underlined value) box, click the underlined phrase a number of and enter the number of minutes for which you want the messages to be held before it is sent. </p>
+<p> Delivery can be delayed up to 120 minutes. </p>
+<p> Click OK, and then click Next. </p>
+<p> Select the check boxes for any exceptions that you want. </p>
+<p> Click Next. </p>
+<p> In the Step 1: Specify a name for this rule box, type a name for the rule. </p>
+<p> Select the Turn on this rule check box. </p>
+<p> Click Finish. </p>
+<p> After you click Send, each message remains in the Outbox folder for the time that you specified. </p>
+<p> Delay the delivery of a single message </p>
+<p> In the message, on the Options tab, in the More Options group, click Delay Delivery . </p>
+<p> Click Message Options. </p>
+<p> Under Delivery options, select the Do not deliver before check box, and then click the delivery date and time that you want. </p>
+<p> After you click Send, the message remains in the Outbox folder until the delivery time. </p>
+<p> Note: If you are using a POP3 account, Outlook must remain open until the message is sent. To determine the type of account you are using, on the Tools menu, click Account Settings. On the E-mail tab, the Type column lists the type of accounts that are in your active Outlook profile. </p>
+<p> Delay the delivery of all messages </p>
+<p> On the Tools menu, click Rules and Alerts, and then click New Rule. </p>
+<p> In the Step 1: Select a template box, , under Start from a Blank Rule, click Check messages after sending, and then click Next. </p>
+<p> In the Step 1: Select condition(s) list, select any options that you want, and then click Next. </p>
+<p> If you do not select any check boxes, a confirmation dialog box appears. If you click Yes, the rule you are creating will be applied to all messages that you send. </p>
+<p> In the Step 1: Select action(s) list, select defer delivery by a number of minutes. </p>
+<p> In the Step 2: Edit the rule description (click an underlined value) box, click the underlined phrase a number of and enter the number of minutes for which you want the messages to be held before sending. </p>
+<p> Delivery can be delayed up to 120 minutes. </p>
+<p> Click OK, and then click Next. </p>
+<p> Select any exceptions that you want. </p>
+<p> Click Next. </p>
+<p> In the Step 1: Specify a name for this rule box, type a name for the rule. </p>
+<p> Select the Turn on this rule check box. </p>
+<p> Click Finish. </p>
+<p> After you click Send, each message remains in the Outbox folder for the amount of time you specified. </p>
+<p> Note: If you are using a POP3 account, Outlook must remain open until the message is sent. To determine the type of account you are using, on the Tools menu, click Account Settings. On the E-mail tab, the Type column lists the type of accounts that are in your active Outlook profile. </p>
+<p> Need more help? </p>
+<p> Was this information helpful? </p>
+<p> Yes No </p>
+<p> Great! Any other feedback? The more you tell us, the more we can help. How can we improve? The more you tell us, the more we can help. </p>
+</doc>
+<doc id="file21596886" filename="difference-between-send-and-sent" parent_folder="web1" url="http://www.differencebetween.net/language/grammar-language/difference-between-send-and-sent/">
+<p> Difference Between Send and Sent </p>
+<p> Verbs are words that express or convey action or the state of being. They are usually modified to evoke the tense, voice, mood, and aspect as well as agreement with the gender, person, and number of the subject. </p>
+<p> The tense is used to determine whether the action is done before, after, or right at the very moment that it is made or stated. There are three basic tenses in the English language; the present, past, and future tenses. Each of these tenses has a perfect form, a progressive form, and a perfect progressive form. Take the case of the verb “send,” for example. The verb “send” is defined as “to cause to go or to be taken somewhere.” It is synonymous with the words: dispatch, convey, transmit, transport, yield, deliver, direct, forward, mail, or remit. </p>
+<p> The word “send” comes from the old English word “sendan” which means “send, throw,” or “send forth.” It came from the Proto-Germanic word “sandijanan” which means “go” or “journey.” It also came from the Proto Germanic word “sandaz” meaning “that which is sent.” </p>
+<p> The simple present tense of the word is “send.” It expresses an action that is unchanging, reoccurring, and existing only at the moment. An example is the sentence: “Send my love and kisses to your parents and siblings.” Its progressive tense and future progressive tense is “sending.” The progressive tense indicates that the action is ongoing, and the future progressive tense indicates that the action is ongoing but is to take place in the future. </p>
+<p> Examples are: “I am sending my old books to him. I will be sending my old clothes to our church to be given to the victims of the fire.” </p>
+<p> The past tense of the word “send” is “sent.” It is also its past simple tense and past participle tense as well as its past progressive tense and past perfect progressive tense. The past tense “sent” indicates an action that has already taken place in the past. </p>
+<p> While most verbs form their past tense by adding “ed,” the verb “send” is an irregular verb and has a special past tense form wherein instead of adding “ed,” it changes its spelling. An example is this sentence: “I sent the letter yesterday.” </p>
+<p> More examples: “Please send the money now.” (Present) “I have been sending the money without fail.” (Perfect Progressive) “I already sent the money.” (Past) “I have sent the money last night.” (Past Progressive) </p>
+<p> Summary: </p>
+<p> 1.The word “send” is a verb which means “to cause to go or to be taken somewhere” while the word “sent” is a conjugation of the verb “send.” 2.The word “send” is the present perfect tense of the verb while the word “sent” is the past tense and past participle tense of the verb. 3.Both have progressive forms with the word “send” being used in its present form and the word “sent” in its past form. 4.“Send” is an irregular verb; that’s why instead of adding “ed” to form its past tense, it changes its spelling to form the word “sent.” </p>
+<p> Search DifferenceBetween.net : </p>
+<p> Custom Search </p>
+<p> Help us improve. Rate this post! (4 votes, average: 4.75 out of 5) </p>
+<p> Loading... </p>
+<p> Email This Post : If you like this article or our site. Please spread the word. Share it with your friends/family. </p>
+<p> Cite APA 7 M, E. (2016, June 8). Difference Between Send and Sent. Difference Between Similar Terms and Objects. http://www.differencebetween.net/language/grammar-language/difference-between-send-and-sent/. MLA 8 M, Emelda. "Difference Between Send and Sent." Difference Between Similar Terms and Objects, 8 June, 2016, http://www.differencebetween.net/language/grammar-language/difference-between-send-and-sent/. </p>
+<p> Why did you explain this so long? No need for describing what “verb” is etc. Just the last part is useful. </p>
+<p> Hey there, You’ve done a fantastic job. I will definitely digg it and personally suggest to my friends. </p>
+<p> I am sure they will be benefited from this website. </p>
+<p> If I have just dropped an email to someone and have to inform third person instantly than should I use send or sent? </p>
+<p> Leave a Response </p>
+<p> Please note: comment moderation is enabled and may delay your comment. There is no need to resubmit your comment. </p>
+<p> Notify me of followup comments via e-mail </p>
+<p> Written by : Emelda M. and updated on 2016, June 8 </p>
+<p> Articles on DifferenceBetween.net are general information, and are not intended to substitute for professional advice. The information is "AS IS", "WITH ALL FAULTS". User assumes all risk of use, damage, or injury. You agree that we have no liability for any damages. See more about : ESL, send, sent </p>
+</doc>
+<doc id="file21596898" filename="How-to-send-a-email" parent_folder="web1" url="https://www.instructables.com/How-to-send-a-email/">
+<p> How to Send an Email </p>
+<p> Introduction: How to Send an Email </p>
+<p> Introduction </p>
+<p> Knowing how to use the email is an important form of communication in today’s society. Compared to the old fashion mail and postal stamp, sending an email is faster, cheaper, and convenient. It is important to be able to send a message to inform or receive feedback from someone in a matter of seconds. </p>
+<p> This Instructable will show you how to send an email to someone of your choice. There are many email service providers you are able to use today and are bound to grow in the future, but in this Instructable the email service provider of choice will be Yahoo. </p>
+<p> Requirements before starting: </p>
+<p> access to a computer </p>
+<p> account that is set up with the provider </p>
+<p> Although we are using Yahoo in this example, please note that using other email provider, the steps listed here will be very similar if not the same steps required to send an email. </p>
+<p> NOTE: If you are unable access your account, please refer to other Instructables or online guides that will help troubleshoot your problem. </p>
+<p> NOTE: Due to popular belief, opening an email doesn't immediately infect you with a virus. It is only until you start interacting with the attachments and links it provides do your potential for risk increase. </p>
+<p> Add TipAsk QuestionCommentDownload </p>
+<p> Step 1: Sign Into Your Account </p>
+<p> Go to https://mail.yahoo.com/. Make sure the link you typed is correct. Login into your account with the correct Yahoo ID or your email address and password to match. </p>
+<p> Add TipAsk QuestionCommentDownload </p>
+<p> Step 2: Compose a New Email </p>
+<p> After logging in, you will see a similar interface of the example of your email account. Click compose to start creating an email. </p>
+<p> Add TipAsk QuestionCommentDownload </p>
+<p> Step 3: Write Recipient Email Address </p>
+<p> On this page, you will enter your message and to whom you will send the message. First enter the recipient email address. This email address is obtained from the recipient similar to how you need someone's physical address to send mail. </p>
+<p> Add TipAsk QuestionCommentDownload </p>
+<p> Step 4: Enter the Subject of the Email </p>
+<p> Enter the title or subject of the email below. </p>
+<p> Add TipAsk QuestionCommentDownload </p>
+<p> Step 5: Enter the Body </p>
+<p> Enter the body of the message in the box below the subject line. </p>
+<p> Add TipAsk QuestionCommentDownload </p>
+<p> Step 6: Send and Finish </p>
+<p> After typing up your message, confirm your recipient's email address. Just as having the wrong physical address of someone's home can result to the message being sent somewhere else, the incorrect email address can send it to someone else. After you checked all the information is correct, click send on the bottom and you have sent your email. </p>
+<p> Add TipAsk QuestionCommentDownload </p>
+<p> Step 7: Confirmation </p>
+<p> You can confirm if your email was sent by clicking the sent tab on the left. It will display all the email you have sent. If the email recently sent has not shown up or if you wish to send additional emails, please refer again to steps 2 through 5. Now you have sucessfully sent an email and confirmed it's delivery. </p>
+</doc>
+<doc id="file21596911" filename="how-to-send-a-lot-of-photos-over-email-a-step-by-step-guide" parent_folder="web1" url="https://zipso.net/how-to-send-a-lot-of-photos-over-email-a-step-by-step-guide/">
+<p> Email is still one of the easiest ways to keep in touch with someone, however it wasn’t originally designed for sending large multimedia files like photos. </p>
+<p> Use this step-by-step guide to avoid some common problems when sending large numbers of pictures via email. </p>
+<p> Although instant messaging services like Whatsapp are more popular than ever, email remains the universal online communications standard. </p>
+<p> But it’s not great at everything – if you’ve tried before to send a large number of big file attachments, you might have run into difficulties such as message rejections, failed sending and more. </p>
+<p> This problem only becomes more difficult as camera and smartphone image file sizes continue to increase. For the purpose of this article, we’re going to assume that you have a collection of image files, probably from the memory card of your compact camera. </p>
+<p> The same suggestions can apply to any collection of images, even from iPhone/Android phones or tablets, however for a large amount of image files, we recommend transferring them to a laptop or desktop first as it makes it easier to deal with compared to using a mobile device. </p>
+<p> 1. First, check the total size of the files you want to send </p>
+<p> Collect or copy all the photos you want to send into a single folder on your computer. If you only want to send specific photos out of a large batch, it’s worth creating a temporary folder and copying those photos into that folder, for easier management. </p>
+<p> Now, check the total size of the files you want to send. In Windows, you can do this by selecting all the files in the folder (you can press Ctrl-A while in the File Explorer window to select all files), then right-clicking on the selection, and choosing “Properties” (for Macs, see here for how to check the total size). </p>
+<p> Take a note of what the combined size is (in MB or GB), because you might need this to see if it’s over the file attachment size limits for your email provider (and you can also use it for estimating the time to upload below). </p>
+<p> 2. How long will it take to upload? </p>
+<p> If you’re on a slow or mobile Internet connection it’s sometimes useful to know how much time the file/attachment upload will take. We’ve made a useful little calculator to work this out, but first check your upload speed at speedtest.net for example. </p>
+<p> Now enter the total file size, and upload speed to get an upload time estimate. (for 1GB file size, enter 1000MB etc.) </p>
+<p> Upload time calculator File size: MB Your upload speed: </p>
+<p> Note that this is assuming that you’re connecting to an Internet mail service such as Gmail, Yahoo mail etc. – if you’re using a mail system that’s on a local network such as a corporate intranet, the upload speeds will usually be much faster. </p>
+<p> If it looks like it’s going to take too long to upload, try the next step, which can effectively reduce the upload time. </p>
+<p> 3. Reduce photo size if necessary </p>
+<p> If you’re not sending images that will be printed at some stage, it’s rarely necessary to send them as the original, full resolution versions. </p>
+<p> Even halving the photo dimensions will not usually reduce quality that much, and in many cases can even make photos look sharper (digital cameras frequently push the limits of their sensor resolution via interpolation when using the largest photo size modes). </p>
+<p> This will also significantly reduce the file size (and upload times) – you can reasonably expect files to be less than half of the original size (and up to 10 times smaller if the original was saved at too high a quality). </p>
+<p> You’ll probably want to use some software that can do this automatically for multiple images: </p>
+<p> Note – Unless you’re familiar with the process, it’s strongly recommended to work off a copy of your original photo files when batch resizing. That way you can always get back to the originals if there is a problem with the resizing process. </p>
+<p> Windows – A good option for batch photo resizing is Irfanview. After installing, select “Batch conversion/rename” from the File menu. There are a lot of options here, but all that needs to be done is select the image files from the file browser in the top-right, then click on “Add” to add them to the list of images to be processed (small note – there appears to be a bug in Irfanview where the “Add” button might not work when only a single file is selected. If this happens, you can instead double-click on the file to add it to the list). </p>
+<p> Now click on the “Use advanced options” checkbox, and then the “Advanced” button beside it. This will open a dialog with even more options, however, all that needs to be selected here is the “Resize” checkbox, then in the “Set new size as percentage of original” boxes, put in 50% (it will use this for both width and height). </p>
+<p> Click OK in the Advanced settings to go back to the Batch Conversion window. Now, the only other option to point out here is “Output directory for result files”. This is where the newly resized images are placed, so change it if necessary. Now click “Start Batch” and your images will be converted. </p>
+<p> Mac – You can easily resize images using the Preview tool, see here for details. Note that you can select “percent” instead of “pixels” to get more consistently resized images. </p>
+<p> Chromebook – Batch image resize options are currently a bit more limited on Chromebooks, however you could try the Bulk Resize Photos free Chrome Store app. </p>
+<p> 4. Put all the images into a single file </p>
+<p> If you have more than 5 or 6 photos to send, it’s going to be much easier to send them as a single archived file (e.g. ZIP file). </p>
+<p> To create file archives, we’re using 7-Zip (Windows) as it’s free and high performance, however there are many options available here. </p>
+<p> After installing, simply select all of the files you want to add, right-click on the group and “Add to archive..” (image above). It will create a single “.zip” file with all of your photos in it. </p>
+<p> On Macs, selected the files then Control-click and select “Create Archive”. For Chromebooks, see here. </p>
+<p> If you have previously resized the images, you may have two copies of each photo (small and large), so check that you’re only selecting the smaller versions when creating the archives. </p>
+<p> Creating a .zip file won’t change the image quality or size, but it will try to compress the data within the files. </p>
+<p> Since image files are usually already compressed (unless you are using raw format photos from digital SLRs), this won’t save much space, but it’s still convenient to have all of the images contained within a single archive file. </p>
+<p> 5. Send the photos </p>
+<p> Files can be sent as attachments within an email, but there are some restrictions – it’s similar to the way that parcels & packages in the postal system have a certain amount of capacity for items sent. </p>
+<p> Due to physical limitations on storage space and network bandwidth, email providers have upper limits on the maximum size of attachments that can be sent and/or received. For the most popular mail services, this is currently about 25MB per message, for both sending and receiving attachments. </p>
+<p> 25MB is not all that generous in terms of photo and video files, but at the same time, it becomes more difficult to handle large files when they are embedded within emails. To solve this problem, most email providers offer an alternative of uploading your large files to their online storage services (e.g. Google Drive), and then place a link to the file in the email when it has finished uploading. </p>
+<p> Since the files themselves are not actually being sent with the email (just the link to the files is sent), this allows for much larger 100s of MB files to be shared. </p>
+<p> Delivery failures </p>
+<p> Be aware that even though Gmail etc. may let you send attachments up to 25MB within mails, some email services may have lower limits, even for incoming emails. This can be especially true if you’re sending mails to corporate or commercial email addresses, where there are often more restricted limits in place. </p>
+<p> If your email is over the recipient’s attachment size limit, you will in most cases receive an error message back from their mail system stating this. Note that this only means that the delivery failed to that specific addresss – if you have sent the mail to a group of other people then they most likely received it fine, and it doesn’t need to be re-sent to them. </p>
+<p> In this case, you can try again but attach the file using Google Drive, Dropbox or OneDrive. </p>
+<p> We’ll go through the process of attaching our .zip archive file in each of Google Mail, Outlook and Yahoo mailers: </p>
+<p> Gmail </p>
+<p> Start a new mail, and click on the paperclip icon to attach files. The attachment size limit for Gmail is 25MB, however, if your file is larger than this, it will ask you if you want to send it using Google Drive, where the file size can be up to 10GB (10000MB). </p>
+<p> If you’re sending using Google Drive, it will show you the files you have currently uploaded. So click on the “Upload” tab and select the file to upload again if necessary, and click on the blue “Upload” button below. </p>
+<p> You will need to leave the browser tab open in either case while uploading, however it will continue uploading in the background if you simply switch to another tab or window. </p>
+<p> When the upload is finished, if you are attaching the file with Google Drive, it may ask you if you want to share this file with the recipient. Clicking on the default option here, “Share & Send” should be ok in most cases, it means that the person you’re sending the file to can see that file on your Google Drive storage area, but not any other files you may have there (unless you previously shared them). </p>
+<p> In this case, the recipients don’t need a Gmail or Google account to see your attachment once it’s shared, in fact they just need the link in the email. Be aware that access to your file is just like a normal attachment or image link – if the email is forwarded again, other recipients can click on and access or download the file attachment from Google Drive. </p>
+<p> If you select “Send without sharing”, the recipient may have to go through a further step of requesting access to the file. This may be useful where you need to send a file link to a group of people, but you only want to grant access to someone if they then specifically request it after they click on the link. In this case, the recipient will need to login to a Google (but not necessarily Gmail) account in order to request access. </p>
+<p> A slightly confusing new feature in Gmail is the ability to send files stored on Google Drive as a standard “Attachment” instead of “Drive Link” (see example below). </p>
+<p> This Attachment option is largely pointless for files that are not already on Google Drive, since you can just click the paperclip icon in Gmail to upload attachments directly, however if you’re in the habit of using Google Drive to store your files (for example, Chromebook users), this might be a useful option, since normal attachments remain permanently with the email they were sent with, whereas you might delete some files on your Google Drive at some stage, which could prevent shared files from being accessible at some stage in the future. </p>
+<p> Outlook.com (aka Hotmail) </p>
+<p> Create a new email, then click on the “Insert” option from the menu at the top. If your total file size is less than 25MB, select “Files as attachments” and upload the file. </p>
+<p> If your files are greater than 25MB, it will prompt you to use OneDrive, which is Microsoft’s online storage service. It’s slightly less integrated with email compared to Google’s version, since one you arrive at the OneDrive page, you’ll need to select the file for uploading once again, so if you know the file is too big to be sent as an attachment, it’s better to select the “Share from OneDrive” option in Outlook when composing your mail. </p>
+<p> After uploading, the file will appear on the OneDrive page, however now you have to go back to your email in Outlook.com, and select “Insert” and “Share from OneDrive”. You can then select the file to send with the email. </p>
+<p> Receiving files sent via OneDrive – Like Google Drive, you can send files to people using OneDrive, and they don’t need a OneDrive account to see them or download them. </p>
+<p> Yahoo mail </p>
+<p> Although it was reported some time back that Yahoo had got rid of attachment limits in email, this isn’t exactly true. For files over 25MB, you’re prompted to use Dropbox to store the file before sending the email. </p>
+<p> This works in much the same way as the Google and Microsoft online storage services – you can access the files later as a separate virtual drive or folder on your computer, but the recipient doesn’t necessarily need any login details to be able to open the files you send them in an email. </p>
+<p> Alternatives to using email </p>
+<p> The universal nature of email is still a huge feature compared to other services – you don’t need to ask anyone what software or system they’re on before sending files to them. </p>
+<p> However many people find that dedicated file applications are a better option when frequently sharing files with the same recipient or group. </p>
+<p> Social networks and photo sharing sites such as Facebook, Google+, Flickr, Picasa and Instagram. These sites will usually let you organise photos into albums, and set access permissions for different people. They tend to be better suited for sharing photos on a periodic, social basis, instead of sharing a lot of photos at once. </p>
+<p> Messaging services such as Skype can often transfer files, however this usually requires that the other user is online at the same time. </p>
+<p> Using online storage services such as Google Drive, Microsoft OneDrive, Apple iCloud Photo Sharing and Dropbox outside of email. These services are designed to make files easily accessible, and can be very efficient when each party is using them to the full extent (for example, downloading the client program on each service in order to add a remote folder to their system). </p>
+<p> Image credits: Waterfall photo courtesy of Gareth Thomas (Creative Commons 2.0 BY-ND license). Microsoft Outlook icon courtesy dAKirby309. </p>
+<p> Share: </p>
+<p> 20 Comments </p>
+<p> Can anyone give an indication on how one can send a large file of photos? Downloaded the 7-Z and still cant, even after when I compressed it all into a zip file. I usually can sort myself out but this one is simply beyond me. </p>
+<p> Not sure that there is a best way, but one thing you could try is installing the Google Photos app on the iPhone. It will then upload all of your photos to https://photos.google.com (may take some time). </p>
+<p> When it’s finished, you can go to the above address in a web browser, then click on individual photos, click on “More options” and select “Add to a shared album”. After creating the album, you can then get a link for sharing which you can send in an email. Anyone clicking on the link will be brought to the shared album page. </p>
+<p> If you want to share all of the photos without creating a shared album, you can click on the drop-down menu on the top-left of photos.google.com, then click Settings and “Shared libraries” to set it up. </p>
+<p> Google doesn’t ask to send via cloud, it just refuses to send the email, saying “File size is too large, 25GB limit.” </p>
+<p> My respect and appreciation to the person or persons who wrote this guide. So well tuned to my questions and needs, which I hope are representative of many of us who aren’t dumb, and aren’t technophiles either. Thanks. </p>
+<p> I have used picasa for years, and now can no longer send photos . Why stop or change something that worked so well. Now i dont know what to do….it has now become too complicated to send photos to family and friends especially not being computer savy. </p>
+<p> I had no problem sending pics to relatives, etc. with Windows XP. PLEEZE, someone bring back a user-friendly computer like Windows XP. </p>
+<p> I don’t think it’s because people are computer illiterate are having trouble with the simplest of tasks as sending attachments, I think it’s because the people who are making them are making them for, perhaps themselves, rather than the average person. Makes me want to quit buying computers and go back to the good ‘ol cameras, even Poloroids, that make hard copies and send them via mail. This world is going too fast anyway. </p>
+<p> Anyway, thanks for your help, sorry, I had to vent. I will probably try some of your ideas on this crummy Dell Windows 10 computer. </p>
+<p> I too am not very computer literate. I am 64 and retired. I believe the negative of resizing is the image sucks for the person receiving. Especially if they want to view full screen or worse yet – print it. And sending a lot of photos – my god – the time frame is ridiculous in terms of what it takes to work with the files. And online services – well – you get minimal free space then you are stuck joining / buying space and uploading a lot of photos will take forever. I think it is way easier to get a large capacity thumb drive and copy the photos then MAIL it ! You will spend I/100 the time. </p>
+<p> Thank you. It was most helpful. I am 80 years old and am very comnputer illiterate. Best Regards Richard Chia </p>
+<p> That is foolishness, Google is just outdated. It takes forever to attach 2 GB of pictures. After all this upgrade…google is still unable to suit our needs </p>
+<p> Picasa was still the best ever program to send all your photos , STUPID Google stopped suporting it , now to send Photos you have to log on to google , and google Photos is not much help , </p>
+<p> Thank you for this guide. Very helpfull as many people send huge emails with original images from camera – often very large. Few months back I found free tool called SqueezeFile (www.squeezefile.com), which does most of what you. Right-click on photo allows you to resize and optimize it to preffered size. What’s more it contains an Outlook add-on which allows you to optimize attachments at the time of composing message and there’s no need to preprocess files before adding them into email. It also works with pptx or docx files… </p>
+<p> This is really helpful, it is always a big mess when i try to send large files of images… </p>
+</doc>
+<doc id="file21596895" filename="how-to-send-a-text-from-your-email-account" parent_folder="web1" url="https://www.digitaltrends.com/mobile/how-to-send-a-text-from-your-email-account/">
+<p> How to send a text message from your email account </p>
+<p> With all the myriad methods of messaging available to us online and on our mobile phones, sometimes it’s easy to forget that some older methods of SMS still exist. Like the pneumatic tubes in mailrooms from days of old, the pneumatic tube of texting is sending an SMS via e-mail. If you’re ever in a pinch and without your phone for whatever reason, here is a guide on sending a text message via e-mail. </p>
+<p> How to send text messages via email </p>
+<p> This guide will walk you through a few different methods to send a text from your email. If you find yourself sending texts through email often, you might want to download our recommended extension to make your life a little easier. </p>
+<p> Sending an email as an SMS </p>
+<p> Step 1: Using the email client of your choice, compose your email. You can use either your smartphone or your computer to write it. </p>
+<p> Step 2: Instead of entering an email address in the recipient box, insert the 10-digit phone number of the person you’re trying to reach. </p>
+<p> Step 3: Once entered, tack on the appropriate “@gateway” address behind the phone number. Below, we’ve put together a list of some of the most common service providers in the United States and their corresponding gateway addresses. </p>
+<p> Keep in mind that if you’re trying to send an email that’s more than 160 characters long, it will often be sent through the Multimedia Message Service (MMS). If the person you’re messaging doesn’t have a messaging plan that includes Multimedia Messaging, then they will not receive the message, or they may be charged an extra fee to open the message. Some carriers also offer email to MMS gateways — detailed in the table above — so if you’d like to send a message that’s more than 160 characters, use an MMS gateway instead of an SMS gateway. </p>
+<p> One other thing to note is that some carriers don’t operate their own mobile networks. In the list above, Boost, Cricket Wireless, Republic Wireless, Straight Talk, Ting, and Tracfone are mobile virtual network operators (MVNO). This means they piggyback on other operators’ cell towers, depending on where you are in the United States. Because of this, you may sometimes need to enter a gateway address belonging to either Sprint, T-Mobile, Verizon, AT&T, rather than those in the above list. </p>
+<p> Download an extension for faster texting </p>
+<p> There is a Chrome extension that is specifically designed to help you send texts from Gmail. If you use Gmail and send a whole lot of emails as text messages, this little extension is a valuable — and free — download. </p>
+<p> The extension is called Send Your Email to SMS (text), and you can download it here if you are currently in the Chrome browser. All it does is simply add a little phone icon to your Gmail email window. If you type out the email that you want to send and then click the phone icon it will bring up your list of Gmail contacts and you can search through it to find the person you want to text. You also have the option to add a new phone number just by typing it in. </p>
+<p> This feature will format your email automatically for texting. You will receive replies on your Gmail box, and you can answer to carry on a conversation with a mobile user. It’s not that useful if you don’t use Gmail, but for regular users with a lot of contacts in Gmail, this extension makes email-to-text so much easier and more efficient — and you don’t have to worry about carrier codes. The app also allows you to reverse the process and get text alerts for important emails that you receive in Gmail, which may be nice if you are on the go and need to follow a particular email conversation. </p>
+<p> We should point out that Gmail and Google Calendar also tie in with the If This Then That (IFTTT) smart device management system. That means you can set up IFTTT to schedule a text using Google Voice, for example. If you have IFTTT set up, it’s typically a faster option than going through the whole process with email. </p>
+<p> Use web app services (business-friendly) </p>
+<p> A vast range of online services and apps provide solutions for sending texts via email. Message Media is one of our favorites since it makes the process very simple. The is used primarily for business communication. It supports SMS, RCS, MMS, Messenger, and WhatsApp messages. You can try it for free to see if you like it, but you’ll need to sign up for a monthly subscription to continue use after the trial period. </p>
+<p> Message Media is somewhat similar to using carrier codes, but it has even more additional convenient features. Perhaps the most useful of all is the feature that allows you to see your original message and subsequent responses, so you can quickly track a conversation. If you want to text international phone numbers, you can use the app for that too. For an additional cost, you can access even more features to help you with your business communication needs, such as alpha tags for identifying senders, text-to-voice, dedicated numbers, and other handy extras. </p>
+</doc>
+<doc id="file21596888" filename="how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365" parent_folder="web1" url="https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365">
+<p> How to set up a multifunction device or application to send email using Microsoft 365 or Office 365 </p>
+<p> This article explains how you can send email from devices and business applications when all of your mailboxes are in Microsoft 365 or Office 365. For example: </p>
+<p> You have a scanner, and you want to email scanned documents to yourself or someone else. </p>
+<p> You have a line-of-business (LOB) application that manages appointments, and you want to email reminders to clients of their appointment time. </p>
+<p> Option 1 (recommended): Authenticate your device or application directly with a Microsoft 365 or Office 365 mailbox, and send mail using SMTP AUTH client submission </p>
+<p> Note </p>
+<p> This option is not compatible with Microsoft Security Defaults or multi-factor authentication (MFA). If your environment uses Microsoft Security Defaults or MFA, we recommend using Option 2 or 3 below. </p>
+<p> This option supports most usage scenarios and it's the easiest to set up. Choose this option when: </p>
+<p> You want to send email from a third-party hosted application, service, or device. </p>
+<p> You want to send email to people inside and outside your organization. </p>
+<p> To configure your device or application, connect directly to Microsoft 365 or Office 365 using the SMTP AUTH client submission endpoint smtp.office365.com. </p>
+<p> Each device or application must be able to authenticate with Microsoft 365 or Office 365. The email address of the account that's used to authenticate with Microsoft 365 or Office 365 will appear as the sender of messages from the device or application. </p>
+<p> How to set up SMTP AUTH client submission </p>
+<p> Enter the following settings directly on your device or in the application as their guide instructs (it might use different terminology than this article). As long as your scenario meets the requirements for SMTP AUTH client submission, the following settings will enable you to send email from your device or application. </p>
+<p> Enter the sign in credentials of the hosted mailbox being used </p>
+<p> TLS and other encryption options </p>
+<p> Determine what version of TLS your device supports by checking the device guide or with the vendor. If your device or application does not support TLS 1.2 or above: </p>
+<p> Use direct send (Option 2) or Microsoft 365 or Office 365 SMTP relay (Option 3) for sending mail instead (depending on your requirements). </p>
+<p> Use an on-premises Exchange server (or another SMTP email server) if your device is unable to meet the previous requirements for connecting to Microsoft 365 or Office 365. In fact, you might find it easier to manage multiple devices and applications that send email messages in an on-premises Exchange server instead of connecting them all to Microsoft 365 or Office 365 directly. The Exchange server would relay messages in the same way that a device would use Microsoft 365 or Office 365 to relay messages using Option 3 below. You can find out more about configuring your own email server to send emails to Microsoft 365 or Office 365 here: Set up connectors to route mail between Microsoft 365 or Office 365 and your own email servers. </p>
+<p> Note </p>
+<p> If your device recommends or defaults to port 465, it does not support SMTP AUTH client submission. </p>
+<p> How SMTP AUTH client submission works </p>
+<p> The following diagram gives you a conceptual overview of what your environment will look like. </p>
+<p> Features of SMTP AUTH client submission </p>
+<p> SMTP AUTH client submission allows you to send email to people in your organization and outside your company. </p>
+<p> This method bypasses most spam checks for email sent to people in your organization. This can help protect your company IP addresses from being blocked by a spam list. </p>
+<p> With this method, you can send email from any location or IP address, including your (on-premises) organization's network, or a third-party cloud hosting service, like Microsoft Azure. </p>
+<p> Requirements for SMTP AUTH client submission </p>
+<p> Authentication: You must be able to configure a username and password to send email on the device. You cannot use Microsoft Security Defaults or multi-factor authentication (MFA), which disable basic authentication and are designed to protect your users from compromise. If your environment uses Microsoft Security Defaults or MFA, we recommend using Option 2 or 3 below. </p>
+<p> Mailbox: You must have a licensed Microsoft 365 or Office 365 mailbox to send email from. </p>
+<p> Transport Layer Security (TLS): Your device must be able to use TLS version 1.2 and above. </p>
+<p> Port: Port 587 (recommended) or port 25 is required and must be unblocked on your network. Some network firewalls or ISPs block ports, especially port 25. </p>
+<p> DNS: You must use the DNS name smtp.office365.com. Do not use an IP address for the Microsoft 365 or Office 365 server, as IP Addresses are not supported. </p>
+<p> Limitations of SMTP AUTH client submission </p>
+<p> You can only send from one email address unless your device can store login credentials for multiple Microsoft 365 or Office 365 mailboxes. Microsoft 365 or Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day. </p>
+<p> Option 2: Send mail directly from your printer or application to Microsoft 365 or Office 365 (direct send) </p>
+<p> Choose this option when: </p>
+<p> Your environment uses Microsoft Security Defaults or multi-factor authentication (MFA). </p>
+<p> SMTP client submission (Option 1) is not compatible with your business needs or with your device. </p>
+<p> You only need to send messages to recipients in your own organization who have mailboxes in Microsoft 365 or Office 365; you don't need to send email to people outside of your organization. </p>
+<p> Other scenarios when direct send may be your best choice: </p>
+<p> You want your device or application to send from each user's email address and do not want each user's mailbox credentials configured to use SMTP client submission. Direct send allows each user in your organization to send email using their own address. </p>
+<p> Avoid using a single mailbox with Send As permissions for all your users. This method is not supported because of complexity and potential issues. </p>
+<p> You want to send bulk email or newsletters. Microsoft 365 or Office 365 does not allow you to do this via SMTP client submission. Direct send allows you to send a high volume of messages. </p>
+<p> Note that there is a risk of your email being marked as spam by Microsoft 365 or Office 365. You might want to enlist the help of a bulk email provider to assist you. For example, they'll help you adhere to best practices, and can help ensure that your domains and IP addresses are not blocked by others on the internet. </p>
+<p> Settings for direct send </p>
+<p> Enter the following settings on the device or in the application directly. </p>
+<p> Device or application setting </p>
+<p> Value </p>
+<p> Port 25 </p>
+<p> TLS/StartTLS </p>
+<p> Optional </p>
+<p> Any email address for one of your Microsoft 365 or Office 365 accepted domains. This email address does not need to have a mailbox. </p>
+<p> We recommend adding an SPF record to avoid having messages flagged as spam. If you are sending from a static IP address, add it to your SPF record in your domain registrar's DNS settings as follows: </p>
+<p> DNS entry </p>
+<p> Value </p>
+<p> SPF </p>
+<p> Step-by-step instructions for direct send </p>
+<p> If your device or application can send from a static public IP address, obtain this IP address and make a note of it. You can share your static IP address with other devices and users, but don't share the IP address with anyone outside of your company. Your device or application can send from a dynamic or shared IP address but messages are more prone to antispam filtering. </p>
+<p> Go to Settings > Domains, select your domain (for example, contoso.com), and find the MX record. </p>
+<p> The MX record will have a Points to address or value value that looks similar to . </p>
+<p> Make a note of the MX record Points to address or value value, which we refer to as your MX endpoint. </p>
+<p> Go back to the device, and in the settings, under what would normally be called Server or Smart Host, enter the MX record POINTS TO ADDRESS value you recorded in step 4. </p>
+<p> Note </p>
+<p> Do NOT use an IP address for the Microsoft 365 or Office 365 server connection, as IP addresses are not supported. </p>
+<p> Now that you are done configuring your device settings, go to your domain registrar's website to update your DNS records. Edit your sender policy framework (SPF) record. In the entry, include the IP address that you noted in step 1. The finished string looks similar to this: </p>
+<p> where 10.5.3.2 is your public IP address. </p>
+<p> Note </p>
+<p> Skipping this step might cause email to be sent to recipients' junk mail folders. </p>
+<p> To test the configuration, send a test email from your device or application, and confirm that the recipient received it. </p>
+<p> How direct send works </p>
+<p> In the following diagram, the application or device in your organization's network uses direct send and your Microsoft 365 or Office 365 mail exchange (MX) endpoint to email recipients in your organization. It's easy to find your MX endpoint in Microsoft 365 or Office 365 if you need to look it up. </p>
+<p> You can configure your device to send email direct to Microsoft 365 or Office 365. Use direct send to relay email to recipients with Microsoft 365 or Office 365 mailboxes in your organization. Direct send also works for external recipients with mailboxes in Microsoft 365 or Office 365. If your device uses direct send to try to relay an email for a recipient who doesn't have a Microsoft 365 or Office 365 mailbox, the email will be rejected. </p>
+<p> Note </p>
+<p> If your device or application has the ability to act as a email server to deliver messages to Microsoft 365 or Microsoft 365 or Office 365 as well as other email providers, there are no Microsoft 365 or Office 365 settings needed for this scenario. Consult your device or application instructions for more information. </p>
+<p> Features of direct send </p>
+<p> Uses Microsoft 365 or Office 365 to send emails, but does not require a dedicated Microsoft 365 or Office 365 mailbox. </p>
+<p> Doesn't require your device or application to have a static IP address. However, this is recommended if possible. </p>
+<p> Doesn't work with a connector; never configure a device to use a connector with direct send, this can cause problems. </p>
+<p> Doesn't require your device to support TLS. </p>
+<p> Direct send has higher sending limits than SMTP client submission. Senders are not bound by the 30 messages per minute or 10,000 recipients per day limit. </p>
+<p> Requirements for direct send </p>
+<p> Port: Port 25 is required and must be unblocked on your network. </p>
+<p> Static IP address is recommended: A static IP address is recommended so that an SPF record can be created for your domain. This helps avoid your messages being flagged as spam. </p>
+<p> Does not require a Microsoft 365 or Office 365 mailbox with a license. </p>
+<p> Limitations of direct send </p>
+<p> Direct send cannot be used to deliver email to external recipients, for example, recipients with Yahoo or Gmail addresses. </p>
+<p> Your messages will be subject to antispam checks. </p>
+<p> Sent mail might be disrupted if your IP addresses are blocked by a spam list. </p>
+<p> Microsoft 365 and Office 365 use throttling policies to protect the performance of the service. </p>
+<p> Option 3: Configure a connector to send mail using Microsoft 365 or Office 365 SMTP relay </p>
+<p> This option is more difficult to implement than the others. Only choose this option when: </p>
+<p> Your environment uses Microsoft Security Defaults or multi-factor authentication (MFA). </p>
+<p> SMTP client submission (Option 1) is not compatible with your business needs or with your device </p>
+<p> You can't use direct send (Option 2) because you must send email to external recipients. </p>
+<p> SMTP relay lets Microsoft 365 or Office 365 relay emails on your behalf by using a connector that's configured with your public IP address or a TLS certificate. Setting up a connector makes this a more complicated option. </p>
+<p> Settings for Microsoft 365 or Office 365 SMTP relay </p>
+<p> Device or application setting </p>
+<p> Value </p>
+<p> Server/smart host </p>
+<p> Your MX endpoint, for example, yourdomain-com.mail.protection.outlook.com </p>
+<p> Port 25 </p>
+<p> TLS/StartTLS </p>
+<p> Enabled </p>
+<p> Any email address in one of your Microsoft 365 or Office 365 verified domains. This email address does not need a mailbox. </p>
+<p> If you already have a connector that's configured to deliver messages from your on-premises organization to Microsoft 365 or Office 365 (for example, a hybrid environment), you probably don't need to create a dedicated connector for Microsoft 365 or Office 365 SMTP relay. If you need to create a connector, use the following settings to support this scenario: </p>
+<p> Your organization's email server </p>
+<p> Your on-premises IP address or address range that the device or application will use to connect to Microsoft 365 or Office 365 </p>
+<p> We recommend adding an SPF record to avoid having messages flagged as spam. If you are sending from a static IP address, add it to your SPF record in your domain registrar's DNS settings as follows: </p>
+<p> DNS entry </p>
+<p> Value </p>
+<p> SPF </p>
+<p> Step-by-step configuration instructions for SMTP relay </p>
+<p> Obtain the public (static) IP address that the device or application with send from. A dynamic IP address isn't supported or allowed. You can share your static IP address with other devices and users, but don't share the IP address with anyone outside of your company. Make a note of this IP address for later. </p>
+<p> Go to Settings > Domains, select your domain (for example, contoso.com), and find the MX record. </p>
+<p> The MX record will have a Points to address or value value that looks similar to . </p>
+<p> Make a note of the MX record Points to address or value value, which we refer to as your MX endpoint. </p>
+<p> Check that the domains that the application or device will send to have been verified. If the domain is not verified, emails could be lost, and you won't be able to track them with the Exchange Online message trace tool. </p>
+<p> In Microsoft 365 or Office 365, select Admin and then Exchange to go to the Exchange admin center. </p>
+<p> In the Exchange admin center, go to Mail flow > Connectors. </p>
+<p> Check the list of connectors set up for your organization. If there is no connector listed from your organization's email server to Microsoft 365 or Office 365, create one: </p>
+<p> a. To start the wizard, click the plus symbol +. </p>
+<p> b. On the first screen, choose the options that are depicted in the following screenshot: </p>
+<p> c. Click Next, and give the connector a name. </p>
+<p> d. On the next screen, choose the option By verifying that the IP address of the sending server matches one of these IP addresses that belong to your organization, and add the IP address from step 1. </p>
+<p> e. Leave all the other fields with their default values, and select Save. </p>
+<p> Now that you are done with configuring your Microsoft 365 or Office 365 settings, go to your domain registrar's website to update your DNS records. Edit your SPF record. Include the IP address that you noted in step 1. The finished string should look similar to this , where 10.5.3.2 is your public IP address. Skipping this step can cause email to be sent to recipients' junk mail folders. </p>
+<p> Now, go back to the device, and in the settings, find the entry for Server or Smart Host, and enter the MX record POINTS TO ADDRESS value that you recorded in step 3. </p>
+<p> To test the configuration, send a test email from your device or application, and confirm that it was received by the recipient. </p>
+<p> Configure a certificate-based connector to relay email through Microsoft 365 or Office 365 </p>
+<p> If your devices or applications are capable of using a certificate for mail flow, you can configure a certificate-based connector to relay email through Microsoft 365 or Office 365. </p>
+<p> To do this, verify the subject name on the certificate used by the sending device or application. The common name (CN) or subject alternative name (SAN) in the certificate should contain a domain name that you have registered in Microsoft 365 or Office 365. Also, you must create a certificate-based connector in Microsoft 365 or Office 365 with this same domain name to accept and relay emails coming from these devices, applications, or any other on-premises server. For more information about this method, see important notice for email customers who have configured connectors. </p>
+<p> How Microsoft 365 or Office 365 SMTP relay works </p>
+<p> In the following diagram, the application or device in your organization's network uses a connector for SMTP relay to email recipients in your organization. </p>
+<p> The Microsoft 365 or Office 365 connector that you configure authenticates your device or application with Microsoft 365 or Office 365 using an IP address. Your device or application can send email using any address (including ones that can't receive mail), as long as the address uses one of your domains. The email address doesn't need to be associated with an actual mailbox. For example, if your domain is contoso.com, you could send from an address like do_not_reply@contoso.com. </p>
+<p> Microsoft 365 or Office 365 SMTP relay uses a connector to authenticate the mail sent from your device or application. This allows Microsoft 365 or Office 365 to relay those messages to your own mailboxes and external recipients. Microsoft 365 or Office 365 SMTP relay is similar to direct send except that it can send mail to external recipients. </p>
+<p> Due to the added complexity of configuring a connector, direct send is recommended over Microsoft 365 or Office 365 SMTP relay, unless you must send email to external recipients. To send email using Microsoft 365 or Office 365 SMTP relay, your device or application server must have a static IP address or address range. You can't use SMTP relay to send email directly to Microsoft 365 or Office 365 from a third-party hosted service, such as Microsoft Azure. For more information, see Troubleshoot outbound SMTP connectivity issues in Azure. </p>
+<p> Features of Microsoft 365 or Office 365 SMTP relay </p>
+<p> Microsoft 365 or Office 365 SMTP relay does not require the use of a licensed Microsoft 365 or Office 365 mailbox to send emails. </p>
+<p> Microsoft 365 or Office 365 SMTP relay has higher sending limits than SMTP client submission; senders are not bound by the 30 messages per minute or 10,000 recipients per day limits. </p>
+<p> Requirements for Microsoft 365 or Office 365 SMTP relay </p>
+<p> Static IP address or address range: Most devices or applications are unable to use a certificate for authentication. To authenticate your device or application, use one or more static IP addresses that are not shared with another organization. </p>
+<p> Connector: You must set up a connector in Exchange Online for email sent from your device or application. </p>
+<p> Port: Port 25 is required and must not be blocked on your network or by your ISP. </p>
+<p> Licensing: SMTP relay doesn't use a specific Microsoft 365 or Office 365 mailbox to send email. This means that users must have their own licenses if they send email from devices or applications that are configured for SMTP relay. If you have senders who use a device or LOB application and those senders do not have Microsoft 365 or Office 365 mailbox licenses, obtain and assign an Exchange Online Protection license to each unlicensed sender. This is the least expensive license that allows you to send email via Microsoft 365 or Office 365. </p>
+<p> Limitations of Microsoft 365 or Office 365 SMTP relay </p>
+<p> Sent mail can be disrupted if your IP addresses are blocked by a spam list. </p>
+<p> Yes, if the mail is destined for one of your Microsoft 365 or Office 365 mailboxes. </p>
+<p> No. Suspicious emails might be filtered. We recommend a custom Sender Policy Framework (SPF) record. </p>
+<p> No. Suspicious emails might be filtered. We recommend a custom SPF record. </p>
+<p> Supports mail sent from applications hosted by a third party </p>
+<p> Yes </p>
+<p> Yes. We recommend updating your SPF record to allow the third party to send as your domain. </p>
+<p> Microsoft 365 or Office 365 username and password required </p>
+<p> None </p>
+<p> One or more static IP addresses. Your printer or the server running your LOB app must have a static IP address to use for authentication with Microsoft 365 or Office 365. </p>
+<p> SMTP client submission </p>
+<p> Direct send </p>
+<p> SMTP relay </p>
+<p> 10,000 recipients per day. 30 messages per minute. </p>
+<p> Standard throttling is in place to protect Microsoft 365 or Office 365. </p>
+<p> Reasonable limits are imposed. The service can't be used to send spam or bulk mail. For more information about reasonable limits, see High-risk delivery pool for outbound messages. </p>
+<p> Use your own email server to send email from multifunction devices and applications </p>
+<p> If you happen to have an on-premises email server, you should seriously consider using that server for SMTP relay instead of Microsoft 365 or Office 365. A local email server that you have physical access to is much easier to configure for SMTP relay by devices and applications on your local network. The details about how to do this depend on your on-premises email server. For Exchange Server, see the following articles: </p>
+<p> Related articles </p>
+<p> Is this page helpful? </p>
+<p> Yes No </p>
+<p> Any additional feedback? </p>
+<p> Feedback will be sent to Microsoft: By pressing the submit button, your feedback will be used to improve Microsoft products and services. Privacy policy. </p>
+<p> Skip Submit </p>
+<p> Thank you. </p>
+<p> Feedback </p>
+<p> Is this page helpful? </p>
+<p> Yes No </p>
+<p> Any additional feedback? </p>
+<p> Feedback will be sent to Microsoft: By pressing the submit button, your feedback will be used to improve Microsoft products and services. Privacy policy. </p>
+</doc>
+<doc id="file21596905" filename="php_sending_emails.htm" parent_folder="web1" url="https://www.tutorialspoint.com/php/php_sending_emails.htm">
+<p> PHP - Sending Emails using PHP </p>
+<p> PHP must be configured correctly in the php.ini file with the details of how your system sends email. Open php.ini file available in /etc/ directory and find the section headed [mail function]. </p>
+<p> Windows users should ensure that two directives are supplied. The first is called SMTP that defines your email server address. The second is called sendmail_from which defines your own email address. </p>
+<p> The configuration for Windows should look something like this − </p>
+<p> Linux users simply need to let PHP know the location of their sendmail application. The path and any desired switches should be specified to the sendmail_path directive. </p>
+<p> The configuration for Linux should look something like this − </p>
+<p> Now you are ready to go − </p>
+<p> Sending plain text email </p>
+<p> PHP makes use of mail() function to send an email. This function requires three mandatory arguments that specify the recipient's email address, the subject of the the message and the actual message additionally there are other two optional parameters. </p>
+<p> Sr.No </p>
+<p> Parameter & Description </p>
+<p> 1 </p>
+<p> Required. Specifies the receiver / receivers of the email </p>
+<p> 2 </p>
+<p> subject </p>
+<p> Required. Specifies the subject of the email. This parameter cannot contain any newline characters </p>
+<p> 3 </p>
+<p> message </p>
+<p> Required. Defines the message to be sent. Each line should be separated with a LF (\n). Lines should not exceed 70 characters </p>
+<p> 4 </p>
+<p> headers </p>
+<p> Optional. Specifies additional headers, like From, Cc, and Bcc. The additional headers should be separated with a CRLF (\r\n) </p>
+<p> 5 </p>
+<p> parameters </p>
+<p> Optional. Specifies an additional parameter to the send mail program </p>
+<p> As soon as the mail function is called PHP will attempt to send the email then it will return true if successful or false if it is failed. </p>
+<p> Multiple recipients can be specified as the first argument to the mail() function in a comma separated list. </p>
+<p> Sending HTML email </p>
+<p> When you send a text message using PHP then all the content will be treated as simple text. Even if you will include HTML tags in a text message, it will be displayed as simple text and HTML tags will not be formatted according to HTML syntax. But PHP provides option to send an HTML message as actual HTML message. </p>
+<p> While sending an email message you can specify a Mime version, content type and character set to send an HTML email. </p>
+<p> Example </p>
+<p> Following example will send an HTML email message to xyz@somedomain.com copying it to afgh@somedomain.com. You can code this program in such a way that it should receive all content from the user and then it should send an email. </p>
+<p> Sending attachments with email </p>
+<p> To send an email with mixed content requires to set Content-type header to multipart/mixed. Then text and attachment sections can be specified within boundaries. </p>
+<p> A boundary is started with two hyphens followed by a unique number which can not appear in the message part of the email. A PHP function md5() is used to create a 32 digit hexadecimal number to create unique number. A final boundary denoting the email's final section must also end with two hyphens. </p>
+</doc>
+<doc id="file21596899" filename="schedule-emails-in-outlook-1173683" parent_folder="web1" url="https://www.lifewire.com/schedule-emails-in-outlook-1173683">
+<p> Schedule an Email to Be Sent at a Later Time in Outlook </p>
+<p> Delay delivery of your Outlook emails for a more appropriate time </p>
+<p> A former freelance contributor who has reviewed hundreds of email programs and services since 1997. </p>
+<p> Christine Baker is a marketing consultant with experience working for a variety of clients. Her expertise includes social media, web development, and graphic design. </p>
+<p> What to Know </p>
+<p> Go to Options > Delay Delivery, then select the Do not deliver before check box in the Properties dialog. Set a date and time for delivery. </p>
+<p> To change the delivery time or date, go to the Outbox folder, open the email, and select Options > Delay Delivery. </p>
+<p> To delay delivery for all emails, select the File tab, go to Rules and Alerts > Manage Rules & Alerts, and create a custom rule. </p>
+<p> This article explains how to schedule an email in Outlook. Instructions apply to Outlook 2019, 2016, 2013, 2010, and Outlook for Microsoft 365. </p>
+<p> Scheduling Delayed Delivery of Emails in Outlook </p>
+<p> Select New Email. Or choose an existing email and select Reply, Reply All, or Forward. </p>
+<p> In the message window, compose and address the message. </p>
+<p> Go to the Options tab and select Delay Delivery. </p>
+<p> In the Properties dialog, under Delivery options, select the Do not deliver before check box. </p>
+<p> Set the date and time you want the email to be sent. </p>
+<p> Select Close. </p>
+<p> In the message window, select Send. </p>
+<p> Go to the Outbox folder to find the email messages that are scheduled but have not yet been sent. </p>
+<p> To change the delivery time or date, open the email in a separate window, select Options > Delay Delivery, and reschedule a different send time. </p>
+<p> To send a scheduled email immediately, open the message in a separate window, return to the Delay Delivery screen, uncheck the box next to Do not deliver before, and then press Close followed by Send. </p>
+<p> Create a Send Delay for All Emails </p>
+<p> You can create an email message template that automatically includes a send delay for all messages you create and send. This is handy if you often make a change to an email you just sent, or you've sent an email that you regretted sending hastily. </p>
+<p> By adding a default delay to all your emails, you prevent them from being sent immediately. This gives you an opportunity to make changes or cancel them if it's within the delay you create. </p>
+<p> To create an email template with a send delay: </p>
+<p> Go to the File tab. </p>
+<p> Under Info > Rules and Alerts, select Manage Rules & Alerts. </p>
+<p> In the Rules and Alerts, go to the Email Rules tab and select New Rule. </p>
+<p> In the Rules Wizard, go to the Start from a blank rule section, select Apply rule on messages I send, then select Next. </p>
+<p> In the Select condition(s) list, select the check boxes for options that you want to apply to sent messages. To apply a delay send to all messages, clear all the check boxes. Then select Next. </p>
+<p> If you cleared all the check boxes, a confirmation box appears. Select Yes to apply the rule to all sent messages. </p>
+<p> In the Select action(s) list, select the defer delivery by a number of minutes check box. </p>
+<p> In the Edit the rule description list, select a number of. </p>
+<p> In the Deferred Delivery dialog box, enter the number of minutes you want to delay emails before they are sent. The maximum is 120 minutes. Then select OK. </p>
+<p> In the Rules Wizard, select Next. </p>
+<p> Select any exceptions, then select Next. </p>
+<p> In the Specify a name for this rule text box, type a descriptive name. </p>
+<p> Select the Turn on this rule check box if it isn't already checked. </p>
+<p> Select Finish. </p>
+<p> In the Rules and Alerts dialog box, select OK to apply the changes. </p>
+<p> When you select Send for any email, it is stored in the Outbox or Drafts folder where it waits the specified amount of time before being sent. </p>
+<p> What Happens If Outlook Is Not Running at the Delivery Time? </p>
+<p> If Outlook is not open and running at the time a message reaches its scheduled delivery time, the message is not delivered. The next time you launch Outlook, the message is sent immediately. </p>
+<p> What Happens If There Is No Internet Connection at the Delivery Time? </p>
+<p> If you are not connected to the internet at the time of scheduled delivery and Outlook is open, Outlook attempts to deliver the email at the specified time, but it will fail. You will see an Outlook Send/Receive Progress error window. </p>
+<p> Outlook also automatically attempts to send again, though, at a later time. When the connection is restored, Outlook sends the message. </p>
+<p> If Outlook is set to work in offline mode at the scheduled time of delivery, Outlook automatically sends as soon as the account used for the message is working online again. </p>
+<p> Your Privacy Rights </p>
+<p> Lifewire and our third-party partners use cookies and process personal data like unique identifiers based on your consent to store and/or access information on a device, display personalized ads and for content measurement, audience insight, and product development. To change or withdraw your consent choices for Lifewire.com, including your right to object where legitimate interest is used, click below. At any time, you can update your settings through the "EU Privacy" link at the bottom of any page. These choices will be signaled globally to our partners and will not affect browsing data. List of Partners (vendors) </p>
+<p> We and our partners process data to: </p>
+<p> Actively scan device characteristics for identification. Use precise geolocation data. Store and/or access information on a device. Select personalised content. Create a personalised content profile. Measure ad performance. Select basic ads. Create a personalised ads profile. Select personalised ads. Apply market research to generate audience insights. Measure content performance. Develop and improve products. List of Partners (vendors) </p>
+</doc>
+<doc id="file21596890" filename="sendbeatsto.com" parent_folder="web1" url="https://sendbeatsto.com/">
+<p> I create amazing beats. </p>
+<p> SendBeatsTo makes it easy for you to send your beats to anyone looking for beats (artists, labels, video producers etc.) and track them from wherever you are in the world. </p>
+<p> Upload Beats </p>
+<p> Upload all your beats to have access to them whenever you need. </p>
+<p> Send Beats </p>
+<p> Send your beats to artists looking for beats from any device at anytime from anywhere. </p>
+<p> Keep Track </p>
+<p> Know what happens to your beats after you've sent them. </p>
+<p> 7,141 </p>
+<p> Artists </p>
+<p> 6,997 </p>
+<p> Placement Opportunities </p>
+<p> 1,257GB </p>
+<p> of Beats Stored </p>
+<p> Placement Opportunities </p>
+<p> Send beats to and get placements with artists and rappers looking for beats. </p>
+<p> Ric Hassani is "...heavily influenced by 90's R&B. Usher Raymond, Brian McKnight, Mario, Ne-yo and ofcourse, Boys II men... </p>
+<p> Street Music real trap music .New school Trap a Moe 3 mixed with Future mixed with Lil Baby Mixed with MoneyBag Yo mixe... </p>
+<p> Khalil is looking for Melodic Guitars / Mid Tempo Vibes Beats for a new project. At present, we don't have any details a... </p>
+<p> Tayf3rd is looking for Ratchet Beats for a new project. At present, we don't have any details as to what the new proj... </p>
+<p> What others are saying </p>
+<p> @Raekwon @SendBeatsToHQ goodlooks on giving upcoming comin producers a chance to be heard </p>
+<p> @EttaBond @SendBeatsToHQ cheers for the heads up, this does look very good indeed. similarities to splice, which you should check out. </p>
+<p> Shout to @SendBeatsToHQ thank u for providing dis service for beat submission...organizes n labels tracks w/producer contact info! </p>
+<p> Aye if you're a producer you need to fw @SendBeatsToHQ, they get these beats out to these artists looking and easy </p>
+<p> HUGE S/O To the Fam over at @SendBeatsToHQ .. Helping us bridge the Gap #WORK </p>
+<p> — Untouchable Mgmt Grp (@WeUntouchableUK) March 27, 2015 </p>
+<p> @SendBeatsToHQ thank you, I was wondering why my email started blowin up, God bless. </p>
+<p> @SendBeatsToHQ Awesome thanks! Glad to be a part of it, the concept of the site is awesome, looking forward to see how it grows! </p>
+<p> 125 beats sent! I've been up all night working on the script for this film and listening tracks! Keep sending. https://t.co/NehG3ZLYhS </p>
+<p> Shout out to @SendBeatsToHQ and whoever put my name in the reel. Silent support is just as appreciated, thank you!! </p>
+<p> I need amazing beats. </p>
+<p> SendBeatsTo makes it easy for you to source beats that match the perfect sound you are looking for from thousands of music producers around the world. </p>
+<p> Request Beats </p>
+<p> Tell music producers exactly what sound you're looking for. </p>
+<p> Receive Beats </p>
+<p> Listen to and Download all beats you receive directly from your email inbox and SendBeatsTo account. </p>
+<p> Create </p>
+<p> Get on with creating your new project with your newly received beats. </p>
+</doc>
+<doc id="file21596909" filename="Send-Photos-Via-Email-_Windows" parent_folder="web1" url="https://www.wikihow.com/Send-Photos-Via-Email-%28Windows%29">
+<p> Log in </p>
+<p> Social login does not work in incognito and private browsers. Please log in with your username or email to continue. </p>
+<p> This article was co-authored by our trained team of editors and researchers who validated it for accuracy and comprehensiveness. wikiHow's Content Management Team carefully monitors the work from our editorial staff to ensure that each article is backed by trusted research and meets our high quality standards. </p>
+<p> The wikiHow Tech Team also followed the article's instructions and verified that they work. </p>
+<p> This wikiHow teaches you how to use Windows' built-in email application to send photos in Windows 10, 8, 7, Vista and XP. </p>
+<p> Most Internet service providers (ISPs) restrict the size of attachments, so if you're sending multiple pictures, it may be a good idea to send several emails with a few attachments. </p>
+<p> Click Send in the upper-right. Your pictures will be sent to the person to whom the email is addressed. </p>
+<p> Click the paper clip icon at the top of the screen. This opens the "File Picker" window. </p>
+<p> Click the "Send" button at the top of the screen. It's an envelope icon with lines behind it. Your pictures will be sent to the person to whom the email is addressed. </p>
+<p> Click Attach. Doing so launches your email application and attaches the pictures you selected. </p>
+<p> Click Send in the upper-left of the window. Your pictures will be sent to the person to whom the email is addressed. </p>
+<p> Click Attach. Doing so launches your email application and attaches the pictures you selected. </p>
+<p> Click Send in the upper-left of the window. Your pictures will be sent to the person to whom the email is addressed. </p>
+<p> This method works for photos with file sizes that are greater than 64 KB. You can check the file size of the photo by right-clicking the file and selecting "Properties." </p>
+<p> Choose a file size for your photos. If you'd like to send smaller photo files, click the "Make all my pictures smaller" radio button. </p>
+<p> Click Send in the upper-left of the window. Your pictures will be sent to the person to whom the email is addressed. </p>
+<p> Advertisement </p>
+<p> Community Q&A </p>
+<p> How can I send the pictures from my phone through an email? </p>
+<p> Community Answer </p>
+<p> Click on the paper clip (attachments), choose your picture (file), click on it and press send when it appears on your email. </p>
+<p> How do I know if my email with photos has been sent and received? </p>
+<p> Community Answer </p>
+<p> To see if an email has been sent, you should be able to check your "sent" folder. To find out whether it's been received, you'll pretty much just have to wait for the recipient to let you know. </p>
+<p> I find no option of email in task bar when I want to send a photo. </p>
+<p> Community Answer </p>
+<p> At the bottom of the email, it might display a picture of a paper clip. That is an option to send an attachment. You should be able to hit the attachment button and it should let you pick a file or folder to send as an attachment to the email. </p>
+<p> How can I take a picture from my picture folder and send it through an email? </p>
+<p> Community Answer </p>
+<p> There should an attachment button that looks like a paper clip. When you press it, just find the image you want to attach and send it through. </p>
+<p> About This Article </p>
+<p> This article was co-authored by our trained team of editors and researchers who validated it for accuracy and comprehensiveness. wikiHow's Content Management Team carefully monitors the work from our editorial staff to ensure that each article is backed by trusted research and meets our high quality standards. This article has been viewed 493,981 times. </p>
+<p> 1. Open the Windows Mail app. 2. Click New Mail. 3. Enter a recipient, subject, and message. 4. Click Insert. 5. Click Pictures. 6. Open the Pictures folder. 7. Select a picture and click Attach. 8. Click Send. </p>
+<p> Thanks to all authors for creating a page that has been read 493,981 times. </p>
+<p> Is this article up to date? </p>
+<p> Yes No </p>
+<p> Advertisement </p>
+<p> Cookies make wikiHow better. By continuing to use our site, you agree to our cookie policy. </p>
+<p> By signing up you are agreeing to receive emails according to our privacy policy. </p>
+</doc>
+<doc id="file21596907" filename="send-sent-send-irregular-verb" parent_folder="web1" url="https://www.vanachteren.net/2008/03/10/send-sent-send-irregular-verb/">
+<p> Send sent send – irregular verb </p>
+<p> I will send the cake tomorrow. I sent the cake yesterday. I have sent you all the info. </p>
+<p> So it’s: send sent sent and not send sent send </p>
+<p> Share this: </p>
+<p> By Leendert </p>
+<p> Leendert van Achteren is a Business Analyst and part-time Web Entrepreneur. He's building and managing websites with SEO in mind He's writing about anything that has his interest, but especially focusing on market transparency for consumers. </p>
+<p> 12 replies on “Send sent send – irregular verb” </p>
+<p> Please change the header! It’s very misleading. I’ve sent an e-mail with that error, in the attempt to cross-check it by googl-ing it out. Unfortunately, it was one of the first results!!! </p>
+<p> ah! my brain explodes every time I see something ‘being send’, ‘is send’ etc!! </p>
+<p> And what about I will make sure it is send to the XXX (in future) I will make sure it is sent to the XXX (in future). </p>
+<p> Or I will make sure it will be send to the XXX (in future) I will make sure it will be sent to the XXX (in future) </p>
+<p> Messages are being sent? </p>
+<p> Still not fixed the post title! Still high on google result page! </p>
+<p> thats right! and you’r nr. 1 position in google when looking for sent send !!! keep it up 😉 </p>
+<p> But you haven’t changed the header, Leendert. </p>
+<p> You´re completely right Ray. I changed the post. Thanks! </p>
+<p> This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Reject Read More </p>
+<p> Privacy & Cookies Policy </p>
+<p> Close </p>
+<p> Privacy Overview </p>
+<p> This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience. </p>
+<p> Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. </p>
+<p> Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. </p>
+</doc>
+<doc id="file21596896" filename="showthread.php_16325-I-tried-to-send-sent" parent_folder="web1" url="https://www.englishpage.net/showthread.php?16325-I-tried-to-send-sent">
+<p> If this is your first visit, be sure to check out the FAQ by clicking the link above. You may have to register before you can post: click the register link above to proceed. To start viewing messages, select the forum that you want to visit from the selection below. </p>
+<p> I tried to send/sent </p>
+<p> Hi, What is correct? "I tried to send" or "I tried to sent" It seems to me that the first one is correct, but I don't know why... Yours, Arianne </p>
+<p> Hi, What is correct? "I tried to send" or "I tried to sent" It seems to me that the first one is correct, but I don't know why... Yours, Arianne </p>
+<p> Yes, you are correct that the proper form is, - I tried to send ... The root (infinitive) form of the verb is "send", and that is the form that you need as the complement of "try to" or "tried to". The other form that you mentioned, "sent", is the simple past tense form of the verb "send". It does not work in the sentence you gave. You would use "sent" as a main past tense verb in a sentence like, - I sent a package to my friend last week. </p>
+</doc>
+<doc id="file21596897" filename="www.filemail.com" parent_folder="web1" url="https://www.filemail.com/">
+<p> Send Large Files Free - Fast Secure File Transfer </p>
+<p> Share large files up to 5 GB free using email or a secure link </p>
+<p> Share Files Of Any Size With A Filemail Subscription </p>
+<p> Secure file transfers </p>
+<p> We give you the most secure file sending service with data encryption, 2-factor authentication and virus scanning. </p>
+<p> Track your shared files </p>
+<p> Easily keep track of sent and received files so you know who, when and where your files got downloaded. </p>
+<p> Transfer Acceleration </p>
+<p> Filemail has its own custom-made transfer protocol that offers blazing fast transfer speeds. Benchmarking shows that we outperform most other file transfer services by far! </p>
+<p> Privacy Compliant </p>
+<p> Globally distributed servers mean you can choose what region to host files in. Comply with national regulations and your company policy. </p>
+<p> Integrate Filemail on your website </p>
+<p> Receive large files from customers directly at your own webpage. Simply add one line of HTML - we'll take care of the rest! </p>
+<p> Customization and branding </p>
+<p> Easily upload your own logo, background images and change the color scheme of buttons and other visual elements. These simple steps make the webpage and emails look just right. </p>
+<p> File Sharing Apps & Plugins </p>
+<p> Work smarter. Automate. Integrate. Boost Productivity. </p>
+<p> Filemail Desktop </p>
+<p> Send files and folders directly from your desktop or integrate it into your applications. Windows, Mac, Linux & Unix! </p>
+<p> Filemail Outlook Addin </p>
+<p> Our addin lets you send large files directly from Outlook. It's fast, secure and very easy to use. Outlook 2013/2016/2019 supported. </p>
+<p> Filemail iPhone/iPad App </p>
+<p> Email large files and videos directly from your iPhone/iPad! No registration required! </p>
+<p> Filemail Android App </p>
+<p> Email large files and videos directly from your Android device - phones and tablets are supported. </p>
+<p> Note: Free to use - no account/registration required! </p>
+<p> Integrate Filemail on your website </p>
+<p> With our business account you can integrate our Uploader and also place the Download Page on your own site. Custom Fields can be added, and you can specify your own Javascript/CSS to completely branded/customize Filemail to to fit your needs. </p>
+<p> Branding And Emails </p>
+<p> All Filemail customers can easily upload their own logo, background images and change the color scheme of buttons and other visual elements. These simple steps make the webpage and emails look just right. </p>
+<p> Filemail API </p>
+<p> Are you a developer? Use our API to send large files! </p>
+<p> Integrate Filemail on your website </p>
+<p> Simply add one line of HTML - we'll take care of the rest! </p>
+<p> Receive large files from customers directly at your own webpage. </p>
+<p> Use our Form Builder to customize and add your own fields to the form. </p>
+<p> Files are securely uploaded to our cloud. Works on all platforms, websites and webservers. </p>
+</doc>
+<doc id="file21596902" filename="www.sendmybag.com" parent_folder="web1" url="https://www.sendmybag.com/">
+<p> As the leading luggage courier and delivery service we are 100% committed to delivering the best service everytime. For leisure, students, relocation - everyone. </p>
+<p> ✓Best price guaranteed. </p>
+<p> ✓Chat online 7 days a week. </p>
+<p> ✓Free label holders. </p>
+<p> ✓One click tracking and free cover upgrade with our App. </p>
+<p> Fast & affordable door to door delivery of your bags & boxes to over 100 countries </p>
+<p> How it works </p>
+<p> Worldwide luggage shipping services </p>
+<p> Our Luggage Courier and Delivery Service </p>
+<p> Send My Bag® allows you to send luggage around the world, whether you are relocating abroad, going on an extended trip, or moving away to college or university. Using a luggage shipping service means you can travel luggage free while still having as much luggage with you as you like! </p>
+<p> By sending your baggage you get to skip long queues at the airport and avoid paying extortionate airline baggage fees. In fact, research has revealed Send My Bag® to be better value than Ryanair and the best value luggage shipping service in the UK. </p>
+<p> To ensure the best possible luggage delivery service for our customers, we are pleased to announce two very simple pledges: </p>
+<p> We guarantee our door to door luggage shipping service won’t be beaten on price. </p>
+<p> We guarantee your express service item within the United Kingdom & Europe will arrive on time or your money back. </p>
+<p> Reviews </p>
+<p> Our Destinations </p>
+<p> Send My Bag® is an online luggage delivery service that allows you to send luggage internationally, offering affordable prices and peace of mind with online tracking. </p>
+<p> Are you a student? </p>
+<p> Why Use a Luggage Delivery Company? </p>
+<p> Send luggage cheap </p>
+<p> Checking several bags onto your flight can be extremely costly, especially if you go over your ticket’s baggage allowance. This can make travelling away for a long period of time, or moving abroad indefinitely, a tricky process. This problem is solved by using Send My Bag® to send all your bags to your destination, no matter how many you have. You can do so at cheap, affordable prices, which means you don’t need to think twice about packing that extra outfit or spare pair of shoes. Get a quick quote now. </p>
+<p> Use a Luggage Courier service to avoid airlines’ high baggage fees </p>
+<p> In a world where airline luggage allowances are slowly decreasing, but charges for excess baggage are rapidly on the rise, airline customers are often disappointed with the very small amount of luggage they can take with them on their trips. Many passengers choose budget airlines in a bid to save money, only to discover that they have to pay extra in order to bring anything other than a small item of hand luggage. Or, passengers travelling on skiing, surfing or golfing holidays may find that their outsized equipment and excess luggage are refused by the airline unless an extortionate excess baggage charge is paid. Check out your airline’s baggage fees here. </p>
+<p> Send your excess baggage shipping for your next holiday or year abroad </p>
+<p> This is where Send My Bag® comes in. We offer excess baggage shipping around the world, whether you’re sending golf clubs to Portugal, shipping surf boards to Australia, or you need to send luggage containing home comforts for a year studying abroad. We offer excellent rates, with discounts for student shipping, so you don’t need to fear the wrath of your airline’s excess baggage charges. </p>
+<p> Send baggage for a hassle-free journey </p>
+<p> Why not send your luggage to make your journey more manageable? If you ship your baggage, you can avoid long hours queuing at check-in desks and luggage carousels. Getting to and from the airport is also a breeze when you send your luggage ahead, as you can easily jump onto public transport without all your baggage in tow. If you are afraid that your airline will lose your baggage en route, you can rest assured that Send My Bag® will forward your unaccompanied baggage to your destination safe and sound. </p>
+<p> International luggage Delivery service </p>
+<p> Send My Bag® is a luggage delivery service that offers routes all over the world, sending to and from the UK, the US, Europe, Asia, Africa, South America and many more. You don’t need to worry that your luggage will go missing in transit, either, as Send My Bag® allow you to track your bag through both local and international couriers until delivery. Our drivers can collect right from your doorstep and deliver to most major cities within 1-2 days. </p>
+<p> Ship luggage at the click of a button </p>
+<p> Send My Bag® has a quick quote tool that estimates a delivery date for your luggage, and provides our best rates for shipping excess luggage internationally at the click of a button. Booking your luggage delivery with us couldn’t be easier. Our instructions guide you seamlessly through the booking process, helping you fill out any necessary custom forms and providing you with handy tips on how to pack your bags and what not to send. Booking your cheap luggage delivery is a speedy process that can be completed within 5 minutes. Find out how it works! </p>
+</doc>
+<doc id="file21596904" filename="www.sendtransfer.com" parent_folder="web1" url="https://www.sendtransfer.com/">
+<p> Send Large Files Through,Transfer BIG files up to 10GB </p>
+<p> Add Files To Transfer </p>
+<p> Expiry Settings </p>
+<p> Add recipients & message </p>
+<p> Add your email & Notify upon download </p>
+<p> Sending... </p>
+<p> 0% </p>
+<p> 1MB / 1MB </p>
+<p> current speed: NaN </p>
+<p> NaN </p>
+<p> Send </p>
+<p> How to send large files via email? </p>
+<p> 1) Add files you wish to send by clicking on "Add Files To Transfer" 2) Add recipients and optionally a message. 3) Click "Send" </p>
+<p> SendTransfer - Send Large Files Through </p>
+<p> Sending large files has always been a problem, but SendTransfer has brought about a solution; It has brought a means to send large files to people for free. The best part being that there is no limit to the number of files you can send and there is also no limit to the number of recipients. So now, you can send large files across towns, cities, countries without carrying any physical drive such as memory sticks. </p>
+<p> To send large files using SendTransfer involves very easy steps, such as inputting your email as the sender, the recipients email and then attaching the file. Once this is done, you can send a large file to a number of people, depending on the number of recipients you have in mind. The ease with which this happens is as a result of outstanding technological methods used at SendTransfer and this will further develop data communication such that both neighbors and oversea clients can receive and send large files. </p>
+<p> One of the best aspects of this service is that it is free to access and easy to use for everyone and anyone and unlike most of the other email platforms and websites used in transferring files, the download and upload algorithm allows for really fast data transfer. Another aspect is that it doesn’t require users to own accounts before they are able to use the services, it asks for three simple details, and the transfer process begins. This unprecedented ease makes the platform a must use for both experienced internet users and beginners. So with the absence of restrictions on file sizes that can be transferred, with the lack of the need to zip folders in order to send data; it is evident that SendTransfer is the best way to send large files anywhere and to anyone. </p>
+<p> Got a giant file? Send large files regardless of size and format. Do you really need another thing to log into or register for? How about memorizing another password? With SendTransfer, registering an account isn't needed. Feel free to send big files up to 10GB to your friends, your family, and coworkers. No limits here. For serious. There's no limit to how many files you can send or share. Each large file transfer is automatically stored up to 14 days. Send large files to friends, transfer reports to coworkers, share study guides for students, or Tweet a resume to the world! -- did we mention it's FREE? </p>
+<p> No Plans - No Payments </p>
+<p> For every single data transfer up to 10GB, you can utilize SendTransfer for free and without limit. With just a few clicks, you can send large files for free and online. SendTransfer let you upload single or multiple documents. There will be no waiting time when downloading and uploading. This provides dependable, usability and excellent loading speed of large files. </p>
+<p> Features & Benefits </p>
+<p> SendTransfer comes with 10GB of storage space; this permits you to drop any form of external drives. With SendTransfer, you can comfortably send large files to an alternate email as a way of saving them, thus eradicating the need, DVDs, memory sticks. </p>
+<p> It is also very easy to use and requires no account creation. With the click of a few buttons, you can send documents all over to the world. And the best part, this service comes free, without any limits to the number of times you can use the service also. </p>
+<p> About </p>
+<p> The SendTransfer website is free to use, providing customers with an opportunity to send large files of any kind, in a fast and secure manner. </p>
+<p> How Does It Work </p>
+<p> SendTransfer is easy to use, as there is no need to create an account or give any other details apart from the required email addresses. It is also really simplified such that even people without technical knowledge can easily use the service. </p>
+<p> When sending large files all that is required is the recipient's email address as well as yours, then the selected file(s) are uploaded to a cloud-based solution. The speed of the upload is fast when the client uses a high-speed Internet connection; with files of small sizes getting uploaded within seconds and large files getting sent within 30mins. The uploaded files are maintained in the website's cloud-based servers for a period, which ranges from between 7 – 14 days. During this period, the recipient is expected to download the files. </p>
+<p> With SendTransfer, there is no restriction to upload or download speeds all that is required is that both parties have a high-speed connection. </p>
+<p> Just follow the headlines from the left side and then click the Send Button. </p>
+<p> Contact </p>
+<p> Name (required) Email (required) Message (required) </p>
+</doc>

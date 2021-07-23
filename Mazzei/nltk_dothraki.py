@@ -7,7 +7,7 @@ parser = load_parser(text_file, trace=0)
 sentence = 'Anha zhilak yera'
 sentence2 = 'Anha gavork'
 sentence3 = 'Hash yer astoe ki Dothraki'
-tokens = sentence.split()
+tokens = sentence3.split()
 for tree in parser.parse(tokens):
     print("Label: "+str(tree.label()['SEM'])+"\n")
     print(tree)
