@@ -4,8 +4,6 @@ import pprint
 import numpy
 import warnings
 from collections import Counter
-import stanfordnlp
-stanfordnlp.download('en')
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
@@ -47,7 +45,7 @@ def print_result(word, intersection_list, similarity, percentage=False):
     print("\n\n")
 
 
-def calculate_normal_similarity(meamings_map):
+def calculate_normal_similarity(meanings_map):
     for word in meanings_map:
         definition_lists = meanings_map.get(word)
         sum_len = 0
@@ -87,8 +85,10 @@ def get_cosine_sim(meanings_map):
 
 
 def get_vectors(text):
+    # Son presenti dei warning di tipo FutureWarning:
+    # From version 1.0 (renaming of 0.25) passing these as positional arguments will result in an error
+    # per agevolare la lettura li filtriamo
     with warnings.catch_warnings():
-        # ignore all caught warnings
         warnings.filterwarnings("ignore")
         vectorizer = CountVectorizer(text)
         vectorizer.fit(text)
@@ -101,6 +101,7 @@ if __name__ == "__main__":
     #       create a list of words filtering punctuation, stop words and appling stemmatization and lowercase
     preprocessing(meanings_map)
     get_cosine_sim(meanings_map)
+    #calculate_normal_similarity(meanings_map)
     #calculate_percentage_similarity(meanings_map, 0.5)
     #get_cosine_sim(meanings_map)
     #pprint.pprint(meanings_map['Paper'])

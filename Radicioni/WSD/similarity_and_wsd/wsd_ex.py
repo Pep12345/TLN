@@ -58,8 +58,12 @@ def read_stop_words():
 # uso lemma per rimuovere le stop words
 def extract_words_from_sentence(sentence):
     global stop_words
+    if len(stop_words) ==0:
+        read_stop_words()
     lemmatizer = WordNetLemmatizer()
-    sentence = sentence[0].lower() + sentence[1:]
+    sents = nltk.sent_tokenize(sentence)
+    sents = [s[0].lower() + s[1:] for s in sents]   # rimuovo la prima lettera maiuscola per non perdere nomi propri
+    sentence = ' '.join(sents)
     return [word for word in nltk.tokenize.word_tokenize(sentence)
                 if word.isalnum() and lemmatizer.lemmatize(word) not in stop_words]
 
@@ -78,7 +82,7 @@ def compute_overlap(signature, context):
     counter = 0
     for word in context:
         for sign in signature:
-            if porter.stem(word) == porter.stem(sign):
+            if porter.stem(word.lower()) == porter.stem(sign.lower()):
             #if lemmatizer.lemmatize(word) == lemmatizer.lemmatize(sign):
                 counter += 1
     return counter
@@ -141,7 +145,7 @@ def execute_test(list_words_for_sentence):
 
 
 if __name__ == "__main__":
-    sw = read_stop_words()
+    read_stop_words()
     file_name = '/brown1/tagfiles/br-a01.xml'
     k = 50 # indice per il numero di iterazioni
 

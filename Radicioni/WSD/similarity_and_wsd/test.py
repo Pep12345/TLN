@@ -2,12 +2,15 @@ from nltk.corpus import wordnet as wn
 import csv, os, math
 import numpy as np
 import scipy.stats
-## domande
- ## 1) money,cash è ripetuta nel dataset
- ## 2) posso usare formule similarità wn o devo scriverle a mano?
- ## perchè dog[1] come antenato comunet usando wordnet da frump che però fa parte dello stesso synset e non è un antenato?
- ## path similarity non ha senso
- ## lch non funziona tra pos diversi
+'''
+    Domande
+      1) money,cash è ripetuta nel dataset
+      2) posso usare formule similarità wn o devo scriverle a mano?
+      perchè dog[1] come antenato comunet usando wordnet da frump che però fa parte dello stesso synset e non è un antenato?
+      path similarity non ha senso
+      lch non funziona tra pos diversi
+
+'''
 
 
 def read_csv(file_name):
