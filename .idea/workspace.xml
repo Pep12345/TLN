@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="260d9c8f-52ac-47f0-94e9-47afa010e046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/valutation_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Di Caro/.ipynb_checkpoints/es1_4-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Di Caro/.ipynb_checkpoints/es1_4-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Di Caro/es1.1/es1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Di Caro/es1.1/es1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Di Caro/es1.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Di Caro/es1.5/.ipynb_checkpoints/es1_5-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Di Caro/es1.5/.ipynb_checkpoints/es1_5-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Di Caro/es1.5/es1_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Di Caro/es1.5/es1_5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Di Caro/es1_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Di Caro/es1_4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/wsd_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/wsd_ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,15 +110,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TLN\Radicioni\WSD\summarisation" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\TLN\Radicioni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.framenet_disambiguation">
+  <component name="RunManager" selected="Python.summarisation">
     <configuration name="es1_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +185,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="summarisation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TLN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="wsd_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,6 +229,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.summarisation" />
         <item itemvalue="Python.framenet_disambiguation" />
         <item itemvalue="Python.wsd_ex" />
         <item itemvalue="Python.es1_1" />
