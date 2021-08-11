@@ -4,6 +4,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from pprint import pprint
+from collections import Counter
+
 nasari = './utils/NASARI_vectors/dd-small-nasari-15.txt'
 
 andy_text = './utils/docs/Andy-Warhol.txt'
@@ -16,6 +18,9 @@ texts = [andy_text, ebola_text, life_text, napoleon_text, trump_text]
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 
+
+# Per ogni vettore di nasari aggiungo una riga nella mia dictonary con
+#       babelnet id, wikipedia titolo e lista synset
 def load_nasari_vectors(file):
     nasari_vct = []
     with open(file, "r", encoding="utf-8") as csv_file:
@@ -28,6 +33,7 @@ def load_nasari_vectors(file):
     return nasari_vct
 
 
+# Dato un articolo ne estraggo il titolo e una lista di coppie (numero paragrafo, testo)
 def read_doc(file_name):
     with open(file_name, "r", encoding="utf-8") as f:
         # Extract title
@@ -47,12 +53,43 @@ def read_doc(file_name):
         return title, paragraphs
 
 
+# Crea una bag of words con le K parole più frequenti data una lista di frasi
+def bag_of_words(sent_list, number_of_words):
+    words_counter = Counter()
+    for sent in sent_list:
+        words_counter.update(Counter(pre_processing(sent[1])))
+    return [w[0] for w in words_counter.most_common(number_of_words)]
+
+
 # Data una frase ritorna l'elenco dei lemmi filtrando le stop_words
 def pre_processing(text):
     word_tokens = word_tokenize(text)
-    return [lemmatizer.lemmatize(word) for word in word_tokens if not word.lower() in stop_words]
+    return [lemmatizer.lemmatize(word) for word in word_tokens if not word.lower() in stop_words
+                                                                    and word.isalnum()]
+
+# Creo il contesto come la lista dei synset per ogni vettore
+# che contiene nel titolo una parola delle bag of words
+def extract_nasari_context(bag_of_words, nasari_vct):
+    context = []
+    for word in bag_of_words:
+        for vct in nasari_vct:
+            if word in vct['wp_title'].split('-'):
+                if vct['synsets'] not in context:
+                    context += vct['synsets']
+    return context
 
 
 if __name__ == "__main__":
+    nasari_vct = load_nasari_vectors(nasari)
+
     for f in texts:
         title, paragraphs = read_doc(f)
+
+        # Estraggo il topic usando le parole del titolo + le 50 parole più frequenti
+        topic = set(pre_processing(title) + bag_of_words(paragraphs, 50))
+
+        # Estraggo il contesto dalle parole del topic
+        context = extract_nasari_context(topic, nasari_vct)
+
+
+        exit()
