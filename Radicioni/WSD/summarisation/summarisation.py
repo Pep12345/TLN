@@ -1,10 +1,12 @@
-import csv
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from pprint import pprint
 from collections import Counter
+from nasari import load_nasari_vectors
+from nasari import wo
 
 nasari = './utils/NASARI_vectors/dd-small-nasari-15.txt'
 
@@ -19,18 +21,7 @@ stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 
 
-# Per ogni vettore di nasari aggiungo una riga nella mia dictonary con
-#       babelnet id, wikipedia titolo e lista synset
-def load_nasari_vectors(file):
-    nasari_vct = []
-    with open(file, "r", encoding="utf-8") as csv_file:
-        csv_reader = csv.reader(csv_file, delimiter=';')
-        for row in csv_reader:
-            synsets = [w.split('_') for w in row[2:]]
-            nasari_vct.append({'bn_id':row[0],
-                                'wp_title':row[1],
-                                'synsets':synsets})
-    return nasari_vct
+
 
 
 # Dato un articolo ne estraggo il titolo e una lista di coppie (numero paragrafo, testo)
@@ -73,15 +64,15 @@ def extract_nasari_context(bag_of_words, nasari_vct):
     context = []
     for word in bag_of_words:
         for vct in nasari_vct:
-            if word in vct['wp_title'].split('-'):
-                if vct['synsets'] not in context:
-                    context += vct['synsets']
+            if word in vct.title().split('-'):
+                if vct.syn_array() not in context:
+                    context += vct.syn_array()
     return context
 
 
 if __name__ == "__main__":
     nasari_vct = load_nasari_vectors(nasari)
-
+    print(wo(nasari_vct[0], nasari_vct[4]))
     for f in texts:
         title, paragraphs = read_doc(f)
 
