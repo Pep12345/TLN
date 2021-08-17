@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="260d9c8f-52ac-47f0-94e9-47afa010e046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/nasari.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/evaluation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/nasari.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/nasari.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/NASARI_vectors/dd-nasari-link_210419.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/NASARI_vectors/dd-small-nasari-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/NASARI_vectors/dd-small-nasari-15.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +115,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -122,7 +126,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.summarisation">
-    <configuration name="es1_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="babelfy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Di Caro/es1.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Di Caro/es1.1/es1_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/summarisation/babelfy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,10 +234,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.summarisation" />
+        <item itemvalue="Python.babelfy" />
         <item itemvalue="Python.nasari" />
         <item itemvalue="Python.framenet_disambiguation" />
         <item itemvalue="Python.wsd_ex" />
-        <item itemvalue="Python.es1_1" />
       </list>
     </recent_temporary>
   </component>

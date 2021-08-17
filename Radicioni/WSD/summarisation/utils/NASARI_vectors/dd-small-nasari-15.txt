@@ -679,6 +679,10 @@ bn:00006169n;Satellite;satellite_2100.71;launch_851.3;orbit_709.77;kosmos_286.76
 bn:00006171n;Artificiality;chantecler_53.96;artificial_41.95;artificiality_35.8;a.i._26.38;naturoids_21.56;negrotti_21.31;riehl_18.67;fictionalism_18.01;nature_15.99;artificial intelligence_15.14;stanford_14.8;pheasant_10.96;natural_9.84;volkish_9.75
 bn:00006173n;Artillery;artillery_2011.95;gun_1338.78;battery_656.09;fire_607.35;cannon_465.49;shell_452.11;projectile_389.75;howitzer_387.46;target_371.09;mortar_330.72;fuze_224.9;weapon_208.06;ammunition_204.35;barrel_171.69
 bn:00006182n;Artist;artist_714.68;duchamp_409.98;art_393.23;audubon_391.75;hirschfeld_186.85;tiffany_156.19;chucky_118.42;work_110.64;drawing_96.15;lear_94.56;ankomah_94.24;painting_86.57;landers_79.68;magalios_78.64
+bn:00463077n;Cheap (album);track_126.39;wold_99.72;hidden_44.28;silence_36.37;unlisted_29.49;album_26.53;song_24.07;untitled_22.4;pregap_20.41
+bn:00157144n;Pop art;pop art_857.52;painting_716.58;warhol_710.34;art_606.94;lichtenstein_522.79;artist_505.19;andy warhol_284.44;abstract expressionism_254.78;work_250.19
+bn:00004020n;Andy Warhol;warhol_2282.46;andy warhol_673.75;basquiat_337.06;pop art_256.12;sedgwick_215.64;painting_193.86;film_176.01;artist_160.14;art_146.06
+bn:00063557n;Pop music;music_507.2;pop_431.54;pop music_384.47;popular music_337.08;rock_131.65;genre_127.6;style_117.2;popular_113.97;new wave_111.46
 bn:00006185n;Atelier;art_338.01;atelier_309.16;artist_205.37;painting_138.39;painter_120.74;exhibition_100.91;studio_90.81;dewis_81.66;work_77.32;lukits_73.9;paris_66.49;drawing_65.17;eyebeam_63.87;sofialakis_61.7
 bn:00006191n;Breadfruit;breadfruit_550.7;bligh_427.04;fruit_427.0;durian_300.48;bounty_249.13;cook_235.61;cassava_232.44;tahiti_216.99;jackfruit_197.7;food_193.04;dish_188.05;cuisine_176.27;heywood_123.69;eat_109.01
 bn:00006192n;Jackfruit;dish_822.75;rice_612.81;fruit_531.68;jackfruit_505.18;curry_480.55;durian_398.14;cuisine_396.96;banana_386.7;mango_315.13;vegetable_280.4;sweet_274.19;coconut milk_269.71;cook_253.19;spice_251.83
@@ -3129,6 +3133,7 @@ bn:00027525n;Rudeness;abuse_177.07;applicant_118.4;rude_117.25;interview_117.09;
 bn:00027536n;Discretion;determinism_1578.69;free_870.74;god_720.15;hume_447.47;action_398.26;moral_385.22;freedom_348.86;indeterminism_317.98;causal_283.18;argument_276.98;argue_272.69;human_270.7;mind_264.07;consciousness_263.61
 bn:00027538n;Discrimination;discrimination_1835.24;gender_615.07;woman_474.68;stereotype_420.97;affirmative action_370.7;outgroup_367.2;ingroup_360.54;prejudice_287.46;sexual_283.11;racism_267.19;group_265.74;orientation_218.73;sex_201.64;intergroup_191.32
 bn:00027545n;Recitation;recitation_170.6;ibn_83.6;neume_78.08;lecture_71.69;qur_67.06;poem_50.91;casey_48.99;eaton_45.82;mudville_39.32;ahruf_33.29;sura_31.47;cabaret_28.84;abî_26.69;recite_24.92
+bn:00029565n;Ebola virus disease;virus_2161.01;ebola_1650.66;disease_934.87;outbreak_647.58;infection_550.03;ebola virus_481.91;liberia_335.14;sierra leone_333.78;infect_325.78
 bn:00027546n;Disease;disease_2394.01;health_334.63;infection_281.32;symptom_200.22;patient_197.26;cause_190.62;treatment_180.2;chronic_178.71;pathogen_166.77;kawasaki disease_154.51;epidemiology_154.45;ménière_151.47;condition_138.45;disorder_135.0
 bn:00027551n;Spirit;spirit_1319.56;soul_716.82;ghost_408.68;shaman_366.57;jinn_191.58;god_187.17;reincarnation_186.59;belief_186.13;spiritual_165.03;shamanism_124.31;kami_112.86;pneuma_110.36;demon_108.04;body_99.56
 bn:00027565n;Vomiting;vomiting_728.79;stomach_569.32;nausea_454.84;gastric_404.77;vomit_340.56;pylorus_198.76;patient_174.09;esophagus_170.3;symptom_163.95;postrema_162.43;emetic_149.24;food_149.03;ctz_142.76;receptor_132.88
@@ -6613,6 +6618,8 @@ bn:00061420n;Pentagon;pentagon_808.45;polygon_490.13;tiling_374.42;triangle_357.
 bn:00061423n;Pentameter;syllable_267.27;poem_184.72;line_104.64;poetry_97.09;verse_84.66;rhyme_77.22;pentameter_72.81;poetic_61.61;aaraaf_61.55;caesura_60.47;poe_58.41;metre_56.39;villanelle_55.39;poet_54.02
 bn:00061428n;Pentathlon;pentathlon_555.65;athlete_365.82;event_330.82;heptathlon_274.66;olympic_245.0;games_178.16;thorpe_172.64;long jump_170.59;olympics_157.34;ennis_154.03;ioc_150.75;high jump_131.84;compete_112.37;olympic games_108.13
 bn:00061434n;Pentecostalism;pentecostal_1819.37;church_984.79;holy spirit_840.93;baptism_791.0;god_758.56;pentecostals_726.94;assemblies_553.98;pentecostalism_465.55;oneness_455.22;tongue_407.94;believer_372.06;christ_364.61;holiness_327.6;denomination_322.17
+bn:00736420n;Peña (surname);peña_56.81;granted_25.7;penna_21.21;surname_15.2;peñas_12.22;spanish_12.09;la_10.62;doña_10.01;marquess_9.1
+bn:00011968n;House of Bonaparte;napoleon_4186.67;french_1335.99;france_903.33;bonaparte_773.32;army_669.56;emperor_384.04;war_376.38;napoleon iii_360.62;austrian_357.76
 bn:00061450n;People;state_224.64;people_212.55;disability_167.68;intellectual_122.17;nation_121.1;locke_77.46;society_74.32;e-democracy_74.11;term_69.79;political_67.89;sovereign_63.61;government_61.72;foucault_60.74;right_60.44
 bn:00061479n;Pepperoni;sausage_772.6;pizza_636.91;meat_376.84;pepperoni_310.0;salami_170.46;cheese_162.32;peperami_159.52;dry_120.13;pork_116.93;italian_107.02;food_92.96;chorizo_90.46;zoombinis_87.42;slice_86.99
 bn:00061485n;Protease;protein_2552.71;protease_1354.45;enzyme_940.8;substrate_431.95;inhibitor_415.46;amino acid_411.55;residue_333.47;domain_333.23;peptide_284.81;serine_253.89;active site_227.16;cleave_226.41;cell_211.77;trypsin_208.3
@@ -8692,6 +8699,8 @@ bn:00080066n;Virginity;sexual_1045.25;rape_1016.37;virginity_850.75;woman_819.67
 bn:00080075n;Virology;virus_2419.05;cell_525.3;viral_400.83;disease_373.0;rna_330.24;virology_307.58;genome_302.85;vaccine_297.16;infection_261.16;infect_214.62;protein_209.64;dna_182.26;salk_171.0;polio_159.66
 bn:00080082n;Virtuoso;liszt_348.95;virtuoso_221.74;blue_120.62;music_111.54;moscheles_70.26;concerto_64.58;piano_62.06;musician_57.24;locatelli_49.99;violin_48.39;composer_44.74;franz liszt_44.45;op_42.2;bridgetower_39.34
 bn:00080083n;Virulence;virus_1631.02;bacterium_961.93;cell_780.22;infection_684.29;host_519.89;protein_503.22;virulence_501.51;pathogen_443.94;disease_419.99;bacterial_403.57;strain_380.91;vaccine_373.97;gene_331.85;influenza_314.5
+bn:00080048n;Viral disease;virus_1215.62;infection_476.09;disease_346.44;viral_188.89;cell_185.56;infect_154.51;symptom_136.36;malaria_127.24;pathogen_120.55
+bn:00029566n;Ebola virus;virus_782.07;ebola_693.53;ebola virus_584.35;outbreak_346.61;ebolavirus_340.02;disease_238.97;bat_228.74;ebov_199.36;vaccine_163.13
 bn:00080085n;Virus;virus_5745.67;viral_1300.78;cell_1172.39;genome_1172.14;rna_810.54;protein_780.34;dna_638.26;infect_518.51;host_462.58;infection_454.04;capsid_432.66;replication_404.06;gene_382.61;disease_299.15
 bn:00080092n;Viscosity;fluid_2028.51;viscosity_1699.79;flow_719.03;shear_688.45;stress_635.05;liquid_490.49;equation_402.3;viscous_396.09;velocity_381.1;viscometer_277.43;pressure_261.5;particle_255.21;tensor_213.66;vortex_191.49
 bn:00080094n;Viscount;viscount_884.95;title_771.71;peerage_753.89;peer_489.58;baron_394.52;nobility_348.86;marquess_335.85;noble_230.55;hereditary_228.45;earl_217.16;coronet_202.36;lords_193.75;rank_155.13;duke_144.65
@@ -8727,6 +8736,9 @@ bn:00080351n;Wakefulness;sleep_956.03;consciousness_354.39;brain_311.78;neuron_2
 bn:00080357n;Walking;walk_849.04;walking_428.43;gait_331.85;leg_221.31;foot_178.35;muscle_152.78;speed_145.28;locomotion_115.44;toe_113.42;sleeper_107.1;walker_102.8;ramblers_94.55;swing_85.85;pedestrianism_84.77
 bn:00080361n;Walk-in;applewhite_176.56;mulder_169.03;hawkgirl_85.24;nettles_56.79;hawkman_54.77;walk-in_49.96;walk-ins_41.34;samantha_40.81;shiera_39.61;episode_38.42;duchovny_37.99;steel_32.01;individual_31.84;irons_31.38
 bn:00080378n;Walkie-talkie;radio_1048.13;mhz_430.11;frequency_402.42;channel_392.48;antenna_306.21;motorola_281.56;microphone_278.92;walkie-talkie_266.13;system_243.09;mobile_239.73;use_206.74;receiver_206.41;transmitter_195.55;ctcss_195.19
+bn:02056211n;Nieto;spanish_24.6;bear_15.17;motorcycle_10.72;racer_8.77;nieto_7.99;sephardi_7.87;pablo nieto_6.1;domingo nieto_6.04;footballer_6.02
+bn:02067128n;Enrique Peña Nieto;mexico_720.34;nieto_471.87;peña_384.82;pri_324.83;mexican_306.15;mexico city_298.58;zetas_166.14;televisa_151.68;lazcano_110.04
+bn:00054693n;Mexico;mexico_922.36;mexican_287.32;indigenous_191.16;mestizo_139.69;population_83.65;country_60.95;mexicans_57.18;indigenous language_51.64;mestizaje_42.65
 bn:00080382n;Walkman;sony_1230.97;walkman_791.12;audio_436.91;stereo_382.46;cassette_339.9;xperia_285.53;tape_279.41;aac_235.87;hi-md_222.82;recording_222.61;phone_208.83;ericsson_192.22;format_190.11;device_183.15
 bn:00080386n;Wall;wall_1396.25;hadrian_113.59;gate_107.3;remain_85.98;western_66.25;jews_65.88;town_62.7;prayer_57.59;firewall_52.57;tower_51.2;bastion_49.04;preserve_48.14;jewish_46.89;jerusalem_43.82
 bn:00080413n;Wallpaper;wallpaper_936.32;wall_281.98;paper_242.5;pattern_144.11;merle_125.94;voysey_111.23;morris_111.1;design_106.93;autostereogram_100.29;dearle_93.03;printing_92.35;print_90.17;damp_88.27;darryl_88.0

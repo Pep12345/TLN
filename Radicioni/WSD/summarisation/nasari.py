@@ -2,6 +2,9 @@ import csv
 
 
 # Questo metodo serve per i titoli che contengono ; al loro interno
+import math
+
+
 def get_title(row):
     title = ''
     for i in range(1, len(row)):
@@ -30,21 +33,34 @@ def get_array(row):
 def load_nasari_vectors(file):
     nsr_vct = []
     with open(file, "r", encoding="utf-8") as csv_file:
-        csv_reader = csv.reader(csv_file, delimiter=';')
-        for row in csv_reader:
+        for row1 in csv_file:
+            row = row1.replace('\n','').split(';')
             i, title = get_title(row)
-            synsets = get_array(row[i:])
-            nsr_vct.append(NasariElement(row[0], title, synsets))
+            try:
+                synsets = get_array(row[i:])
+            except IndexError:
+                print(row[i:])
+            try:
+                nsr_vct.append(NasariElement(row[0], title, synsets))
+            except ValueError as e:
+                print(row1)
+                exit()
     return nsr_vct
 
 
-def wo(v1,v2):
+def wo(v1, v2):
     overlap = set(v1.lemmas()).intersection(set(v2.lemmas()))
     if not overlap:
         return 0
     num = sum([float(v1.rank(o) + v2.rank(o))**(-1) for o in overlap])
-    den = sum([float(2*i) ** (-1) for i in range(1, len(overlap))])
+    den = sum([float(2*i) ** (-1) for i in range(1, len(overlap)+1)])
     return num/den
+
+
+# La similarità tra due contesti ( liste di vettori di nasari) è data come il massimo delle wo sotto radice
+def similarity(v1s, v2s):
+    wo_list = [math.sqrt(wo(v1, v2)) for v1 in v1s for v2 in v2s]
+    return max(wo_list) if len(wo_list) > 0 else 0
 
 
 class NasariElement:

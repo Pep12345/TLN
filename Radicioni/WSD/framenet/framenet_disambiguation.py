@@ -4,12 +4,12 @@ from nltk.stem import WordNetLemmatizer
 import os
 import nltk
 import sys
-sys.path.append('..')
-from similarity_and_wsd import wsd_ex as wsd
 from nltk.stem import PorterStemmer
 from pprint import pprint
 import json
 import re
+sys.path.append('..')
+from similarity_and_wsd import wsd_ex as wsd
 
 
 
@@ -33,7 +33,14 @@ import re
 '''
 list_input = ['Volubility', 'Coincidence', 'Transfer_scenario', 'Becoming_separated', 'Food']
 
-### METODI PER FILE
+
+def stemmer(list_of_words):
+    porter = PorterStemmer()
+    return [porter.stem(w) for w in list_of_words]
+
+
+### METODI PER FILE ###
+
 # Creo file da annotare manualmente coi synset attesi
 # Nota: per i termini composti 'Transfer_scenario' a mano verranno scelte le parole principali sul file
 def create_valutation_file():
@@ -42,7 +49,7 @@ def create_valutation_file():
         fe_expected_result_dictionary = { fe : "None" for fe in fn.frames(w)[0].FE}
         lu_expected_result_dictionary = { lu : "None" for lu in fn.frames(w)[0].lexUnit}
         v[w] = {'this': None, 'FE': fe_expected_result_dictionary,'LU': lu_expected_result_dictionary}
-    with open('valutation_file.txt', 'w') as f:
+    with open('valutation_file2.txt', 'w') as f:
         f.write(json.dumps(v, indent=4))
 
 
@@ -52,12 +59,8 @@ def read_valutation_file():
     return data
 
 
-def stemmer(list_of_words):
-    porter = PorterStemmer()
-    return [porter.stem(w) for w in list_of_words]
+### METODI CONTEXT ###
 
-
-### METODI CONTEXT
 # bow = bag of words
 def get_wordnet_context_bow(synset):     ### Ctx(s)
     signature = wsd.read_gloss_and_examples(synset)
@@ -81,8 +84,8 @@ def get_framenet_context_bow(frame_part):     ### Ctx(w)
     return stemmer(signature)
 
 
+### METODI MAPPING SCORE ###
 
-### METODI MAPPING SCORE
 def bag_of_words_score(ctxw, synset):
     ctxs = get_wordnet_context_bow(synset)
     #ctxw = get_framenet_context_bow(frame)
