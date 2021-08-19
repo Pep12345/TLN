@@ -7,10 +7,6 @@
     <list default="true" id="260d9c8f-52ac-47f0-94e9-47afa010e046" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/babelfy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/babelfy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/nasari.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/nasari.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,18 +1,16 @@
 from nltk.corpus import wordnet as wn
 import csv, os, math
-import numpy as np
 import scipy.stats
 '''
     Domande
       1) money,cash è ripetuta nel dataset
-      2) posso usare formule similarità wn o devo scriverle a mano?
-      perchè dog[1] come antenato comunet usando wordnet da frump che però fa parte dello stesso synset e non è un antenato?
-      path similarity non ha senso
+      2) qual è la wup_similarity corretta? nella seconda calcolo la depth 
+            imponendo il percorso per l'antenato comune
+      3) lowes common hyp è l'hip comune più vicino o quello di livello più basso( cioè distanza da root)
       
 
 '''
-
-
+### INPUT FILE ###
 # Dal file estraggo le coppie di termini -> keys e il valore atteso -> target_result
 # Es. love,sex,6.77
 def read_csv(file_name):
@@ -28,7 +26,9 @@ def read_csv(file_name):
     return keys, _target_result
 
 
-# Aggiungo gli iperonimi alla dict
+### MUOVERSI IN WORDNET ###
+## metodi per antenato comune
+# Aggiungo tutti gli iperonimi di un dato synset, salvando per ognuno la distanza dal synset di partenza
 def add_hypernyms_to_dict(syn, level, _dict):
     for hyp in syn.hypernyms():
         if hyp not in _dict:
@@ -36,26 +36,31 @@ def add_hypernyms_to_dict(syn, level, _dict):
         add_hypernyms_to_dict(hyp, level+1, _dict)
 
 
-## Date due dictonary { synset: livello profondità} estrae il synset comune con livello minore
+# Date due dictonary { hypernyms: distanza} estrae l'iperonimo
+# la cui somma delle distanze dai due synset sia minore
 def extract_common_hypernyms(dict1, dict2):
     min_hyp = None
     min_level = 99999
-    for hyp in dict2.keys():
-        if hyp in dict1:
-            if min_level > dict1[hyp]:
-                min_hyp = hyp
-                min_level = dict1[hyp]
+    for i in dict1.keys() & dict2.keys():
+        sum_level = dict1.get(i) + dict2.get(i)
+        if sum_level < min_level:
+            min_hyp = i
+            min_level = sum_level
     return min_hyp
 
 
+# Cerca l'iperonimo comune di livello più basso tra due synset
 def lowes_common_subsumer(w1_syn, w2_syn):
+    # Creo le dictionary iperonimo - distanza
     dict1 = {}
     dict2 = {}
     add_hypernyms_to_dict(w1_syn, 0, dict1)
     add_hypernyms_to_dict(w2_syn, 0, dict2)
+    # Estraggo il più vicino
     return extract_common_hypernyms(dict1, dict2)
 
 
+## profondità
 def depth(syn):
     return 0 if not syn.hypernyms() else 1 + min(depth(hyp) for hyp in syn.hypernyms())
 
@@ -65,6 +70,7 @@ def max_depth():
     #return max(max(len(hyp_path) for hyp_path in ss.hypernym_paths()) for ss in wn.all_synsets())
 
 
+## distanza tra synset
 def len_distance(syn1, syn2):
     dict1 = {}
     dict2 = {}
@@ -78,10 +84,11 @@ def len_distance(syn1, syn2):
     return min([dict1.get(elem) + dict2.get(elem) for elem in l]) if l else max_depth()
 
 
+### SIMILARITA' ###
 def wup_similarity2(syn1, syn2):
     if lowes_common_subsumer(syn1, syn2) is None:
         return 0
-    return 2 * depth(lowes_common_subsumer(syn1, syn2)) / (depth(syn1) +  depth(syn2))
+    return 2 * depth(lowes_common_subsumer(syn1, syn2)) / (depth(syn1) + depth(syn2))
 
 
 def wup_similarity(syn1, syn2):
@@ -103,6 +110,7 @@ def lch_similarity(syn1, syn2):
     return -math.log((len_distance(syn1, syn2)+1)/(2*19))
 
 
+### MAIN PROGRAM ###
 # Eseguo il calcolo della similarità tra due parole in base al tipo di funzione scelta
 def similarity(word1, word2, function_name):
     max_value = 0
@@ -127,19 +135,24 @@ def calculate_similarity(list_keys):
     _wu_palmer_result = []
     _shortest_path_result = []
     _leakcock_chodorow_result = []
+
     for key in list_keys:
         _wu_palmer_result.append(similarity(key[0], key[1], 'wu_palmer'))
         _shortest_path_result.append(similarity(key[0], key[1], 'shortest_path'))
         _leakcock_chodorow_result.append(similarity(key[0], key[1], 'leakcock_chodorow'))
+
     return _wu_palmer_result, _shortest_path_result, _leakcock_chodorow_result
 
 
-
+# Son state usate le librerie scipy per i confronti pearsonr & spearmanr
 if __name__ == "__main__":
-
+    # leggo da file
     list, target_result = read_csv('WordSim353.csv')
+
+    # calcolo similarità
     wu_palmer_result, shortest_path_result, leakcock_chodorow_result = calculate_similarity(list)
 
+    # stampo risultati
     print("WU PALMER RESULT:")
     print(scipy.stats.pearsonr(wu_palmer_result, target_result))
     print(scipy.stats.spearmanr(wu_palmer_result, target_result))
