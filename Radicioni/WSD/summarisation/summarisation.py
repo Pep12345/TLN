@@ -16,11 +16,12 @@ from gensim.summarization.summarizer import summarize
 nasari = './utils/NASARI_vectors/dd-small-nasari-15.txt'
 #nasari_big = './utils/NASARI_vectors/dd-nasari.txt'
 
-andy_text = './utils/docs/Andy-Warhol.txt'
-ebola_text = './utils/docs/Ebola-virus-disease.txt'
-life_text = './utils/docs/Life-indoors.txt'
-napoleon_text = './utils/docs/Napoleon-wiki.txt'
-trump_text = './utils/docs/Trump-wall.txt'
+file_path = './utils/docs/'
+andy_text = 'Andy-Warhol'
+ebola_text = 'Ebola-virus-disease'
+life_text = 'Life-indoors'
+napoleon_text = 'Napoleon-wiki'
+trump_text = 'Trump-wall'
 texts = [andy_text, ebola_text, life_text, napoleon_text, trump_text]
 
 stop_words = set(stopwords.words('english'))
@@ -62,6 +63,7 @@ def pre_processing(text):
     return [lemmatizer.lemmatize(word) for word in word_tokens if not word.lower() in stop_words
                                                                     and word.isalnum()]
 
+
 # Estraggo i vettori di nasari associati ad un babelnet ids contenuto in bbn_ids
 def extract_nasari_from_babelnet_id(bbn_ids, nasari_vct):
     context = []
@@ -71,12 +73,16 @@ def extract_nasari_from_babelnet_id(bbn_ids, nasari_vct):
     return context
 
 
+# Per lo score calcolo la similarità prima sul topic e poi sul contesto, dimezzando il peso del secondo
+# e normalizzando il risultato
 def get_paragraphs_score(paragraphs, topic, context, nasari_vct):
     paragraphs_score = []
     for i, p in paragraphs:
+        # Cerco vettori nasari per il paragrafo
         word_list = pre_processing(p)
         bbn_ids_for_paragraphs = set(get_bbn_ids(' '.join(word_list)))
         nsr_vct_p = extract_nasari_from_babelnet_id(bbn_ids_for_paragraphs, nasari_vct)
+        # Calcolo similarità
         sim = (similarity(topic, nsr_vct_p) + 0.5*similarity(context, nsr_vct_p)) / 1.5
         paragraphs_score.append((i, sim))
     return paragraphs_score
@@ -92,34 +98,37 @@ def my_summarize(paragraphs_score, paragraphs, cut_ratio):
             retrieved_doc += ' \n ' + p[1]
     return retrieved_doc
 
+
 if __name__ == "__main__":
     nasari_vct = load_nasari_vectors(nasari)
 
     for f in texts:
-        title, paragraphs, full_text = read_doc(f)
+        title, paragraphs, full_text = read_doc(f'{file_path}{f}.txt')
 
-        # Estraggo il topic usando le parole del titolo + le 50 parole più frequenti
-        try:
-            bag_of_words = set(pre_processing(title) + bag_of_words(paragraphs, 10))
-        except TypeError:
-            print(bag_of_words(paragraphs, 10))
-            exit()
+        # Estraggo il topic usando le parole del titolo + le N parole più frequenti
+        bag_of_words_result = set(pre_processing(title) + bag_of_words(paragraphs, 10))
+
         # Ottendo gli id di Babelnet dalle parole usando la risorsa di babelfy per disambiguare
-        bbn_ids = set(get_bbn_ids(' '.join(bag_of_words)))
+        # Nota: questa risorsa utilizza una key concessa su iscrizione, si è limitati sul numero di richieste giornaliere
+        bbn_ids = set(get_bbn_ids(' '.join(bag_of_words_result)))
 
         # Estraggo il contesto dalle parole del topic
         topic = extract_nasari_from_babelnet_id(bbn_ids, nasari_vct)
 
-        # Espando il contesto andando a cercare per ogni topic i nasari vector dei suoi lemmi
+        # Espando il contesto andando a cercare per ogni topic i nasari vector dei suoi lemmi (usando babelfy)
         context = []
         for v in topic:
             bbn_ids_for_topic = set(get_bbn_ids(' '.join(v.lemmas())))
             context += extract_nasari_from_babelnet_id(bbn_ids_for_topic, nasari_vct)
 
-        #pprint(context)
+        # Estraggo gli score usando WO
         paragraphs_score = get_paragraphs_score(paragraphs, topic, context, nasari_vct)
 
-        retrived_doc = my_summarize(paragraphs_score, paragraphs, 10)
-        relevent_doc = summarize(full_text, 0.9)
+        # Calcolo il file finale risultante applicando una riduzione del X%
+        _cut_ratio = 30
+        retrived_doc = my_summarize(paragraphs_score, paragraphs, _cut_ratio)
+        # Creo file di confronto usando le librerie gensim
+        relevent_doc = summarize(full_text, (100-_cut_ratio)/100)
 
-        evaluation.print_result(title, relevent_doc, retrived_doc, full_text)
+        # Stampo risultati
+        evaluation.print_result(title, f, relevent_doc, retrived_doc, full_text)

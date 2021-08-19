@@ -1,15 +1,12 @@
-import csv
-
-
-# Questo metodo serve per i titoli che contengono ; al loro interno
 import math
 
 
+# Questo metodo serve per i titoli che contengono ; al loro interno
 def get_title(row):
     title = ''
     for i in range(1, len(row)):
-        # se la cella contiene _ e la seconda parte è numerica è iniziato l'array di pesi
-        if '_' in row[i] and row[i].split('_')[1].replace('.','',1).isdigit():
+        # se la cella contiene _ e la seconda parte, tolto il punto, è numerica è iniziato l'array di pesi
+        if '_' in row[i] and row[i].split('_')[1].replace('.', '', 1).isdigit():
             return i, title
         title += row[i]
     return i, title
@@ -19,8 +16,10 @@ def get_title(row):
 def get_array(row):
     result_array = []
     for i, elem in enumerate(row):
+        # ignoriamo le parti vuote ( es. ; ;)
         if len(elem) < 1:
             continue
+        # Se l'elemento non contiene _ significa che è presente un ; che lo ha spezzato (es. Chaos;child_11.11)
         if '_' in elem:
             result_array.append(elem.split('_'))
         else:
@@ -28,8 +27,10 @@ def get_array(row):
     return result_array
 
 
-# Per ogni vettore di nasari aggiungo una riga nella mia dictonary con
-#       babelnet id, wikipedia titolo e lista synset
+# Per ogni riga del file creo un NasariElement con:
+#       - babelnet id
+#       - wikipedia titolo
+#       - lista synset
 def load_nasari_vectors(file):
     nsr_vct = []
     with open(file, "r", encoding="utf-8") as csv_file:
@@ -48,6 +49,7 @@ def load_nasari_vectors(file):
     return nsr_vct
 
 
+# Weighted Overlap, formula delle slide
 def wo(v1, v2):
     overlap = set(v1.lemmas()).intersection(set(v2.lemmas()))
     if not overlap:
@@ -64,6 +66,7 @@ def similarity(v1s, v2s):
 
 
 class NasariElement:
+
     def __init__(self, babelnet_id, wikipedia_title, synsets):
         self.__id = babelnet_id
         self.__title = wikipedia_title
@@ -82,6 +85,8 @@ class NasariElement:
     def weight(self, lemma):
         return self.__syn_dict.get(lemma)
 
+    # Il rank conta quando dista il lemma dall'inizio dell'arrey ordinato di synset
+    # (es. asd_12,ter_22,cus_1 -> cus = rank 3)
     def rank(self, lemma):
         tuple = [lemma, self.__syn_dict.get(lemma)]
         return self.syn_array().index(tuple) + 1

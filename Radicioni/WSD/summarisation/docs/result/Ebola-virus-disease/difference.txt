@@ -1,0 +1,58 @@
+sentence removed:
+Supportive efforts also improve outcomes.
+It was declared no longer an emergency on 29 March 2016.
+No spread by mosquitos or other insects has been reported.
+This contamination can happen if a person is splashed with droplets.
+The mature progeny particles then infect other cells to repeat the cycle.
+Bleeding into the whites of the eyes may also occur.
+The combination of severe vomiting and diarrhoea often leads to severe dehydration.
+In general, ebolavirions are 80 nanometers (nm) in width and may be as long as 14,000 nm.Their life cycle is thought to begin with a virion attaching to specific cell-surface receptors such as C-type lectins, DC-SIGN, or integrins, which is followed by fusion of the viral envelope with cellular membranes.
+This is often followed by nausea, vomiting, diarrhoea, abdominal pain, and sometimes hiccups.
+Ebolavirus genomes contain seven genes including 3'-UTR-NP-VP35-VP40-GP-VP30-VP24-L-5'-UTR.
+The virions taken up by the cell then travel to acidic endosomes and lysosomes where the viral envelope glycoprotein GP is cleaved.
+It is believed that this is the reason researchers have observed pig to primate transmission without physical contact, but no evidence has been found of primates being infected without actual contact, even in experiments where infected and uninfected primates shared the same air.
+Newly synthesised structural proteins and genomes self-assemble and accumulate near the inside of the cell membrane.
+As with all filoviruses, ebolavirus virions are filamentous particles that may appear in the shape of a shepherd's crook, of a "U" or of a "6," and they may be coiled, toroid or branched.
+Vomiting, diarrhoea and rash usually follow, along with decreased function of the liver and kidneys.
+Virions bud off from the cell, gaining their envelopes from the cellular membrane from which they bud.
+Bleeding from mucous membranes or from sites of needle punctures has been reported in 40–50% of cases.
+Spread of EBOV by water, or food other than bushmeat, has not been observed.
+Bleeding into the skin may create petechiae, purpura, ecchymoses or haematomas (especially around needle injection sites).
+This includes rapid detection, contact tracing of those who have been exposed, quick access to laboratory services, care for those infected, and proper disposal of the dead through cremation or burial.
+The risk increases when they do not have appropriate protective clothing such as masks, gowns, gloves and eye protection; do not wear it properly; or handle contaminated clothing incorrectly.
+Next, shortness of breath and chest pain may occur, along with swelling, headaches, and confusion.
+There has been transmission in hospitals in some African countries that reuse hypodermic needles.
+Spread may also occur from contact with items recently contaminated with bodily fluids.
+Heavy bleeding is uncommon; if it occurs, it is usually in the gastrointestinal tract.
+The fever is usually higher than 38.3 °C (101 °F).
+A number of studies examining airborne transmission broadly concluded that transmission from pigs to primates could happen without direct contact because, unlike humans and primates, pigs with EVD get very high ebolavirus concentrations in their lungs, and not their bloodstream.
+
+
+sentence removed expected:
+Supportive efforts also improve outcomes.
+While there is no approved treatment for Ebola as of 2019, two treatments (REGN-EB3 and mAb114) are associated with improved outcomes.
+An Ebola vaccine was approved in the United States in December 2019.
+It was declared no longer an emergency on 29 March 2016.
+Entry points for the virus include the nose, mouth, eyes, open wounds, cuts and abrasions.
+No spread by mosquitos or other insects has been reported.
+This contamination can happen if a person is splashed with droplets.
+All five viruses are closely related to marburgviruses.VirologyEbolaviruses contain single-stranded, non-infectious RNA genomes.
+People are often in a coma near the end of life.Those who survive often have ongoing muscular and joint pain, liver inflammation, and decreased hearing, and may have continued tiredness, continued weakness, decreased appetite, and difficulty returning to pre-illness weight.
+The combination of severe vomiting and diarrhoea often leads to severe dehydration.
+This is often followed by nausea, vomiting, diarrhoea, abdominal pain, and sometimes hiccups.
+Virus persistence in semen for over a year has been recorded in a national screening programme.
+It is believed that this is the reason researchers have observed pig to primate transmission without physical contact, but no evidence has been found of primates being infected without actual contact, even in experiments where infected and uninfected primates shared the same air.
+As with all filoviruses, ebolavirus virions are filamentous particles that may appear in the shape of a shepherd's crook, of a "U" or of a "6," and they may be coiled, toroid or branched.
+The four are Bundibugyo virus (BDBV), Sudan virus (SUDV), Taï Forest virus (TAFV) and one simply called Ebola virus (EBOV, formerly Zaire Ebola virus).
+Bleeding into the skin may create petechiae, purpura, ecchymoses or haematomas (especially around needle injection sites).
+This may cause vomiting blood, coughing up of blood, or blood in stool.
+Other outbreaks in Africa began in the Democratic Republic of the Congo in May 2017, and 2018.
+The viral RNA polymerase, encoded by the L gene, partially uncoats the nucleocapsid and transcribes the genes into positive-strand mRNAs, which are then translated into structural and nonstructural proteins.
+Other diseases such as malaria, cholera, typhoid fever, meningitis and other viral haemorrhagic fevers may resemble EVD.
+The risk increases when they do not have appropriate protective clothing such as masks, gowns, gloves and eye protection; do not wear it properly; or handle contaminated clothing incorrectly.
+The genomes of the five different ebolaviruses (BDBV, EBOV, RESTV, SUDV and TAFV) differ in sequence and the number and location of gene overlaps.
+Next, shortness of breath and chest pain may occur, along with swelling, headaches, and confusion.
+The fifth virus, Reston virus (RESTV), is not thought to cause disease in humans, but has caused disease in other primates.
+There has been transmission in hospitals in some African countries that reuse hypodermic needles.
+The fever is usually higher than 38.3 °C (101 °F).
+The most abundant protein produced is the nucleoprotein, whose concentration in the host cell determines when L switches from gene transcription to genome replication.

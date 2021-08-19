@@ -1,0 +1,16 @@
+sentence removed:
+I focus less when I am home, I like to go to school and study there more.
+的 would rather see a patient in the office ...
+的 get up much later and I go to bed later than usual.
+Teaching, working and socialising have moved online as never before.
+I am really struggling to study from home as I have so many distractions here at home.
+I focus more when I am at school as I have less distraction.的 hope all this will come to an end ...
+
+
+sentence removed expected:
+的 would rather see a patient in the office ...
+的 get up much later and I go to bed later than usual.
+It is a poor replacement.
+Teaching, working and socialising have moved online as never before.
+展e help our daughter build her own daily plan, which includes English, maths study, cello practice, reading as well as her favourite, watching cartoons.
+的t was a painful decision.

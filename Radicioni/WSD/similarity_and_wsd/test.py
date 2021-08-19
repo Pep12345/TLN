@@ -8,32 +8,32 @@ import scipy.stats
       2) posso usare formule similarità wn o devo scriverle a mano?
       perchè dog[1] come antenato comunet usando wordnet da frump che però fa parte dello stesso synset e non è un antenato?
       path similarity non ha senso
-      lch non funziona tra pos diversi
+      
 
 '''
 
 
+# Dal file estraggo le coppie di termini -> keys e il valore atteso -> target_result
+# Es. love,sex,6.77
 def read_csv(file_name):
-    dict = {}
     keys = []
-    target_result = []
-    dir = os.path.dirname(os.path.abspath(__file__))
-    with open(dir + '/' + file_name, "r") as csv_file:
+    _target_result = []
+    _dir = os.path.dirname(os.path.abspath(__file__))
+    with open('./' + file_name, "r") as csv_file:
         csv_file.readline()
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
-            #if(dict.__contains__((row[0],row[1]))): print((row[0],row[1]))
-            dict[(row[0],row[1])] = float(row[2])
             keys.append((row[0],row[1]))
-            target_result.append(float(row[2]))
-    return keys, target_result
+            _target_result.append(float(row[2]))
+    return keys, _target_result
 
 
-def add_hypernyms_to_dict(syn, level, dict):
+# Aggiungo gli iperonimi alla dict
+def add_hypernyms_to_dict(syn, level, _dict):
     for hyp in syn.hypernyms():
-        if not hyp in dict:
-            dict[hyp] =level
-        add_hypernyms_to_dict(hyp, level+1, dict)
+        if hyp not in _dict:
+            _dict[hyp] = level
+        add_hypernyms_to_dict(hyp, level+1, _dict)
 
 
 ## Date due dictonary { synset: livello profondità} estrae il synset comune con livello minore
@@ -57,11 +57,11 @@ def lowes_common_subsumer(w1_syn, w2_syn):
 
 
 def depth(syn):
-    return 0 if not syn.hypernyms() else  1 + min(depth(hyp) for hyp in syn.hypernyms())
+    return 0 if not syn.hypernyms() else 1 + min(depth(hyp) for hyp in syn.hypernyms())
 
 
 def max_depth():
-    return 20
+    return 20 # Valore calcolato come sotto, per velocizzare l'esecuzione
     #return max(max(len(hyp_path) for hyp_path in ss.hypernym_paths()) for ss in wn.all_synsets())
 
 
@@ -103,41 +103,35 @@ def lch_similarity(syn1, syn2):
     return -math.log((len_distance(syn1, syn2)+1)/(2*19))
 
 
-def wu_palmer(word1, word2):
-    max = 0
+# Eseguo il calcolo della similarità tra due parole in base al tipo di funzione scelta
+def similarity(word1, word2, function_name):
+    max_value = 0
     for w1_syn in wn.synsets(word1):
         for w2_syn in wn.synsets(word2):
-            res = wup_similarity(w1_syn, w2_syn)
-            max = res if res > max else max
-    return max
+
+            if function_name == 'leakcock_chodorow':
+                res = lch_similarity(w1_syn, w2_syn)
+            elif function_name == 'shortest_path':
+                res = path_similarity(w1_syn, w2_syn)
+            elif function_name == 'wu_palmer':
+                res = wup_similarity(w1_syn, w2_syn)
+            else:
+                raise ValueError()
+
+            max_value = res if res > max_value else max_value
+    return max_value
 
 
-def shortest_path(word1, word2):
-    max = 0
-    for w1_syn in wn.synsets(word1):
-        for w2_syn in wn.synsets(word2):
-            res = path_similarity(w1_syn, w2_syn)
-            max = res if res > max else max
-    return max
-
-
-def leakcock_chodorow(word1, word2):
-    max = 0
-    for w1_syn in wn.synsets(word1):
-        for w2_syn in wn.synsets(word2):
-            res = lch_similarity(w1_syn, w2_syn)
-            max = res if res > max else max
-    return max
-
+# Creo tre liste coi risultati applicando i tre tipi di similarità
 def calculate_similarity(list_keys):
-    wu_palmer_result = []
-    shortest_path_result = []
-    leakcock_chodorow_result= []
+    _wu_palmer_result = []
+    _shortest_path_result = []
+    _leakcock_chodorow_result = []
     for key in list_keys:
-        wu_palmer_result.append(wu_palmer(key[0],key[1]))
-        shortest_path_result.append(shortest_path(key[0],key[1]))
-        leakcock_chodorow_result.append(leakcock_chodorow(key[0],key[1]))
-    return wu_palmer_result, shortest_path_result, leakcock_chodorow_result
+        _wu_palmer_result.append(similarity(key[0], key[1], 'wu_palmer'))
+        _shortest_path_result.append(similarity(key[0], key[1], 'shortest_path'))
+        _leakcock_chodorow_result.append(similarity(key[0], key[1], 'leakcock_chodorow'))
+    return _wu_palmer_result, _shortest_path_result, _leakcock_chodorow_result
 
 
 
@@ -158,3 +152,14 @@ if __name__ == "__main__":
     print(scipy.stats.pearsonr(leakcock_chodorow_result, target_result))
     print(scipy.stats.spearmanr(leakcock_chodorow_result, target_result))
 
+
+    '''
+    WU PALMER RESULT:
+(0.23441673598110216, 8.553561002110505e-06)
+SpearmanrResult(correlation=0.2996531134851008, pvalue=9.329465436048053e-09)
+Shortest Path:
+(0.13923527936170196, 0.008806237536773892)
+SpearmanrResult(correlation=0.2635380400056134, pvalue=5.08868350371746e-07)
+Leakcock Chodorow RESULT:
+(0.29242769127819757, 2.17394320375257e-08)
+SpearmanrResult(correlation=0.2635380400056134, pvalue=5.08868350371746e-07)'''
