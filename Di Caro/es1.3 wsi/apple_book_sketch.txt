@@ -1,0 +1,981 @@
+<doc id="file22196632" filename="10-best-startup-books-for-you-to-read" parent_folder="web1" url="https://www.bookpreferred.com/10-best-startup-books-for-you-to-read/">
+<p> 10 Inspiring Startup Books For You To Read </p>
+<p> May 13, 2021 </p>
+<p> This post may contain affiliate links. Please read our disclosure policy for more information. </p>
+<p> Let’s go through 10 of the very best startup books for founders to read. Each of the books included in this list covers a unique perspective on building a better startup. They can help you gather important feedback, iterate and improve your idea, and turn it into a sustainable business. </p>
+<p> So, let’s jump directly into the list. </p>
+<p> Best Startup Books </p>
+<p> Beginning with book number one, “The Lean Startup” by Eric Ries. This is a must-read book for anybody building a startup because it really focuses on the importance of identifying and clarifying the underlying assumptions of your startup really early in the process. And two that it focuses on primarily are the value assumption and the growth assumption. </p>
+<p> So with the value assumption, there’s going to be some underlying belief that customers will value and appreciate what it is that you’re aiming to create. And number two, there’s going to be some assumption about how you plan to attract customers to the business in a profitable way. </p>
+<p> And so this book really focuses on getting clear about what those assumptions are and finding inexpensive ways to test and validate them really early on before you spend a lot of time, energy, or money building out the business processes around that core idea. </p>
+<p> Next on the list is “Sprint” by Jake Knapp. This book covers Google ventures unique five-day process for answering critical questions really early on in the product development process. And in many ways, it picks up where “The Lean Startup” left off because that book really focuses on why you want to conduct things like an MVP or a prototype to make sure that you’re validating your idea really early on. </p>
+<p> But this book provides a lot of frameworks, tactics, tools, and systems for how to go about doing that more effectively. So even though “The Lean Startup” does cover some of that, I would say this book is a very strong compliment because it goes into much, much more detail about exactly how to build a prototype for whatever your idea is and gather important feedback to make sure that you’re moving in the right direction. </p>
+<p> So if you need to solve a big problem, if you need to break out of a rut, if you need to make quick progress on a very difficult challenge, then I recommend that you use the five-day sprint week format to solve those kinds of challenges. </p>
+<p> Let’s continue on to “The Mom Test” by Rob Fitzpatrick. One of the fastest ways to improve your idea really early on even before you build something like a prototype or a minimum viable product is to talk with early potential customers to simply express to them what it is that you’re trying to solve and to get their feedback even before you really start to lock down what it is that you plan to build. </p>
+<p> Now, one of the big issues that we face when we share our idea with early potential customers is that often what we’re really trying to do is get early validation for our idea. And all too often we can make the mistake of trying to sell the idea instead of gathering truly useful information and feedback at this very early stage. </p>
+<p> And so the result of all that is that we often end up gathering false support or false encouragement because people are simply trying to be polite. So we share what it is that we’re working on, we explain it, we put our ego on the line, they pick up on the fact that we’re really hoping to get some encouragement, and so they offer up some kind of encouragement again to be socially acceptable or simply to be polite. </p>
+<p> And so this book is all about how to properly talk with potential customers to get useful and honest information that you can use to iterate and improve your idea even before you build something like a prototype. It’s all about how to communicate with people to get the maximum value out of the conversation in terms of honest information that you can actually use instead of just seeking out early validation. So an absolute must-read really early on in the startup journey. </p>
+<p> Let’s continue on to “Crossing The Chasm” by Geoffrey A. Moore. This book is about how to successfully market and sell disruptive products. And the reason why this is so important for startups is that a big part of this book is about explaining the different kinds of customers that you’re gonna come into contact with throughout the startup and even full-on business journey. </p>
+<p> So it explains the different kinds of people you’re going to meet along the way and the different things that they value at various stages of your business. So I’ll give you two quick examples and there are others, but I’ll give you two quick examples. There are early adopters, the kinds of people that absolutely love to try new things, and in fact, often go out of their way to try new things, new solutions, new interesting ways to solve a problem. </p>
+<p> And then there are pragmatist mainstream customers, and these customers do not like to try new things. In fact, they much prefer tried and true proven solutions. And what’s very important to understand is that early adopters, while they’re typically the first kind of customer or one of the first that you’re going to encounter with a startup, they represent a relatively small portion of the overall market. </p>
+<p> And if you can make your way, or you can cross the chasm over to pragmatist mainstream customers, this is a much larger group that can ultimately allow your business to become much more successful. And so it’s very important to understand the different kinds of customers that you’ll come into contact with and what it is they value, and how you can eventually move from, again, these early adopters to this much larger audience of mainstream customers so you can increase your revenues and increase your profits over time. </p>
+<p> Let’s continue on to “Start At The End” by Matt Wallaert. This book is about building products that can change customer behavior. And as the title suggests, it’s all about starting at the end and getting very clear about how you want customers to use or engage with your product or your service. How you want it to change the world or change their behavior. </p>
+<p> And then you work backward from that to design the product or service in such a way that that outcome is significantly more likely. And the book is into great detail about exactly how to do this. How to design a product so that certain outcomes are much more likely. </p>
+<p> And if you can do this correctly if you apply these ideas in the right way, you can increase product usage, adoption, and engagement, and this in turn, of course, can end up causing more positive reviews, increased word of mouth referral, and even repeat purchases in the future because customers are getting significantly more value out of whatever it is that you’ve created. </p>
+<p> Let’s continue on to “Marketing Made Simple” by Donald Miller. At the end of the day, a lot of startup success ultimately comes down to effective marketing. You need a consistent and reliable way to convert prospects into paying customers. </p>
+<p> And this book is all about how to build an effective sales funnel so that you can communicate with potential customers about exactly what it is that you offer, how it can benefit them, how it can create value for them, and why they may or may not be interested in what it is that you have to offer. So this book goes into a lot of detail around the fundamental things that you need to execute to build out a simple yet effective sales funnel. </p>
+<p> Some of the topics include how to build a sales website, how to create lead generators, and how to use email sequences both to nurture prospects and to close sales. So if you’re looking for a simple way to build out your basic marketing or sales funnel, this is an absolute must-read. </p>
+<p> Let’s continue on to “Traction” by Gabriel Weinberg and Justin Mares. The number one reason why new startups often fail is that they aren’t able to attract enough customers. So this book is all about how to go about attracting more customers to your startup. And it covers 19 different traction channels or marketing channels that you can use to attract customers. </p>
+<p> And even more valuable than that, in my opinion, is it goes through a simple framework for how to identify which of the marketing channels are the best fit for your particular startup. So the bullseye framework covered in the book helps you brainstorm ideas, select promising channels, test those channels, and ultimately choose the best channel for you to start on, and then eventually you can revisit the process to identify additional opportunities moving forward. </p>
+<p> So this book very much works hand in hand with the last one, with “Marketing Made Simple” that book’s all about how to build out your sales funnel, and a book like this can help you attract prospects and customers into that sales funnel. </p>
+<p> Let’s continue on to “Contagious” by Jonah Berger. One of the most important factors, once you begin to gain a little bit of traction with your startup, is word-of-mouth referral. </p>
+<p> If you can ever so slightly increase the rate at which people who are familiar with your product or service end up sharing or recommending what it is that you do with other people, that can have a profound impact on your long-term success because the more people are willing to share and recommend what it is that you do, you can save a lot when it comes to marketing and even the marketing that you do engage with in terms of paid advertising or anything like that, all of this is made much more effective because it also leads to additional word of mouth referral. </p>
+<p> So this book is all about the six principles of contagiousness. Six different things that you can incorporate into your product or into your business in the way that you communicate about your product to make it more likely that people will engage in word of mouth referral and help spread what it is that you do. </p>
+<p> And the book provides many, many examples of how businesses have successfully integrated each of these six ideas into different kinds of products, or services, or ideas to make them that much more contagious. </p>
+<p> Let’s continue on to “Blue Ocean Strategy” by W. Chan Kim and Reneée Mauborgne. This is a very popular book about how to avoid the bloody red ocean of competition. As a startup, you wanna do everything you can to avoid direct head-to-head competition with a well-established business. </p>
+<p> Now, that runs contrary to popular belief because a lot of people think that startups are all about disruption, but ideally, you wanna craft a strategy that allows you to differentiate yourself from established businesses. Eventually, you might face off with them in some way, but initially, you really wanna have a unique value proposition that is not in direct head-to-head competition with another business. </p>
+<p> So this book is all about tools, frameworks, tactics, and strategies around creating a blue ocean of uncontested market space. How to avoid direct competition by creating a differentiated strategy. So at the end of the day, it’s about creating unique value for a unique audience, and making the competition largely irrelevant to your long-term success. </p>
+<p> Let’s continue on to the last book on the list, “Zero To One” by Peter Thiel. This book is all about how to build a valuable business. And it kicks off with a contrarian question, what important truth do very few people agree with you on? And the idea behind this question and a lot of the other ideas in this book is to help you get very clear about your own unique beliefs about the world, or your industry, or how you see the future as being different than the present. </p>
+<p> Because it’s this kind of unique thinking that allows you to create a business, or a product, or a solution that is different than what other people out there in the marketplace are providing. And so you can get very clear on how you can create unique value in the marketplace. And Peter Thiel makes the argument that a startup’s most important strength is new thinking and that its small size is what makes this possible. </p>
+<p> I love Peter’s definition of a startup. He says, “A startup is the largest group of people you can convince of a plan to build a different future.” He goes on to explain that a startup is very uniquely positioned to create meaningful change, because as an individual thinker, or entrepreneur, or founder, very difficult to create a meaningful impact in the world. </p>
+<p> And as a large, well-established business it’s very difficult to have fresh and interesting thinking that breaks with the status quo. So a startup is very uniquely positioned to take interesting ideas and have a very real impact on the world. I found this book very inspiring, I found it very thought-provoking. </p>
+<p> Featured </p>
+<p> Explore </p>
+<p> BOOKPREFERRED.COM IS A PARTICIPANT IN THE AUDIOBOOKS.COM AFFILIATE PROGRAM, AN AFFILIATE ADVERTISING PROGRAM DESIGNED TO PROVIDE A MEANS FOR SITES TO EARN ADVERTISING FEES BY ADVERTISING AND LINKING TO AUDIOBOOKS.COM </p>
+<p> COPYRIGHT 2021 BOOKPREFERRED.COM | ALL RIGHTS RESERVED </p>
+</doc>
+<doc id="file22196637" filename="214869-quot-I-read-a-book-quot-quot-I-read-books-quot-and-quot-I-read-book-quot" parent_folder="web1" url="https://www.usingenglish.com/forum/threads/214869-quot-I-read-a-book-quot-quot-I-read-books-quot-and-quot-I-read-book-quot">
+<p> "I read a book," "I read books" and "I read book." </p>
+<p> 1. I read a book. 2. I read books. 3. I read book. I know that sentences (1) and (2) are grammatically correct. In the third sentence, "a" was omitted. Is it also correct? </p>
+<p> Re: "I read a book," "I read books" and "I read book." </p>
+<p> No. 3 is wrong without the article 'a' since book is countable. You can say : I read fiction. not a teacher </p>
+<p> Re: "I read a book," "I read books" and "I read book." </p>
+<p> Would this mean that in the sentence "I never saw action during the war," the word action is uncountable and it's the reason why there is no an or the? And the word action in the sentences below is countable? 1. I never saw an/the action during the war. 2. I never saw actions during the war. Thanks in advance. </p>
+<p> Re: "I read a book," "I read books" and "I read book." </p>
+<p> Originally Posted by mamen </p>
+<p> Would this mean that in the sentence "I never saw action during the war," the word action is uncountable and it's the reason why there is no an or the? And the word action in the sentences below is countable? 1. I never saw an/the action during the war. 2. I never saw actions during the war. Thanks in advance. </p>
+<p> Action, like many nouns, can be used both countably and uncountably. It is probably better to think of these as characteristics, rather than part of the nature of the noun. When you're talking about fighting in wars, we tend to use it uncountably, though if the conflict consisted of a single instance the action (=all) would work. In many other contexts, we use it countably. </p>
+<p> Re: "I read a book," "I read books" and "I read book." </p>
+<p> Originally Posted by Tdol </p>
+<p> Action, like many nouns, can be used both countably and uncountably. It is probably better to think of these as characteristics, rather than part of the nature of the noun. When you're talking about fighting in wars, we tend to use it uncountably, though if the conflict consisted of a single instance the action (=all) would work. In many other contexts, we use it countably. </p>
+<p> Does this mean that in the sentence "Regular verbs take the -d or -ed ending to express action in the past" the word action is uncountable since we didn't use an or the in the given sentence? Thanks in advance. </p>
+</doc>
+<doc id="file22196634" filename="easy-read" parent_folder="web1" url="https://www.goodreads.com/shelf/show/easy-read">
+<p> Easy Read Books </p>
+<p> (shelved 39 times as easy-read) avg rating 4.47 — 7,887,863 ratings — published 1997 </p>
+<p> (shelved 36 times as easy-read) avg rating 4.18 — 3,992,098 ratings — published 2012 </p>
+<p> (shelved 33 times as easy-read) avg rating 3.62 — 5,414,889 ratings — published 2005 </p>
+<p> (shelved 32 times as easy-read) avg rating 4.11 — 1,103,160 ratings — published 2012 </p>
+<p> (shelved 31 times as easy-read) avg rating 4.11 — 612,434 ratings — published 2014 </p>
+<p> (shelved 28 times as easy-read) avg rating 4.32 — 6,962,309 ratings — published 2008 </p>
+<p> (shelved 27 times as easy-read) avg rating 4.43 — 3,047,047 ratings — published 1998 </p>
+<p> (shelved 26 times as easy-read) avg rating 4.00 — 399,728 ratings — published 2010 </p>
+<p> (shelved 25 times as easy-read) avg rating 4.57 — 3,172,171 ratings — published 1999 </p>
+<p> (shelved 24 times as easy-read) avg rating 3.99 — 538,612 ratings — published 2013 </p>
+<p> (shelved 24 times as easy-read) avg rating 4.30 — 2,796,159 ratings — published 2009 </p>
+<p> (shelved 24 times as easy-read) avg rating 4.13 — 1,979,408 ratings — published 1993 </p>
+<p> (shelved 23 times as easy-read) avg rating 4.03 — 460,703 ratings — published 2015 </p>
+<p> (shelved 23 times as easy-read) avg rating 4.25 — 1,293,998 ratings — published 2012 </p>
+<p> (shelved 23 times as easy-read) avg rating 4.17 — 3,224,438 ratings — published 2011 </p>
+<p> (shelved 22 times as easy-read) avg rating 4.24 — 346,906 ratings — published 2015 </p>
+<p> (shelved 22 times as easy-read) avg rating 4.01 — 489,380 ratings — published 2013 </p>
+<p> (shelved 22 times as easy-read) avg rating 4.01 — 970,318 ratings — published 2012 </p>
+<p> (shelved 22 times as easy-read) avg rating 3.77 — 815,457 ratings — published 2003 </p>
+<p> (shelved 21 times as easy-read) avg rating 4.13 — 772,776 ratings — published 2012 </p>
+<p> (shelved 21 times as easy-read) avg rating 4.05 — 2,586,214 ratings — published 2010 </p>
+<p> (shelved 21 times as easy-read) avg rating 3.79 — 912,005 ratings — published 1996 </p>
+<p> (shelved 21 times as easy-read) avg rating 4.27 — 2,256,917 ratings — published 2005 </p>
+<p> (shelved 21 times as easy-read) avg rating 4.61 — 3,077,865 ratings — published 2007 </p>
+<p> (shelved 20 times as easy-read) avg rating 4.07 — 281,492 ratings — published 2015 </p>
+<p> (shelved 19 times as easy-read) avg rating 4.09 — 185,269 ratings — published 2019 </p>
+<p> (shelved 19 times as easy-read) avg rating 4.56 — 2,871,500 ratings — published 2000 </p>
+<p> (shelved 19 times as easy-read) avg rating 4.18 — 480,787 ratings — published 2014 </p>
+<p> (shelved 19 times as easy-read) avg rating 4.21 — 1,393,170 ratings — published 1999 </p>
+<p> (shelved 19 times as easy-read) avg rating 3.70 — 1,551,332 ratings — published 2007 </p>
+<p> (shelved 19 times as easy-read) avg rating 3.84 — 404,500 ratings — published 2003 </p>
+<p> (shelved 18 times as easy-read) avg rating 4.02 — 237,567 ratings — published 2019 </p>
+<p> (shelved 18 times as easy-read) avg rating 3.94 — 2,360,265 ratings — published 2015 </p>
+<p> (shelved 18 times as easy-read) avg rating 4.57 — 2,683,455 ratings — published 2005 </p>
+<p> (shelved 18 times as easy-read) avg rating 3.71 — 1,442,637 ratings — published 2008 </p>
+<p> (shelved 17 times as easy-read) avg rating 4.40 — 862,052 ratings — published 2012 </p>
+<p> (shelved 17 times as easy-read) avg rating 4.26 — 885,002 ratings — published 2017 </p>
+<p> (shelved 17 times as easy-read) avg rating 4.24 — 973,058 ratings — published 2011 </p>
+<p> (shelved 17 times as easy-read) avg rating 3.56 — 1,606,283 ratings — published 2006 </p>
+<p> (shelved 16 times as easy-read) avg rating 4.35 — 683,887 ratings — published 2012 </p>
+<p> (shelved 16 times as easy-read) avg rating 4.01 — 649,341 ratings — published 2013 </p>
+<p> (shelved 16 times as easy-read) avg rating 3.76 — 1,058,533 ratings — published 2008 </p>
+<p> (shelved 16 times as easy-read) avg rating 3.66 — 2,139,187 ratings — published 2011 </p>
+<p> (shelved 16 times as easy-read) avg rating 4.00 — 1,251,171 ratings — published 2005 </p>
+<p> (shelved 16 times as easy-read) avg rating 3.76 — 313,772 ratings — published 2000 </p>
+<p> (shelved 16 times as easy-read) avg rating 4.50 — 2,767,614 ratings — published 2003 </p>
+<p> (shelved 15 times as easy-read) avg rating 3.88 — 2,103,077 ratings — published 1937 </p>
+<p> (shelved 15 times as easy-read) avg rating 3.57 — 801,856 ratings — published 2016 </p>
+<p> (shelved 15 times as easy-read) avg rating 3.72 — 257,336 ratings — published 2015 </p>
+<p> (shelved 15 times as easy-read) avg rating 3.89 — 185,214 ratings — published 2011 </p>
+</doc>
+<doc id="file22196635" filename="free-online" parent_folder="web1" url="https://www.goodreads.com/shelf/show/free-online">
+<p> Free Online Books </p>
+<p> (shelved 34 times as free-online) avg rating 3.83 — 2,776 ratings — published 2009 </p>
+<p> (shelved 28 times as free-online) avg rating 4.28 — 4,401 ratings — published 2010 </p>
+<p> (shelved 28 times as free-online) avg rating 3.91 — 2,089 ratings — published 2011 </p>
+<p> (shelved 26 times as free-online) avg rating 4.04 — 1,954 ratings — published 2012 </p>
+<p> (shelved 24 times as free-online) avg rating 3.66 — 1,717 ratings — published 2011 </p>
+<p> (shelved 23 times as free-online) avg rating 4.04 — 1,099 ratings — published 2014 </p>
+<p> (shelved 23 times as free-online) avg rating 4.19 — 5,016 ratings — published 2007 </p>
+<p> (shelved 22 times as free-online) avg rating 3.88 — 1,079 ratings — published 2013 </p>
+<p> (shelved 22 times as free-online) avg rating 3.86 — 1,477 ratings — published 2008 </p>
+<p> (shelved 21 times as free-online) avg rating 3.73 — 1,723 ratings — published 2006 </p>
+<p> (shelved 18 times as free-online) avg rating 4.04 — 1,423 ratings — published 2014 </p>
+<p> (shelved 18 times as free-online) avg rating 3.80 — 1,539 ratings — published 2007 </p>
+<p> (shelved 18 times as free-online) avg rating 4.17 — 1,165 ratings — published 2009 </p>
+<p> (shelved 17 times as free-online) avg rating 4.04 — 1,441 ratings — published 2013 </p>
+<p> (shelved 15 times as free-online) avg rating 4.10 — 2,790 ratings — published 2013 </p>
+<p> (shelved 15 times as free-online) avg rating 4.13 — 1,083 ratings — published 2012 </p>
+<p> (shelved 14 times as free-online) avg rating 4.17 — 5,702 ratings — published 2012 </p>
+<p> (shelved 14 times as free-online) avg rating 3.82 — 71,163 ratings — published 2013 </p>
+<p> (shelved 13 times as free-online) avg rating 3.58 — 1,078 ratings — published 2008 </p>
+<p> (shelved 13 times as free-online) avg rating 4.11 — 3,110 ratings — published 2006 </p>
+<p> (shelved 11 times as free-online) avg rating 3.89 — 1,374 ratings — published 2013 </p>
+<p> (shelved 11 times as free-online) avg rating 4.09 — 3,979 ratings — published 2012 </p>
+<p> (shelved 11 times as free-online) avg rating 3.99 — 1,332 ratings — published 2012 </p>
+</doc>
+<doc id="file22196628" filename="List_of_best-selling_books" parent_folder="web1" url="https://en.wikipedia.org/wiki/List_of_best-selling_books">
+<p> This page provides lists of best-selling individual books and book series to date and in any language. "Best-selling" refers to the estimated number of copies sold of each book, rather than the number of books printed or currently owned. Comics and textbooks are not included in this list. The books are listed according to the highest sales estimate as reported in reliable, independent sources. This list is incomplete because there are many books, such as The Count of Monte Cristo by Alexandre Dumas, Don Quixote by Miguel de Cervantes, and The Lord of the Rings[1] (which has been sold as both a trilogy of books, The Fellowship of the Ring, The Two Towers, and Return of the King, and as a single issue) by J. R. R. Tolkien, that lack comprehensive sales figures. </p>
+<p> According to Guinness World Records as of 1995, the Bible is the best-selling book of all time with an estimated 5 billion copies sold and distributed.[2] Sales estimates for other printed religious texts include at least 800 million copies for the Qur'an and 190 million copies for the Book of Mormon.[3] Among non religious texts, the Quotations from Chairman Mao Tse-tung, also known as the Little Red Book, has produced a wide array of sales and distribution figures — with estimates ranging from 800 million[2] to over 6.5 billion printed volumes.[4] Some claim the distribution ran into the "billions"[5] and some cite "over a billion" official volumes between 1966 and 1969 alone as well as "untold numbers of unofficial local reprints and unofficial translations."[6][7] Exact print figures for these and other books may also be missing or unreliable since these kinds of book may be produced by many different and unrelated publishers, in some cases over many centuries. All books of a religious, ideological, philosophical or political nature have thus been excluded from the below lists of best-selling books for these reasons. </p>
+<p> Having sold more than 500 million copies worldwide,[8][9][10] Harry Potter by J. K. Rowling is the best-selling book series in history. The first novel in the series, Harry Potter and the Philosopher's Stone, has sold in excess of 120 million copies,[11] making it one of the best-selling books of all time. As of June 2017, the series has been translated into 80 languages,[12] placing Harry Potter among history's most translated literary works. The last four books in the series consecutively set records as the fastest-selling books of all time, where the final installment, Harry Potter and the Deathly Hallows, sold roughly fifteen million copies worldwide within twenty-four hours of its release.[13][14] With twelve million books printed in the first US run, it also holds the record for the highest initial print run for any book in history.[15][16] </p>
+<p> Notes </p>
+<p> The Perry Rhodan series has sold more than 1 billion copies,[301] but is not listed because that figure includes magazine sales, not novels alone.[citation needed] Similarly, the Jerry Cotton series has sold over 300 million copies, but most of these were in magazine format.[302] </p>
+<p> The figures given for some books are for the number printed instead of confirmed sales.[which?] </p>
+<p> 家庭に於ける實際的看護の秘訣 (Katei Ni Okeru Jissaiteki Kango No Hiketsu) "Key to Practical Personal Care at Home" </p>
+<p> ^ a b Forbes Archived 2017-08-25 at the Wayback Machine on Harry Potter: "It and the six subsequent books have now sold 500 million copies worldwide." (22 May 2013) </p>
+<p> ^ Hybable Archived 2013-10-15 at archive.today on Harry Potter: "Collectively, the seven Harry Potter books have sold nearly 500 million copies since the publication of Harry Potter and the Philosopher's Stone in 1997, making Harry Potter the bestselling book series of all time." (29 April 2012) </p>
+<p> ^ The Telegraph Archived 2017-10-04 at the Wayback Machine on Harry Potter: "More than 500 million copies of the books have been sold worldwide and the series has been translated into 79 languages." (26 June 2017) </p>
+<p> ^ J.K. Rowling Archived 2017-07-31 at the Wayback Machine on Harry Potter: "20 years after it was first published in the UK in 1997, Harry Potter and the Philosopher's Stone is to be translated into its 80th language – Scots!" (28 June 2017) </p>
+<p> ^ Forbes on Harry Potter and the Deathly Hallows: "The final one, Harry Potter and the Deathly Hallows, has sold 44 million since it was published last July, including 15 million in the first 24 hours." (19 December 2008) </p>
+<p> ^ World Record Academy on Harry Potter and the Deathly Hallows: "Harry Potter and the Deathly Hallows – the seventh and last novel in the series – sold around 15 million copies worldwide in its first day and set the new world record for the fastest selling book." (23 July 2007) </p>
+<p> ^ BBC Archived 2008-11-28 at the Wayback Machine on Harry Potter and the Deathly Hallows: "The book had a print run of 12 million in the US, compared with 10.8 million for the last book, according to Lisa Holton of the book's US publisher Scholastic." (23 July 2007) </p>
+<p> ^ Inshorts on Harry Potter and the Deathly Hallows: "The final instalment of the Harry Potter series, 'The Deathly Hallows' is recognised by Guinness World Records as 'the fastest selling book of fiction in 24 hours' with a total of 15 million books sold. With 12 million books printed in the first run, it also holds a record for the 'highest initial print run for a fiction book'." (4 July 2016) </p>
+<p> ^ Davies, Helen; Dorfman, Marjorie; Fons, Mary; Hawkins, Deborah; Hintz, Martin; Lundgren, Linnea; Priess, David; Clark Robinson, Julia; Seaburn, Paul; Stevens, Heidi; Theunissen, Steve (14 September 2007). "21 Best-Selling Books of All Time". Editors of Publications International, Ltd. Archived from the original on 7 April 2009. Retrieved 25 March 2009. </p>
+<p> ^ The Telegraph Archived 2010-04-06 at the Wayback Machine on The Lion, the Witch and the Wardrobe: "This classic story has sold more than 85 million copies in 29 different languages since its publication in 1950." (3 April 2010) </p>
+<p> ^ The Independent Archived 2016-01-29 at the Wayback Machine on She: "His next novel, She, about a beautiful ageless sorceress, was a smashing success, and by 1965 had sold 83 million copies." (3 April 2010) </p>
+<p> ^ San José Mercury News Archived 2012-01-13 at the Wayback Machine on The Da Vinci Code: "That earlier book has sold more than 80 million copies worldwide, was adapted into a movie and made hits out of Brown's previous novels, including "Angels & Demons," whose film version is now in theaters." (5 June 2009) </p>
+<p> ^ Hypable Archived 2013-10-15 at archive.today on Harry Potter and the Chamber of Secrets: "As of 2012, the book has sold 77 million copies worldwide and been translated into 72 languages." (April 2012) </p>
+<p> ^ a b c d e FanSided Archived 2017-08-24 at the Wayback Machine on Harry Potter: "The success of the books — every one of which has sold over 65 million copies — and the films — which have done billions of dollars worth of box office sales worldwide — is perhaps the easiest way to demonstrate the sheer size of the Harry Potter fandom." (November 2016) </p>
+<p> ^ "Archived copy". Archived from the original on 2017-09-06. Retrieved 2017-09-03.CS1 maint: archived copy as title (link) April 26, 2014 </p>
+<p> ^ ABC Australia Archived 2014-04-26 at the Wayback Machine on Heidi: "Johanna Spyri's story has been translated into fifty languages and sold fifty million copies, but the marketing juggernaut shows no signs of slowing down – fat from it. Heidi now has her own theme park." (5 August 2002) </p>
+<p> ^ a b c The Top 10 of Everything 2002 by Russell Ash </p>
+<p> ^ Reuters Archived 2010-01-13 at the Wayback Machine on Anne of Green Gables: ""Anne of Green Gables" has sold more than 50 million copies and been translated into 20 languages, according to Penguin." (19 March 2008) </p>
+<p> ^ The Times Archived 2008-07-18 at the Wayback Machine on Black Beauty: "Fifty million copies of Black Beauty have been sold in the years since Anna Sewell's publisher paid her £20 for the story." (29 February 2008) </p>
+<p> ^ Pocono Record Archived 2014-01-21 at the Wayback Machine on Charlotte's Web: " It has sold over 50 million copies, been translated into 23 languages, and shown in three major movie versions." (06 July 2007) </p>
+<p> ^ Sunday World Archived 2014-01-18 at archive.today on The Ginger Man: "Donleavy, who lives near Mullingar, has previously rejected repeated attempts by Hollywood to make a film version of his book, which has sold 50 million copies worldwide and been translated into 18 languages." (5 August 2008) </p>
+<p> ^ Fleming, Michael (20 April 2009). "Columbia moves on 'Symbol'". Variety Online. Archived from the original on 24 April 2009. Retrieved 1 November 2009. </p>
+<p> ^ Wenner, Emma. "July Religion Bestsellers: 'Purpose Driven Life' Makes a Comeback; James Patterson Tops". Publishers Weekly. Retrieved November 21, 2018. Rick Warren’s The Purpose Driven Life reappeared on PW's Religion Nonfiction list at #9 for July after a nearly year-long absence. Zondervan consistently promotes the ever popular devotional—which has sold 33 million copies in over 50 languages since its 2002 publication... </p>
+<p> ^ Playbill Archived 2017-03-08 at the Wayback Machine on The Kite Runner: "The Kite Runner, which has been published in 70 countries, selling 31.5 million copies in 60 languages." (2 September 2016) </p>
+<p> ^ Winnipeg Free Press Archived 2010-05-13 at the Wayback Machine on The Girl with the Dragon Tattoo: "The first book sold 30 million copies and is available in 44 languages." (15 April 2010) </p>
+<p> ^ The Columbus Dispatch on The Wind in the Willows: "More than 25 million copies of the book have been sold in 70 countries since 1908, according to the Copyrights Group, which is presently promoting a new edition." (4 May 2008) </p>
+<p> ^ Forbes Archived 2017-03-29 at the Wayback Machine on Covey: "Stephen Covey will be remembered most as the author of The Seven Habits of Highly Effective People, which sold over 25 million copies." (16 July 2012) </p>
+<p> ^ The Age Archived 2008-12-05 at the Wayback Machine on The Celestine Prophecy: "it has sold in the vicinity of 23 million copies since its publication in 1993" (22 March 2008) </p>
+<p> ^ The Toronto Star Archived 2012-11-05 at the Wayback Machine on Mario Puzo: "According to the Official Mario Puzo Library website, the book sold 21 million copies in hardback and paper by 1997." (21 July 2007) </p>
+<p> ^ Playbill Archived 2010-07-26 at the Wayback Machine on Love Story: "Erich Segal's best-selling novel, which has sold 21 million copies worldwide in 33 languages[...]" (23 July 2010) </p>
+<p> ^ The Financial Times Archived 2008-05-19 at the Wayback Machine on Wolf Totem: "Since it first appeared in 2004, Jiang Rong's Wolf Totem has sold as many as 20 million copies." (15 March 2008) </p>
+<p> ^ The Philadelphia Inquirer on The Happy Hooker: "He said he found it fascinating that her book, which has sold 20 million copies to date, is still being picked up today." (26 June 2008) </p>
+<p> ^ The Times Archived 2007-03-09 at the Wayback Machine on Jaws: "Jaws stayed for 40 weeks in the bestseller charts of The New York Times, eventually selling 20 million copies [...]" (13 February 2006) </p>
+<p> ^ The Huntsville Forester on Love You Forever: "The children's classic Love You Forever has sold over 20 million copies worldwide and is in its 65th printing." (29 October 2008) </p>
+<p> ^ CBC Archived 2009-05-08 at the Wayback Machine on The Women's Room: "It sold 20 million copies and was widely translated, despite poor reviews." (5 May 2009) </p>
+<p> ^ The Australian Archived 2012-01-09 at the Wayback Machine on What to Expect When You're Expecting: "What to Expect When You're Expecting, in its fourth edition, was first published in 1984 and has sold more than 20 million copies." (27 October 2010) </p>
+<p> ^ New York Times Upfront Archived 2013-11-05 at the Wayback Machine on The Adventures of Huckleberry Finn: "This year marks the 125th anniversary of the publication of Huckleberry Finn in the U.S., and the book is still selling—more than 20 million copies worldwide to date—and still generating controversy." (10 March 2010) </p>
+<p> ^ "The Guardian view on Jane Austen: pride not prejudice". The Guardian. August 13, 2017. Retrieved November 21, 2018. Pride and Prejudice is the novel that simply will not die. Twenty million copies on, Mr Darcy has become so synonymous with the romantic hero that when researchers found a pheromone in male mouse urine irresistible to female mice, they named it "darcin". </p>
+<p> ^ John J. Miller on Thor Heyerdahl on National Review Online Archived 2013-06-15 at the Wayback Machine on Kon-Tiki: Across the Pacific in a Raft: ""Our intention was to test the performance and quality of the Inca raft, its seaworthiness and loading capacity, and to ascertain whether the elements would really propel it across the sea to Polynesia with its crew still on board," he wrote in Kon-Tiki, a book that has sold 20 million copies." (April 19, 2002) </p>
+<p> ^ USA Today Archived 2016-04-14 at the Wayback Machine on Where the Wild Things are: "More than 20 million copies have been sold in 32 languages." (November 21, 2013) </p>
+<p> ^ The New York Times Archived 2017-08-03 at the Wayback Machine on The Power of Positive Thinking: "Ruth Stafford Peale, the author's widow (he died last Christmas Eve) feels that the book is as viable today as it was 20 million copies ago." (May 31, 1994) </p>
+<p> ^ Belfast Telegraph on The Secret: "Publishers Simon & Schuster expect sales to be on a par with – if not bigger than – 'The Secret', which has so far notched up 20 million copies in 46 languages." (19 August 2010) </p>
+<p> ^ Washington Post Archived 2014-04-26 at the Wayback Machine on Fear of Flying : "It has been 40 years since "Fear" and its glamorous author landed like feminist blonde bombshells on American culture, selling 20 million copies here and abroad." (7 October 2013) </p>
+<p> ^ "Frank Herbert". Archived from the original on 2016-01-12. Retrieved 2015-02-06.Macmillan on Dune: "Today the novel is more popular than ever, with new readers continually discovering it and telling their friends to pick up a copy. It has been translated into dozens of languages and has sold almost 20 million copies;" </p>
+<p> ^ OBITUARY: Michael Ende – People – News – The Independent Archived 2017-08-15 at the Wayback Machine on The Neverending Story: "Translated into 30 languages and selling over 16 million copies, it starts when 10-year-old Bastian, overweight and undervalued, decides he will read a fantastic book rather than endure another day's bullying at school." (Friday 01 September 1995) </p>
+<p> ^ CBS Archived 2008-04-13 at the Wayback Machine on Ken Follett: "But since it was published in 1989, "The Pillars of the Earth" has become an international sensation, selling 15 million copies worldwide." (7 October 2007) </p>
+<p> ^ The Financial Post Archived 2008-10-09 at the Wayback Machine on Dale Carnegie: "Dale Carnegie's How to Win Friends and Influence People, the gold standard of the genre, has sold more than 15 million copies since it was first published in 1937." (5 April 2008) </p>
+<p> ^ The Patriot Ledger[permanent dead link] on Perfume: "Yet the scene, like the movie, is so daring, so challenging, you cannot help but respect Tykwer's unerring desire to remain true to the source novel, a book that has sold 15 million copies and has been credited with inspiring Kurt Cobain to write the Nirvana classic ‘‘Scentless Apprentice.’’" (5 January 2007) </p>
+<p> ^ Irish Times Archived 2012-01-05 at the Wayback Machine on The Shadow of the Wind: "[...]his novel The Shadow of the Wind has sold more than 15 million copies worldwide, writes Arminta Wallace" (13 June 2009) </p>
+<p> ^ USA Today Archived 2012-01-05 at the Wayback Machine on Tuesdays with Morrie: "The book has sold more than 14 million copies worldwide since 1997 and became an Oprah Winfrey-produced TV movie. " (8 April 2008) </p>
+<p> ^ The International Herald Tribune on Follow Your Heart: "But Susanna Tamaro's "Follow Your Heart," the biggest selling Italian postwar novel, with more than 14 million copies sold, according to its publisher, Baldini Castoldi, as it was known then, sold barely 25,000 copies in the United States." (3 August 2008) </p>
+<p> ^ The Wall Street Journal Archived 2017-03-08 at the Wayback Machine on A Wrinkle in Time: "Madeleine L’Engle's ‘A Wrinkle in Time’ has sold 14 million copies since its publication in 1962." (16 April 2015) </p>
+<p> ^ Associated Press Archived 2010-09-06 at the Wayback Machine on Norwegian Wood: "More than 10 million copies of the book have been sold in Japan alone, with 2.6 million more sold in another 33 languages." (2 September 2010) </p>
+<p> ^ The Toronto Star Archived 2012-11-05 at the Wayback Machine on Grace Metalious: "It sold 100,000 copies in its first month and went on to sell another 12 million copies, was made into a film and eventually into a prime-time television series that made the young Mia Farrow a star." (21 July 2007) </p>
+<p> ^ China View Archived 2009-01-10 at the Wayback Machine on La Peste: "Translated into 28 languages, the book has sold more than 12 million copies around the world." (9 April 2008) </p>
+<p> ^ The Australian Archived 2012-01-09 at the Wayback Machine on Man's Search for Meaning: "It's the 75th edition of a book that has sold 12 million copies and is one of the most read Holocaust texts." (14 May 2011) </p>
+<p> ^ The Wall Street Journal on The Exorcist: "Back in the 1970s, those smaller, rack-sized paperbacks were the blockbusters of the business, led by such best sellers as William Peter Blatty's "The Exorcist" (11 million copies sold); Peter Benchley's "Jaws" (more than nine million copies), and Sidney Sheldon's "The Other Side of Midnight" (six million copies plus)." (14 September 2007) </p>
+<p> ^ The Telegraph Archived 2010-04-06 at the Wayback Machine on The Gruffalo: "The Gruffalo has sold more than 10.5 million copies, been adapted for stage in both the West End and Broadway, and in 2009 was made into a 30-minute animated film" (3 April 2010) </p>
+<p> ^ TVNZ Archived 2009-09-25 at the Wayback Machine on The Lovely Bones: "Published in 2002, Lovely Bones is the second novel by Alice Sebold, and has sold over 10 million copies worldwide, remaining on the New York Times hardback bestseller list for over a year." (5 May 2007) </p>
+<p> ^ The Telegraph on Wild Swans: "Selling more than 10 million copies and topping the "most borrowed historical biography" chart in British libraries year after year, it proved a publishing phenomenon" (21 July 2007) </p>
+<p> ^ Britannica Archived 2007-08-31 at the Wayback Machine on Santa Evita: "Martínez was best known as the author of two classics of Argentine and Latin American literature: La novela de Perón (1985, The Perón Novel, 1988) and Santa Evita (1995, Eng. trans., 1995); the latter was translated into 30 languages and sold more than 10 million copies." (22 November 2007) </p>
+<p> ^ The New York Times Archived 2017-09-04 at the Wayback Machine on Night: "Indeed, since it appeared in 1960, "Night" has sold an estimated 10 million copies — three million of them since Winfrey chose the book in January 2006 (and traveled with Wiesel to Auschwitz)." (20 January 2008) </p>
+<p> ^ ABC News Archived 2008-04-16 at the Wayback Machine on The Total Woman: "One of the first books to address the issue was Marabel Morgan's "The Total Woman," which sold more than 10 million copies to women of all religious persuasions, making it the best-selling nonfiction book of 1974." (15 April 2008) </p>
+<p> ^ U.S. News & World Report Archived 2009-05-08 at the Wayback Machine on What Color is Your Parachute: "Today, Parachute is one of the all-time bestselling careers books, with more than 10 million copies of 37 editions snapped up since 1970. " (1 October 2008) </p>
+<p> ^ The Toronto Star Archived 2012-10-24 at the Wayback Machine on The Dukan Diet: "The book has sold 10 million copies worldwide, but didn't really make an impression on North America until [...]" (18 April 2011) </p>
+<p> ^ BBC Magazine Archived 2011-10-26 at the Wayback Machine on The Joy of Sex: "The Joy of Sex ended up selling more than 10 million copies around the world – more than five million in the United States alone, where it stayed in the New York Times best-seller list for a decade." (26 October 2011). </p>
+<p> ^ "Archived copy". Archived from the original on 2009-11-13. Retrieved 2009-10-29.CS1 maint: archived copy as title (link) on The Gospel according to Peanuts: "The Gospel according to Peanuts ended up selling more than 10 million copies around the world." </p>
+<p> ^ "Archived copy". Archived from the original on 2013-02-23. Retrieved 2013-02-25.CS1 maint: archived copy as title (link) on Life of Pi: "It was based on a popular novel by Yann Martel that has sold more than 10 million copies around the world." </p>
+<p> ^ New Trailer hits for 'The Giver' Archived 2014-06-06 at the Wayback Machine on The Giver: "The film is based on Lois Lowry's beloved young adult novel of the same name, which was the winner the 1994 Newbery Medal and has sold over 10 million copies worldwide." </p>
+<p> ^ Author Examines Gay Athletes Archived 2016-02-16 at the Wayback Machine on The Front Runner: "The Front Runner long ago leapt from the shelves of so-called 'gay fiction' to become one of the best-selling novels of recent times, selling 10 million copies in eight languages." </p>
+<p> ^ Books Apart Archived 2017-08-19 at the Wayback Machine on The Goal: "The Goal is one of the best selling business novels. It has sold around 10 million copies and has been translated in over 35 languages." </p>
+<p> ^ Symons, Alex (6 August 2012). Mel Brooks in the Cultural Industries. Edinburgh University Press. p. 37. ISBN 978-0-7486-6450-4. </p>
+<p> ^ Forbes Archived 2017-08-25 at the Wayback Machine on Harry Potter and the Cursed Child: "In June 2016, J.K. Rowling's latest book, Harry Potter and the Cursed Child, not only shifted 8.3 million units in the first 24 hours and 11.5 million in the first 10 days but, according to Barnes & Noble, it also became the most pre-ordered book since Harry Potter and the Deathly Hallows." (27 June 2017) </p>
+<p> ^ Bookseller Archived 2015-07-10 at the Wayback Machine on Goosebumps: "Goosebumps is the second- bestselling series of all time globally, selling over 350 million books across 32 languages [...]" (14 October 2014) </p>
+<p> ^ Variety Archived 2008-04-13 at the Wayback Machine on the Berenstain Bears: "The company also is offering a new animated series based on the Berenstain Bears, the hugely popular children's brand that has sold more than 260 million books worldwide." (7 April 2002) </p>
+<p> ^ The Globe and Mail on Choose Your Own Adventure: "The Choose Your Own Adventure DVD movies are adaptations of the original books, which sold more than 250 million copies. " (22 August 2006) </p>
+<p> ^ Forbes Archived 2017-08-12 at the Wayback Machine on Sweet Valley High: "But despite 250 million copies in print, in 25 languages, Sweet Valley's sugar rush has been on the decline. " (28 October 2002) </p>
+<p> ^ USA Today Archived 2012-01-05 at the Wayback Machine on Nancy Drew: "The series is still in print and has sold over 200 million books in 17 languages." (29 May 2002) </p>
+<p> ^ "Archived copy". Archived from the original on 2017-08-16. Retrieved 2017-07-18.CS1 maint: archived copy as title (link) on Twilight: "Stephanie Meyer dwarfed the success of Brown's work with the Twilight series, selling over 120 million copies in less than seven years." (26 April 2012) </p>
+<p> ^ The Wall Street Journal on the Star Wars books: "According to a Random House spokesman, the publisher has more than 160 million copies of "Star Wars" books in print." (1 April 2005) </p>
+<p> ^ Mercer Mayer, HarperCollins, archived from the original on 24 October 2014, retrieved 24 October 2014, His most recognized character, the lovable and charismatic Little Critter®, was born in 1975 in the book Just for You. Mercer's Little Critter has since starred in more than two hundred books, which have sold over one hundred and fifty million copies. </p>
+<p> ^ E.L. James has a new 'Fifty Shades': 'Darker' from Christian's point of view |date=2017-10-10 on Fifty Shades of Grey: "The "Fifty Shades" trilogy, which began with the 2011 novel "Fifty Shades of Grey," has been a publishing phenomenon. The books have sold more than 150 million copies and have spawned two film adaptations, with a third one slated for release next year." (4 February 2018) </p>
+<p> ^ "Archived copy" (PDF). Archived from the original (PDF) on 2010-12-14. Retrieved 2015-06-17.CS1 maint: archived copy as title (link) </p>
+<p> ^ CityWire on Chicken Soup: "His Chicken Soup for the Soul series, co-authored with Jack Canfield, has sold over 130 million copies in 54 languages and spans 105 different titles." (17 August 2008) </p>
+<p> ^ BBC News Archived 2011-08-11 at the Wayback Machine on Mr. Men: "The famous books have gone on to sell 120 million copies and have been translated into 15 different languages. " (11 August 2011) </p>
+<p> ^ RTBF Archived 2011-01-24 at the Wayback Machine on Martine: "Soixante albums de "Martine" ont été publiés dans la collection "Farandole" et 100 millions d'exemplaires vendus dans le monde." (21 January 2011) </p>
+<p> ^ USA Today Archived 2016-06-10 at the Wayback Machine on James Patterson's Alex Cross by the numbers: "81 million: Copies sold of series, starting with Along Came a Spider in 1993.""with Alex, it just seems to come together so naturally that I've kept him for myself. I suppose you could say Alex is the co-author." (27 November 2013) </p>
+<p> ^ The Los AngelesDaily News Archived 2009-02-24 at the Wayback Machine on OSS 117: "Jean Bruce wrote 265 OSS 117 novels, selling some 75 million copies and spawning seven movies between 1956 and 1970." (1 August 2008) </p>
+<p> ^ Lexington Herald-Leader on the Magic Tree House series: "The series has sold 70 million copies in North America and has been translated into 28 different languages in 31 countries." (25 November 2010) </p>
+<p> ^ Jerry B. Jenkins and Tim LaHaye (2001-09-11). "Home". Left Behind. Archived from the original on 2009-08-30. Retrieved 2009-08-31. </p>
+<p> ^ The Globe and Mail on A Series of Unfortunate Events: "whose 13 "A Series of Unfortunate Events" books for children have sold an astonishing 65 million copies." (10 January 2012) </p>
+<p> ^ The Green Bay Press Gazette on Little House on the Prairie: "If there was any doubt that a love for Little House is an everlasting one, consider not only that 60 million copies of the Wisconsin-born Wilder's books have been sold since 1932[...]" (24 July 2010) </p>
+<p> ^ The Belfast Telegraph on the Jack Reacher books: "2012 marks a landmark year for Lee Child, whose Jack Reacher thrillers have now sold in excess of 60 million copies worldwide." (7 September 2012) </p>
+<p> ^ Two Decades of Fun and Learning on the Magic School Bus. "Launched in 1986, this spirited science series by Joanna Cole and Bruce Degen encompasses 131 titles over a variety of formats and has sold more than 58 million copies." (27 July 2006) </p>
+<p> ^ Variety Archived 2011-11-09 at the Wayback Machine on Where's Waldo: "The books have sold more than 55 million copies in more than 38 countries and been translated into more than 30 languages" (7 November 2011) </p>
+<p> ^ The Star Archived 2011-05-21 at the Wayback Machine on the Mars Venus series: " You must be from another planet if you have not heard of Gray and his Mars Venus universe. Fifty million of his books have been sold in 40 different languages." (24 February 2008) </p>
+<p> ^ "New Jean Auel". Publishers Weekly. Archived from the original on 2015-07-25. Retrieved 2015-07-25. </p>
+<p> ^ The Alameda Sun Archived 2008-09-18 at the Wayback Machine on Junie B. Jones: "The series, launched in 1992, offers 27 books and an interactive journal, and has sold 44 million copies around the world." (27 June 2008) </p>
+<p> ^ The Irish Independent on Harry Bosch: "Crime writer Michael Connelly's Hieronymous 'Harry' Bosch thrillers have sold 42 million copies, [...]" (5 November 2011) </p>
+<p> ^ The Anniston Star Archived 2011-10-08 at the Wayback Machine on Harry Hole: "The series has been translated into 40 languages and has sold more than 40 million copies worldwide." (29 July 2011) </p>
+<p> ^ Kidscreen on Erin Hunter: "Created by Coolabi Group's company Working Partners, the Warriors fantasy book series has sold more than 40 million copies around the world." (7 January 2019) </p>
+<p> ^ Michael Bond, Creator of Paddington Bear, Smithsonian Magazine: ""The author's stories about a plucky, marmalade-loving bear sold more than 35 million copies worldwide." </p>
+<p> ^ ORICON NEWS: Light novel light novel "Toaru Majutsu no Index" series published in 2004 by Dengeki Bunko has exceeded the cumulative issue number of 30 million copies, [...] (9 June 2018) </p>
+<p> ^ ABC News Archived 2010-09-15 at the Wayback Machine on Ramona: "The film is adapted from Beverly Cleary's series of "Ramona" books, which go back more than 50 years and have sold 30 million copies." (23 July 2010) </p>
+<p> ^ [1] Library of Congress, 2018 National Book Festival. "Rachel Renee Russell has sold over 30 million copies of the New York Times best selling series, Dork Diaries," Monica Valentine. (10 October 2018) </p>
+<p> ^ The Guardian Archived 2016-04-13 at the Wayback Machine on Wallander: "[...] the crime novels by Swedish author Henning Mankell, which have sold 25 million copies worldwide." (21 September 2008) </p>
+<p> ^ The Miami Herald on the South Beach Diet books: "The South Beach Diet became a No. 1 New York Times Bestseller and the six books in the series have sold 22 million copies." (15 January 2008) </p>
+<p> ^ Variety Archived 2017-08-16 at the Wayback Machine on Artemis Fowl: "The "Artemis Fowl" books have sold more than 21 million copies in print in 44 languages worldwide." (29 July 2013) </p>
+<p> ^ "Archived copy". Archived from the original on 2010-09-14. Retrieved 2010-08-12.CS1 maint: archived copy as title (link) on Redwall: "Brian Jacques’ award-winning books, which have sold more than 20 million copies worldwide in 28 languages." (8 May 2009) </p>
+<p> ^ However further 'Foundation' books were written by Asimov from 1982, extending the direct series to seven books, however these four further novels tell two largely independent stories. Ultimately many of Asimov's works join to form a single time line encompassing 20,000 years of future-history. To further add the extent of the series, a 'Second Foundation Trilogy' of books by contemporary Sci-Fi writers also explicitly join with the series. </p>
+<p> ^ The Stage Archived 2011-06-12 at the Wayback Machine on Horrible Histories: "[...] based on the hugely successful (20 million copies sold worldwide) series of children's books by Terry Deary, who also wrote this adaptation." (1 October 2008) </p>
+<p> ^ Brandeton.com[permanent dead link] on Rainbow Magic: "A publishing phenomenon, "Rainbow Magic" has sold 20+ million copies in 31 languages worldwide, including over 6 million books in print in the U.S." (23 November 2010) </p>
+<p> ^ The Telegraph Archived 2008-05-31 at the Wayback Machine on Erast Fandorin: "The two authors share a quality that has seen Akunin shift 18 million copies of his Fandorin stories" (25 February 2007) </p>
+<p> ^ Publishers Weekly Archived 2008-10-02 at the Wayback Machine on Vampire Hunter D: "The books have sold more than 17 million copies around the world." (30 September 2008) </p>
+<p> ^ BBC Archived 2008-09-20 at the Wayback Machine on The Hichhiker's Guide: "About 16 million copies of the books have been sold worldwide" (17 September 2008) </p>
+<p> ^ The New York Times Archived 2017-09-04 at the Wayback Machine on His Dark Materials: "His Dark Materials, Philip Pullman's trilogy inspired by Paradise Lost, has sold 15 million copies worldwide, while the film version of the first volume, The Golden Compass, has earned more than $150 million." (13 January 2008) </p>
+<p> ^ BBC Archived 2008-03-13 at the Wayback Machine on Alexander McCall Smith: "His books, featuring the unconventional No.1 Ladies Detective Agency, have sold 15 million copies in English, not counting the 42 languages they've been published in elsewhere." 7 March 2008 </p>
+<p> ^ Extrapolation for global range of other language publications, and related to the number of Scouts, make a realistic estimate of 100 to 150 million books.Jeal, Tim (1989). Baden-Powell. London: Hutchinson. ISBN 0-09-170670-X. </p>
+<p> ^ "Guinness World Records earmarks licensing growth", Licensing, 26 October 2010, archived from the original on 2010-10-29, retrieved 2010-10-29, The Guinness Book of World Records has been published in 30 languages in more than 100 countries and has sold in excess of 115 million copies, becoming the biggest selling copyright book of all time.. </p>
+<p> ^ "Shinbunka". JP: Shinbunka. 21 August 2017. Retrieved 2020-04-14. </p>
+<p> ^ "Book of Facts". The World Almanac. 2008. Archived from the original on 2009-09-07. Retrieved 2009-08-31. </p>
+<p> ^ World Almanac 2018, ISBN 978-1-60057-213-5, page 11: "More than 82 million copies sold since 1868." </p>
+<p> ^ "Peter Mark Roget", The San Francisco Chronicle, 25 March 2008, archived from the original on 14 September 2010, More than 40 million copies have been sold. </p>
+<p> ^ News2u, 6 February 2009, archived from the original on 5 October 2011. </p>
+<p> ^ The Telegraph[dead link] on the Oxford Advanced Learner's Dictionary: "Thirty million copies of the Oxford Advanced Learner's Dictionary have been sold since it was first published in 1948. " (3 June 2005) </p>
+<p> ^ Akron Beacon Journal Archived 2011-06-15 at the Wayback Machine on The Alcoholics Anonymous Big Book: While the title of the book is actually Alcoholics Anonymous, the members of AA refer to it as the Big Book. This is the basic text of Alcoholics Anonymous, AA's text on how to stay sober. "And this year is also the 70th anniversary of the publication of A.A.'s Big Book, which has sold nearly 30 million copies since 1939." (11 June 2009) </p>
+<p> ^ Twelve Step Programs Worldwide Archived 2011-08-10 at the Wayback Machine about "Alcoholics Anonymous", the book affectionately known as "The Big Book". The 25 millionth copy of the Big Book was published in 2005, and about 1 million copies are sold each year. This means that as at 2010 there have been about 30 million copies sold, ranking it high on the list of best-selling books ever. More impressive still, it has sold this many copies even though it is available free online in English, Spanish and French – links provided." </p>
+<p> ^ Alice Payne Hackett (1967). 70 Years of Best Sellers. New York, London: R. R. Bowker. p. 12,40,79. </p>
+<p> ^ "Sanseido". Sanseido-publ.co.jp. Archived from the original on 2009-10-26. Retrieved 2009-08-31. </p>
+</doc>
+<doc id="file22196630" filename="manybooks.net" parent_folder="web1" url="https://manybooks.net/">
+<p> Resources </p>
+<p> Profile </p>
+<p> Welcome to your friendly neighborhood library. We have more than 50,000 free ebooks waiting to be discovered. </p>
+<p> FREE AND DISCOUNTED BESTSELLERS </p>
+<p> Join 150,000+ fellow readers. Get free and discounted bestsellers straight to your inbox with the ManyBooks eBook deals newsletter. Signup now </p>
+<p> The Ultimate Guide to Free eBooks </p>
+<p> Not sure what to read next? Explore our catalog of public domain books with our editors. Some real gems are hidden in our library. Read more </p>
+<p> Recently Answered Questions </p>
+<p> Seeing as how it is impossible to get unbiased and informed information about politics online anymore, I can totally understand why someone would want to turn to books to educate themselves. Having said that, I do have some bad news for you. Politics is such a shifting, changing thing that if you go further back than say a year or two, then the books are probably not going to help you understand what's going on as much as you might think. They can still give you some insights into the core elements, but you are almost assuredly going to encounter some outdated elements. Other people have already mentioned it too, but your geographical location is also going to determine your understanding of politics. Even countries with the same political beliefs are not going to totally agree with each other about certain things and then there are those countries who claim to belong to a certain political movement, but in reality practice something completely different. I don't want to be completely unhelpful, so these are the books that I have personally read and think can offer you some broad insights about important political topics: Fascism: A Warning by Madeleine Albright - Madeleine Albright is the first woman to ever serve as U.S. secretary of state, so she isn't just someone who studied history, but also had an active role in shaping it. She was born in Czechoslovakia just before the second World War and in her lifetime she not only had to flee from Hitler, but also from Stalin at the start of the Cold War. She lost loved ones in the Holocaust, so we are talking her about a woman who has personal experiences with the horrors that politics can cause. This is not her first book, but it deals with fascism, which is a topic I see cropping up more and more in political discussions. Albright does a great job explaining what fascism really is, how it got started and also what the warning signs are for the rise of it in our current political climate. I feel like the word is lately being used by everyone to simply describe anyone who disagrees with their political views, which is a dangerous precedent. </p>
+<p> Frank Herbert never managed to complete his Dune series, but I believe that his son and another another eventually managed to do so. Whether or not the quality is the same as what Frank would have delivered is up for debate. The Wheel of Time series is another good example of someone else stepping in to complete a beloved series after the untimely death of the original author. </p>
+<p> I'm not going to go into too much detail here because I'm tired and it's late, but it continually irks me how many people completely misunderstood The Prince by Machiavelli. The author was trolling people long before the word even existed and everyone still falls for it to this very day. </p>
+<p> Roger Zelazny did this a lot in his books as did Anne McCaffrey with her Dragonriders series. </p>
+<p> Honestly, there are just way too many to mention here. If I had to listen to every review by critics, then I would never even have touched some books or discovered a lot of my favorite authors. I mean the Harry Potter series of all books were panned by critics when it was first released and many of them were convinced that it would amount to nothing. I'm guessing that a lot of these critics are feeling pretty stupid after it became such a worldwide success. The same could be said about even older classics like The Great Gatsby and Catcher in The Rye. I could go on and on, but the point is that critics are only human and like they rest of us they have their own tastes when it comes to books. I'm sure there are a lot of people who agree with the assessment by critics, but at the end of the day, it is YOU who will be reading the books and only YOU can decide whether or not they are worth your time. I feel like I should add that I have discovered quite a few critics who I wholeheartedly agree with, so it is probably a case of finding a critic with taste that aligns to your own. </p>
+<p> FEATURED AUTHOR - Stephanie LaVigne is a bestselling author of mystery and romance novels. Her books are quirky, relatable, adventurous, and witty. From hopping freight trains, to sailing across the Atlantic, to mushing a Canadian dogsled, she’s had incredible adventures alongside all kinds of real-life characters. You will usually find her laughing loudly and proclaiming that, if nothing else, her life has never been dull. She has published over fifty popular novels under both her own name and pen names. </p>
+</doc>
+<doc id="file22196633" filename="miss-read" parent_folder="web1" url="https://www.bookseriesinorder.com/miss-read/">
+<p> Book links take you to Amazon. As an Amazon Associate I earn money from qualifying purchases. </p>
+<p> Miss Read was a pen name for the English novelist Dora Jessie Saint. She most often wrote under the name of Miss Read, but also published books under the name of Shafe. Saint came up with the name of Miss Read by taking her mother’s maiden name. In addition to her work as a novelst, she also worked as a schoolmistress. </p>
+<p> Dora was born in 1913 in London, but due to her mother’s health, the family would move to the country when Dora was just seven years old. She would attend school there and became inspired when her own father became a schoolmaster to follow in his footsteps. She would go to teacher training at Homerton College, Cambridge to learn her craft. </p>
+<p> She would go to work in Middlesex, at Hayes and later at Ealing, until she met her husband, Douglas Saint. The two were married in 1940 and had one daughter. World War II took place which changed a lot at the time and after the war, she only worked occasionally as a teacher. This is when she began getting into writing, starting off by writing about schools and country topics for magazines like Punch. She would also do some work for the BBC schools service as a scriptwriter. </p>
+<p> Saint was inspired by the work of Jane Austen and began to write her own novels. She published Village School in 1955, the first book in the Fairacre series of books. After that, she continued writing at a frequent pace and published many novels in her career. </p>
+<p> Village School is the first book in the Fairacre series of books. This is the first book featuring Miss Read and her remarkable group of children. The story takes place in the English village of Fairacre which is filled with thatch-roofed cottages, a church, and a school. The town is known just as much for the fair weather as it is for the good cheer. That said, it is a town where everyone knows everyone else’s business which doesn’t stop anyone from liking each other. This first entry sees Miss Read take the reader through one autumn in her village and introduce us to the unforgettable characters of Fairacre. </p>
+<p> The Fairacre series then continues with Village Diary. Each month of this book covers a month in the life of Miss Read. This is an exciting time in the town as Fairacre welcomes many newcomers for the village’s country pageant. At this time we meet Mr. Mawne, the man who all of the other villagers want Miss Read to marry. </p>
+<p> Storm in the Village is the third book in the Fairacre series. This book sees trouble brewing in the small country village when it is found that Farmer Miller’s Hundred Acre Field is set for a real estate development. This leads to alarming rumors circulating throughout the town, including one that the school may be closing soon. Despite that, Miss Read manages to keep a level head and bring her clear-sighted candor to the report. However, the village is in for a battle to keep their village as it is as they are worried of being engulfed. </p>
+<p> Miss Read also penned the Thrush Green series of books. The series begins with a book titled Thrush Green. The story introduces us to the village of Thrush Green, a neighbor of Fairacre, which is filled with enchanting landscapes, blackthorn bushes, and thatch-roofed cottages. This series aims to get you invested in the village’s characters and fates just as the Fairacre series did. </p>
+<p> The series of Thrush Green continues with Winter in Thrush Green. The story picks up two years after the last book and focuses on more of the secondary characters from the first book while the main characters fade into the background. You have Mr. Piggott who complains about work while waiting to go to the pub, Ella and Dimity gossiping about their neighbor, and the the headmistress Miss Watson being robbed in her own home. The town is also planning a memorial for a local hero, Nathaniel Patten, as the 100th anniversary of his birth is upcoming. The series remains sweet and charming as the others with each chapter alternating between characters. </p>
+<p> The Year at Thrush Green is the 12th book in the Thrush Green series. The book sees spring unfolding and the drama of village life blooming with it. The book offers more stories of the lives of some of the villagers including Dotty Harmer, Albert Piggott, architect Edward Young, and an American stranger who arrives to town looking for some family connections. Miss Read finds a way to tie together all these stories in a satisfying way and capturing the charm of the era. </p>
+<p> Miss Read explored another village in Market Square which takes place in the village of Caxley. Life in the village revolves around the Market Square, even at times when the open air market isn’t open. The Howards and the Norths are two families who live here. Their families are coping with their lives and the readers come to care about them in the years before World War II. The book, like much of Read’s work, shows us a simpler time when family and friends was the most important thing to many. </p>
+<p> Another great Miss Read book for fans of the Fairacre series and the Thrush Green series is Fresh from the Country. The story begins with a young woman named Anna Lacey who has spent the majority of her young life on a farm in Essex. Now, she has taken her first teaching position which takes her to a new suburb where she has to live in cramped lodgings and teach overcrowded classrooms. She came into her career with idealistic theories about teaching which she now has to change in the face of the reality of her pupils. The book is an accurate look at school life and the people who attended. </p>
+<p> One Response to “Miss Read” </p>
+<p> Susan Kirkham: 5 months ago </p>
+<p> Miss Read’s books make for very soothing reading. I have found them invaluable during the Covid pandemic. Yes they are illustrated which I find charming but that, to my mind does not mean they are a child’s book. The genre is portraying a much gentler time. Of course you can find fault with them for example the pupils attending Fairacre School never change despite the years moving on but I can forgive that because for me I’m not haunted by anything I am reading. I know that Miss Read preferred her Thrush Green characters but I much prefer the Fairacre stories. </p>
+<p> Leave a Reply </p>
+<p> The links beside each book title will take you to Amazon where you can read more about the book, or purchase it. As an Amazon Associate, I earn money from qualifying purchases. If you would like to link to us, Get the Code Here. </p>
+<p> Savage Gerry is a thrilling apocalyptic story which takes place in Canada. It's about an escaped inmate who looks to reunite with his son - and the only way to do it is by becoming "Savage Gerry" again. If you like Mad Max, you will like this. Order Now or read more about the author. </p>
+<p> Donations </p>
+<p> Happy with the work I provide? Support one of these great charities. September Charities: </p>
+<p> Every 2 weeks we send out an e-mail with 12 Book Recommendations by genre. Subscribe today! Click here for all past recommendations. </p>
+<p> BOOK LIST ISSUES? </p>
+<p> Any issues with the book list you are seeing? Or is there an author we don’t have? Let me know! </p>
+<p> Author / Series </p>
+<p> Book(s) </p>
+<p> Featured Series </p>
+<p> Have you looked at any best seller lists lately? If so, you will have no doubt seen books by Jack Carr on the list. His four book "James Reece" series is extremely popular these days. The first book is The Terminal List, the ultimate revenge story and a treat for fans of Reacher, Rapp, Bourne etc. More Details. </p>
+<p> Featured Author </p>
+<p> Taking over a book series after an author has passed is always a tough task. Yet no author has probably did as good a job as Kyle Mills has with the Mitch Rapp series. </p>
+<p> Any authors or characters we're missing that we should add? Let us know - we're continually adding new authors and characters daily. For more information on BSIO read the About Me page. </p>
+<p> I just want to thank everyone for visiting the site. Any issues at all don’t hesitate to use the contact form. To read more about the site or if you want a graphic to link to us, see the about page for more details. </p>
+</doc>
+<doc id="file22196636" filename="must-read-books-of-all-time" parent_folder="web1" url="https://www.oberlo.com/blog/must-read-books-of-all-time">
+<p> Must-Read Books of All Time: 40 Books Everyone Should Read </p>
+<p> Article by Thomas J Law 29 Oct, 2020 </p>
+<p> Must-read books: There are so many out there – so don’t waste your time on average books! </p>
+<p> Still, it can take time to find books worth reading. That’s why we’ve compiled this epic must-read book list to make your life easier. It features 40 top books to read in popular categories, such as fiction, business, personal development, travel, and more. </p>
+<p> So, if you’re wondering, “what book should I read next?” we’ve got you covered. This list is jam-packed with great books to read! </p>
+<p> Now, let’s get into it. Just use the contents to jump to the section you’re most interested in, or start scrolling. </p>
+<p> Unlock the guidance, tools, and resources you need to design your best life – then live it. Every. Single. Day. </p>
+<p> Classic Novels to Read </p>
+<p> 1. 1984 by George Orwell </p>
+<p> 1984 tells the futuristic story of a dystopian, totalitarian world where free will and love are forbidden. Although the year 1984 has long since passed, the prophecy of a society controlled by fear and lies is arguably more relevant now than ever. </p>
+<p> 2. The Lord of the Rings by J.R.R. Tolkien </p>
+<p> Tolkien’s fantasy epic is one of the top must-read books out there. Set in Middle Earth – a world full of hobbits, elves, orcs, goblins, and wizards – The Lord of the Rings will take you on an unbelievable adventure. </p>
+<p> 3. The Kite Runner by Khaled Hosseini </p>
+<p> The Kite Runner is a moving story of an unlikely friendship between a wealthy boy and the son of his father’s servant. Set in Afghanistan during a time of tragedy and destruction, this unforgettable novel will have you hooked from start to finish. </p>
+<p> 4. Harry Potter and the Philosopher’s Stone by J.K. Rowling </p>
+<p> This global bestseller took the world by storm. So, if you haven’t read J.K. Rowling’s Harry Potter, now may be the time. Join Harry Potter and his schoolmates as this must-read book transports you deep into a world of magic and monsters. </p>
+<p> 5. Slaughterhouse-Five by Kurt Vonnegut </p>
+<p> Slaughterhouse-Five is arguably one of the greatest anti-war books ever written. This rich and amusing tale follows the life of Billy Pilgrim as he experiences World War II from a peculiar perspective. </p>
+<p> 6. The Lion, the Witch, and the Wardrobe by C.S. Lewis </p>
+<p> The Lion, The Witch, and the Wardrobe is undoubtedly one of the great books of all time. This renowned fantasy novel is set in Narnia, home to mythical beasts, talking animals, and warring kingdoms. The story follows a group of school children as they become entangled in this incredible world’s fate. </p>
+<p> 7. To Kill a Mockingbird by Harper Lee </p>
+<p> To Kill a Mockingbird is one of the top must-read books of all time. Published in 1960, the story explores life in the Deep South during the early 20th century through the story of a man accused of a terrible crime. It’s poignant, humorous, and gripping. </p>
+<p> 8. The Book Thief by Markus Zusak </p>
+<p> The Book Thief is a story of bravery, hope, and friendship in a time of Nazi tyranny. Narrated by Death itself, this novel will have you holding your breath for chapters at a time. </p>
+<p> 9. Wuthering Heights by Emily Bronte </p>
+<p> Wuthering Heights is a classic novel published way back in 1847. This harrowing story, set on a lonely English moorland, follows Catherine Earnshaw and Heathcliff’s struggle with love, betrayal, and revenge. If you love dramatic novels, add this to your must-read book list. </p>
+<p> 10. The Catcher in the Rye by J.D. Salinger </p>
+<p> The Catcher in the Rye is the classic coming-of-age story. It follows sixteen-year-old Holden Caulfield’s adolescent journey of angst and alienation as he leaves his prep school and moves to New York City. </p>
+<p> 11. Jane Eyre by Charlotte Bronte </p>
+<p> Jane Eyre is often considered one of the must-read books of all time. It follows the emotions and experiences of a strong, unbroken woman who continued to grow morally and spiritually despite a troubled childhood and a sexist, repressed Victorian society. </p>
+<p> 12. Animal Farm by George Orwell </p>
+<p> Orwell tells a fairy tale of a revolution against tyranny that ends in even more unjust totalitarianism. The animals on the farm are rife with idealism and desire to create a world of justice, equality, and progress. However, the new regimen attempts to control every aspect of the animals’ lives. </p>
+<p> 13. Fahrenheit 451 by Ray Bradbury </p>
+<p> Ray Bradbury’s dystopian world shines a light on Western societies’ dependence on the media. The main character’s job is to find and burn any books he can find – until he begins to question everything. Considering the state of current politics and world affairs, this is one of the absolute must-read books in life. </p>
+<p> 14. Little Women by Louisa May Alcott </p>
+<p> This is a tale of four sisters with their own very different and very prominent personalities. The novel draws the reader deep into their lives as we get to know each of their flaws, joys, struggles, and fears. </p>
+<p> 15. Charlotte’s Web by E.B. White </p>
+<p> Charlotte’s Web is a great reminder to be kind to all living creatures. This magical story takes place on a farm where a little girl tries to save her piglet from slaughter. Fern, the little girl, enlists the help of her farm friends to execute her clever plan. </p>
+<p> 16. Frankenstein by Mary Shelley </p>
+<p> English author Mary Shelley tells the story of Victor Frankenstein, a young scientist who creates a monster and brings it to life. This gripping novel evokes questions about what makes us human and what love and kindness truly mean. </p>
+<p> 17. Of Mice and Men by John Steinbeck </p>
+<p> Of Mice and Men should be on every must-read book list. Set in the Great Depression, this is a controversial tale of friendship between two migrant workers in California. Filled with hope and tragedy, the two work towards the dream of owning land and pets. </p>
+<p> 18. The Hitchhiker’s Guide to the Galaxy by Douglas Adams </p>
+<p> In Guardians of the Galaxy, Arthur Dent sets off on a hilarious and fantastic adventure across the stars. He learns not to take the universe seriously as he meets all kinds of interesting characters. </p>
+<p> 19. The Great Gatsby by F. Scott Fitzgerald </p>
+<p> Scott Fitzgerald’s The Great Gatsby is said to be the quintessential novel of the Jazz Age. Set in 1922 amongst unfathomable indulgence and decadence, the novel highlights a man’s struggle to earn the love of the woman he’s obsessed with. </p>
+<p> Business and Money Must-Read Books </p>
+<p> 20. Think and Grow Rich by Napoleon Hill </p>
+<p> Think and Grow Rich is a classic bestseller that has sold millions of copies worldwide. It’s packed full of money-making tips, techniques, and strategies. If you want to improve your mindset around money, this book can potentially change your life completely. </p>
+<p> 21. Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! by Robert T. Kiyosaki </p>
+<p> Rich Dad Poor Dad explains how wealthy people and poorer people think differently. It challenges commonly held beliefs about money and explains how you don’t need to have a high income to become rich. </p>
+<p> 22. The Intelligent Investor by Benjamin Graham </p>
+<p> If you want to learn how to invest, add this to your list of must-read books. Author Benjamin Graham is considered one of the greatest investment advisors of the twentieth century. In The Intelligent Investor, you’ll learn about Graham’s philosophy of ‘value investing’ and how to develop long-term strategies that are used by the most successful investors in the world. </p>
+<p> 23. Principles: Life and Work by Ray Dalio </p>
+<p> Ray Dalio’s investment firm, Bridgewater Associates, has made more money for its clients than any other hedge fund in history. In Principles, Dalio shares everything he’s learned about investing, business, and life over the years. </p>
+<p> 24. Influence: The Psychology of Persuasion by Robert B. Cialdini </p>
+<p> In this New York Times bestseller, DR. Robert B. Cialdini reveals the psychology behind influence – and how to apply the principles of persuasion in business and everyday life. </p>
+<p> Personal Development Books Everyone Should Read </p>
+<p> 25. How to Win Friends and Influence People by Dale Carnegie </p>
+<p> First published in 1936, Dale Carnegie’s classic self-help book has stood the test of time. How to Win Friends and Influence People will teach you straightforward methods to improve your relationships – and as a result, your business and personal lives. </p>
+<p> 26. The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg </p>
+<p> If you’ve ever tried to change a habit unsuccessfully, this should be one of your must-read books. In The Power of Habit, Charles Duhigg reveals the empowering nature of how habits are formed and – crucially – how you can change them. </p>
+<p> 27. The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle </p>
+<p> The Power of Now has sold more than two million copies and has been translated into over 30 languages. This groundbreaking book has the potential to completely revolutionize how you experience life – making life far more joyous and prosperous in the process. </p>
+<p> 28. The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolk M.D. </p>
+<p> Dr. Bessel van der Kolk is one of the world’s foremost experts on trauma – something that virtually everyone experiences to some degree. The Body Keeps the Score unravels the science behind emotional and psychological trauma and offers new paths to recovery. </p>
+<p> Science and Technology Books You Must-Read </p>
+<p> 29. A Brief History of Time by Stephen Hawking </p>
+<p> Stephen Hawking’s A Brief History of Time is one of the most famous books in science. It discusses the history of cosmology and its development from Ancient Greece through to the 1980s. </p>
+<p> 30. Freakonomics: A Rogue Economist Explores the Hidden Side of Everything by Steven D. Levitt </p>
+<p> If you’re interested in the truth behind controversial social issues, this book should be on your must-read book list. The authors reveal the facts behind issues, such as crime, shopping, and drugs. </p>
+<p> 31. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power by Shoshana Zuboff </p>
+<p> The Age of Surveillance Capitalism is one of the top must-read books on technology. The author gives us a look at how personal data has become a new form of capital. </p>
+<p> 32. Uncanny Valley by Anna Wiener </p>
+<p> Anna Wiener writes about the frantic, self-important, and often delusional work culture in Silicon Valley, and how millennials in tech are consumed by living a productive life. The Uncanny Valley is one of those books everyone should read. </p>
+<p> Travel and Adventure Books You Must-Read Before You Die </p>
+<p> 33. On the Road by Jack Kerouac </p>
+<p> Inspired by Kerouac’s real-life adventures, On the Road tells the tale of two friends searching for meaning and rich experiences on a cross-country road trip. </p>
+<p> 34. Notes from a Small Island by Bill Bryson </p>
+<p> In Notes From a Small Island, Bill Bryson shares a hilarious commentary of his jaunt through the United Kingdom – from the center of government at Downing Street, London, to the Loch Ness in the Scottish Highlands. </p>
+<p> 35. Vagabonding by Rolf Potts </p>
+<p> Vagabonding is perhaps the only travel guide you’ll ever need. This must-read book provides practical tips on how to travel safely and spontaneously – and the philosophies you’ll need to enjoy the trip of a lifetime. </p>
+<p> 36. Wild by Cheryl Strayed </p>
+<p> Cheryl Strayed thought she’d lost everything at 22. Then, her mother’s passing, family trouble, and divorce drove her to an impulsive decision – to walk more than a thousand miles of the Pacific Crest Trail. Wild will inspire you to see your true self-worth and capabilities. </p>
+<p> History and Biography Books Worth Reading </p>
+<p> 37. Sapiens: A Brief History of Humankind by Yuval Noah Harari </p>
+<p> If you’re looking for interesting books to read, Sapiens should be on your list. It details the development of human beings from the earliest stages until now. The author also shows how our current world systems will banish natural selection and adaptation. </p>
+<p> 38. Long Walk to Freedom by Nelson Mandela </p>
+<p> Lists of must-read biographies almost always include this wonderful book. Mandela started writing this autobiography in prison and finished it right before becoming the president of South Africa. This inspiring story provides a glimpse into the end of apartheid and the blatant inequality in the country. </p>
+<p> 39. The Rise and Fall of the Dinosaurs: A New History of Their Lost World by Steve Brusatte </p>
+<p> Do you find dinosaurs fascinating? If so, this is one of the must-read books on the subject. Steve Brusatte reveals the different dinosaurs that roamed the planet – and the different worlds in which they lived. </p>
+<p> 40. A Short History of Nearly Everything by Bill Bryson </p>
+<p> In A Short History of Nearly Everything, Bryson attempts to summarize the history of the Earth. He talks about nearly every aspect of the planet – how it formed, how much it weighs, it’s size, the stages it went through, the dangers inherent to it, and how humans have evolved. If you love science and history, this is a must-read book for you. </p>
+<p> What Should I Read Next? </p>
+<p> If you’re wondering “what book should I read next,” look no further. In summary, here are 40 must-read books of all time: </p>
+<p> Classic Novels to Read </p>
+<p> 1984 by George Orwell </p>
+<p> The Lord of the Rings by J.R.R. Tolkien </p>
+<p> The Kite Runner by Khaled Hosseini </p>
+<p> Harry Potter and the Philosopher’s Stone by J.K. Rowling </p>
+<p> The Hitchhiker’s Guide to the Galaxy by Douglas Adams </p>
+<p> The Great Gatsby by F. Scott Fitzgerald </p>
+<p> Business and Money Must-Read Books </p>
+<p> Think and Grow Rich by Napoleon Hill </p>
+<p> Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! by Robert T. Kiyosaki </p>
+<p> The Intelligent Investor by Benjamin Graham </p>
+<p> Principles: Life and Work by Ray Dalio </p>
+<p> Influence: The Psychology of Persuasion by Robert B. Cialdini </p>
+<p> Personal Development Books Everyone Should Read </p>
+<p> How to Win Friends and Influence People by Dale Carnegie </p>
+<p> The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg </p>
+<p> The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle </p>
+<p> The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolk M.D. </p>
+<p> Science and Technology Books You Must-Read </p>
+<p> A Brief History of Time by Stephen Hawking </p>
+<p> Freakonomics: A Rogue Economist Explores the Hidden Side of Everything by Steven D. Levitt </p>
+<p> The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power by Shoshana Zuboff </p>
+<p> Uncanny Valley by Anna Wiener </p>
+<p> Travel and Adventure Books You Must-Read Before You Die </p>
+<p> On the Road by Jack Kerouac </p>
+<p> Notes from a Small Island by Bill Bryson </p>
+<p> Wild by Cheryl Strayed </p>
+<p> Must-Read Biographies and History Books </p>
+<p> Sapiens: A Brief History of Humankind by Yuval Noah Harari </p>
+<p> Long Walk to Freedom by Nelson Mandela </p>
+<p> The Rise and Fall of the Dinosaurs: A New History of Their Lost World by Steve Brusatte </p>
+<p> A Short History of Nearly Everything by Bill Bryson </p>
+<p> Have we missed any must-read books? If so, leave a comment below to recommend some top books to read! </p>
+<p> Related </p>
+<p> Curious how to make money blogging? In this post, we share 10 popular ways to monetize a blog. Methods include affiliat… </p>
+<p> Having work from home jobs allows you to stay at home while also making money. Here are 13 great positions to help you … </p>
+<p> There are more than a few ways to waste time on the internet. But if you use it effectively, the web can help you to fo… </p>
+<p> Oberlo uses cookies to provide necessary site functionality and improve your experience. By using our website, you agree to our privacy policy. </p>
+</doc>
+<doc id="file22196665" filename="10-health-benefits-of-apples" parent_folder="web2 apple" url="https://www.healthline.com/nutrition/10-health-benefits-of-apples">
+<p> 10 Impressive Health Benefits of Apples </p>
+<p> Apples are one of the most popular fruits — and for good reason. </p>
+<p> They’re an exceptionally healthy fruit with many research-backed benefits. </p>
+<p> Here are 10 impressive health benefits of apples. </p>
+<p> 1. Apples Are Nutritious </p>
+<p> A medium apple — with a diameter of about 3 inches (7.6 centimeters) — equals 1.5 cups of fruit. Two cups of fruit daily are recommended on a 2,000-calorie diet. </p>
+<p> One medium apple — 6.4 ounces or 182 grams — offers the following nutrients (1): </p>
+<p> Calories: 95 </p>
+<p> Carbs: 25 grams </p>
+<p> Fiber: 4 grams </p>
+<p> Vitamin C: 14% of the Reference Daily Intake (RDI) </p>
+<p> Potassium: 6% of the RDI </p>
+<p> Vitamin K: 5% of the RDI </p>
+<p> What’s more, the same serving provides 2–4% of the RDI for manganese, copper, and the vitamins A, E, B1, B2, and B6. </p>
+<p> Apples are also a rich source of polyphenols. While nutrition labels don’t list these plant compounds, they’re likely responsible for many of the health benefits. </p>
+<p> To get the most out of apples, leave the skin on — it contains half of the fiber and many of the polyphenols. </p>
+<p> SUMMARY Apples are a good source of fiber and vitamin C. They also contain polyphenols, which may have numerous health benefits. </p>
+<p> 2. Apples May Be Good for Weight Loss </p>
+<p> Apples are high in fiber and water — two qualities that make them filling. </p>
+<p> In one study, people who ate apple slices before a meal felt fuller than those who consumed applesauce, apple juice, or no apple products (2). </p>
+<p> In the same study, those who started their meal with apple slices also ate an average of 200 fewer calories than those who didn’t (2). </p>
+<p> In another 10-week study in 50 overweight women, participants who ate apples lost an average of 2 pounds (1 kg) and ate fewer calories overall, compared to those who ate oat cookies with a similar calorie and fiber content (3). </p>
+<p> Researchers think that apples are more filling because they’re less energy-dense, yet still deliver fiber and volume. </p>
+<p> Furthermore, some natural compounds in them may promote weight loss. </p>
+<p> A study in obese mice found that those given a supplement of ground apples and apple juice concentrate lost more weight and had lower levels of “bad” LDL cholesterol, triglycerides, and total cholesterol than the control group (4). </p>
+<p> SUMMARY Apples may aid weight loss in several ways. They’re also particularly filling due to their high fiber content. </p>
+<p> 3. Apples May Be Good for Your Heart </p>
+<p> Apples have been linked to a lower risk of heart disease (5). </p>
+<p> One reason may be that apples contain soluble fiber — the kind that can help lower your blood cholesterol levels. </p>
+<p> They also contain polyphenols, which have antioxidant effects. Many of these are concentrated in the peel. </p>
+<p> One of these polyphenols is the flavonoid epicatechin, which may lower blood pressure. </p>
+<p> An analysis of studies found that high intakes of flavonoids were linked to a 20% lower risk of stroke (6). </p>
+<p> Flavonoids can help prevent heart disease by lowering blood pressure, reducing “bad” LDL oxidation, and acting as antioxidants (7). </p>
+<p> Another study comparing the effects of eating an apple a day to taking statins — a class of drugs known to lower cholesterol — concluded that apples would be almost as effective at reducing death from heart disease as the drugs (8). </p>
+<p> However, since this was not a controlled trial, findings must be taken with a grain of salt. </p>
+<p> Another study linked consuming white-fleshed fruits and vegetables, such as apples and pears, to a reduced risk of stroke. For every 25 grams — about 1/5 cup of apple slices — consumed, the risk of stroke decreased by 9% (9). </p>
+<p> SUMMARY Apples promote heart health in several ways. They’re high in soluble fiber, which helps lower cholesterol. They also have polyphenols, which are linked to lower blood pressure and stroke risk. </p>
+<p> 4. They’re Linked to a Lower Risk of Diabetes </p>
+<p> Several studies have linked eating apples to a lower risk of type 2 diabetes (10). </p>
+<p> In one large study, eating an apple a day was linked to a 28% lower risk of type 2 diabetes, compared to not eating any apples. Even eating just a few apples per week had a similarly protective effect (11). </p>
+<p> It’s possible that the polyphenols in apples help prevent tissue damage to beta cells in your pancreas. Beta cells produce insulin in your body and are often damaged in people with type 2 diabetes. </p>
+<p> SUMMARY Eating apples is linked to a lower risk of type 2 diabetes. This is possibly due to their polyphenol antioxidant content. </p>
+<p> 5. They May Have Prebiotic Effects and Promote Good Gut Bacteria </p>
+<p> Apples contain pectin, a type of fiber that acts as a prebiotic. This means it feeds the good bacteria in your gut. </p>
+<p> Your small intestine doesn’t absorb fiber during digestion. Instead, it goes to your colon, where it can promote the growth of good bacteria. It also turns into other helpful compounds that circulate back through your body (5). </p>
+<p> New research suggests that this may be the reason behind some of the protective effects of apples against obesity, type 2 diabetes, and heart disease. </p>
+<p> SUMMARY The type of fiber in apples feeds good bacteria and may be the reason they protect against obesity, heart disease, and type 2 diabetes. </p>
+<p> 6. Substances in Apples May Help Prevent Cancer </p>
+<p> Test-tube studies have shown a link between plant compounds in apples and a lower risk of cancer (11). </p>
+<p> Additionally, one study in women reported that eating apples was linked to lower rates of death from cancer (12). </p>
+<p> Scientists believe that their antioxidant and anti-inflammatory effects may be responsible for their potential cancer-preventive effects (13). </p>
+<p> SUMMARY Apples have several naturally occurring compounds that may help fight cancer. Observational studies have linked them to a lower risk of cancer and death from cancer. </p>
+<p> 7. Apples Contain Compounds That Can Help Fight Asthma </p>
+<p> Antioxidant-rich apples may help protect your lungs from oxidative damage. </p>
+<p> A large study in more than 68,000 women found that those who ate the most apples had the lowest risk of asthma. Eating about 15% of a large apple per day was linked to a 10% lower risk of this condition (11). </p>
+<p> Apple skin contains the flavonoid quercetin, which can help regulate the immune system and reduce inflammation. These are two ways in which it may affect asthma and allergic reactions (14). </p>
+<p> SUMMARY Apples contain antioxidant and anti-inflammatory compounds that may help regulate immune responses and protect against asthma. </p>
+<p> 8. Apples May Be Good for Bone Health </p>
+<p> Eating fruit is linked to higher bone density, which is a marker of bone health. </p>
+<p> Researchers believe that the antioxidant and anti-inflammatory compounds in fruit may help promote bone density and strength. </p>
+<p> Some studies show that apples, specifically, may positively affect bone health (15). </p>
+<p> In one study, women ate a meal that either included fresh apples, peeled apples, applesauce, or no apple products. Those who ate apples lost less calcium from their bodies than the control group (11). </p>
+<p> SUMMARY The antioxidant and anti-inflammatory compounds in apples may promote bone health. What’s more, eating fruit may help preserve bone mass as you age. </p>
+<p> 9. Apples May Protect Against Stomach Injury From NSAIDs </p>
+<p> The class of painkillers known as nonsteroidal anti-inflammatory drugs (NSAIDs) can injure the lining of your stomach. </p>
+<p> A study in test tubes and rats found that freeze-dried apple extract helped protect stomach cells from injury due to NSAIDs (11). </p>
+<p> Two plant compounds in apples — chlorogenic acid and catechin — are thought to be particularly helpful (11). </p>
+<p> However, research in humans is needed to confirm these results. </p>
+<p> SUMMARY Apples contain compounds that may help protect your stomach lining from injury due to NSAID painkillers. </p>
+<p> 10. Apples May Help Protect Your Brain </p>
+<p> Most research focuses on apple peel and flesh. </p>
+<p> However, apple juice may have benefits for age-related mental decline. </p>
+<p> In animal studies, juice concentrate reduced harmful reactive oxygen species (ROS) in brain tissue and minimized mental decline (16). </p>
+<p> Apple juice may help preserve acetylcholine, a neurotransmitter that can decline with age. Low levels of acetylcholine are linked to Alzheimer’s disease (11). </p>
+<p> Similarly, researchers who fed elderly rats whole apples found that a marker of the rats’ memory was restored to the level of younger rats (11). </p>
+<p> That said, whole apples contain the same compounds as apple juice — and it is always a healthier choice to eat your fruit whole. </p>
+<p> SUMMARY According to animal studies, apple juice may help prevent the decline of neurotransmitters that are involved in memory. </p>
+<p> The Bottom Line </p>
+<p> Apples are incredibly good for you, and eating them is linked to a lower risk of many major diseases, including diabetes and cancer. </p>
+<p> What’s more, its soluble fiber content may promote weight loss and gut health. </p>
+<p> A medium apple equals 1.5 cups of fruit — which is 3/4 of the 2-cup daily recommendation for fruit. </p>
+<p> For the greatest benefits, eat the whole fruit — both skin and flesh. </p>
+</doc>
+<doc id="file22196667" filename="548980-advantages-disadvantages-of-eating-apples-every-day" parent_folder="web2 apple" url="https://www.livestrong.com/article/548980-advantages-disadvantages-of-eating-apples-every-day/">
+<p> 6 Pros and Cons to Eating an Apple a Day </p>
+<p> By Paula Martinac Updated November 29, 2018 </p>
+<p> Reviewed by Sylvie Tremblay, MSc </p>
+<p> ABOUT THE REVIEWER </p>
+<p> Sylvie Tremblay, MSc </p>
+<p> Sylvie Tremblay holds a Master of Science in molecular and cellular biology, and has years of experience as a cancer researcher and geneticist. </p>
+<p> ABOUT THE AUTHOR </p>
+<p> Paula Martinac is a nutrition educator, writer and coach. She holds a Master's of Science in Health and Nutrition Education and is Board Certified in Holistic Nutrition. Her areas of research interest include stress and weight management and women's health. </p>
+<p> Apples are great, but like any other food, they should be consumed in moderation. </p>
+<p> Image Credit: 4nadia/iStock/GettyImages </p>
+<p> You know the age-old health aphorism: "An apple a day keeps the doctor away." Although no one food can keep disease at bay, apples are nutritious fruits that may help your weight-loss efforts and offer a variety of other health benefits. But should you really be eating an apple a day, or is it possible to get too much of a good thing and turn the advantages into disadvantages? </p>
+<p> Apple Nutrition </p>
+<p> A large — about 3-1/4 inches in diameter — apple with the skin on it has 116 calories. It has very little protein or fat, with less than a gram of each, and 31 grams of carbohydrates. Of those carbs, over 5 grams are from fiber, making apples a high-fiber fruit. </p>
+<p> Advertisement </p>
+<p> The same size apple is also a good source of vitamins and minerals. The vitamin C in one large apple is notable, fulfilling 11 percent of a man's daily requirement and 13 percent of a woman's. One large apple also gives you 5 percent of your daily requirement of the mineral potassium, which is associated with healthier blood pressure. </p>
+<p> Benefits of Eating Apples </p>
+<p> 1. Weight Management </p>
+<p> The fiber in one large apple provides you with a wealth of benefits. In one study, published in PloS One in 2015, adding apple fiber — a water-soluble type called pectin — to the diets of rats lowered their intake of food and helped decrease weight and body fat. The researchers concluded that apple pectin supports satiety and weight management. </p>
+<p> Advertisement </p>
+<p> 2. Bowel Health </p>
+<p> Getting adequate fiber also assists with bowel movements and keeps you regular and may improve your cholesterol levels, lowering your risk for heart disease and type 2 diabetes. There's some evidence, too, that fiber may help protect you from colon cancer, although more research is needed. Men need 38 grams of fiber daily for optimum health, and women need 25, so just one large apple will satisfy 13 to 20 percent of your daily requirement. </p>
+<p> 3. Fight Free Radical Damage </p>
+<p> Apples are rich in antioxidants such as vitamin C, which help fight off free radicals, molecules that can damage DNA and make you susceptible to illnesses such as heart disease and cancer. A review of studies, published in the Annals of Oncology in 2005, reported that eating one or more apples daily helped protect subjects from many different types of cancer, including esophageal, breast, colon and ovarian. </p>
+<p> Advertisement </p>
+<p> In addition to vitamin C, apples contain antioxidant phytochemicals like quercetin, catechins and chlorogenic acid. In fact, the antioxidant activity of the compounds in apples is higher than that of many other fruits, such as grapes, strawberries, pears and oranges. </p>
+<p> Disadvantages of Eating Apples </p>
+<p> 1. Possible Gas and Bloating </p>
+<p> You will encounter a few downsides to eating apples every day. If you aren't accustomed to eating fiber, suddenly embarking on a regimen of eating apples every day may lead to uncomfortable gas and bloating. Add fiber from apples and other foods to your diet gradually, phasing it in over a few weeks, and make sure to drink plenty of water to help the fiber pass through your digestive tract. </p>
+<p> Advertisement </p>
+<p> 2. Apple Allergy </p>
+<p> Some people are allergic to apples and related fruits. If you have an allergy to birch pollen, you may develop an allergy to apples, too, and have to refrain from eating them. Symptoms can range from hives, abdominal pain and vomiting to life-threatening anaphylaxis. However, you may be able to eat apples without the peel. </p>
+<p> 3. Pesticide Exposure </p>
+<p> Apples top the list of "dirty" produce, according to the Environmental Working Group. If you are concerned about high levels of pesticides in your food, purchase organic apples instead. However, organic produce can be more expensive than conventionally grown, leading to a bigger tab at the grocery store. </p>
+<p> Ways to Eat Apples Every Day </p>
+<p> Eating an apple a day is easy with such a portable fruit. Keep a bowl of washed apples on the counter, and grab one on your way to school or work. Apples also make delicious additions to a host of dishes. </p>
+<p> Top your morning oatmeal or yogurt with cut-up apple and raisins, or slice some apple onto your lunch or dinner salad along with grilled chicken. An apple with 2 tablespoons of almond butter is a satisfying snack to enjoy after your exercise routine; an apple baked with a dab of butter and a sprinkle of cinnamon makes a nutritious dessert to satisfy your sweet tooth. </p>
+</doc>
+<doc id="file22196664" filename="apple-diet" parent_folder="web2 apple" url="https://www.fitwirr.com/nutrition/apple-diet/">
+<p> 5 Day Apple Diet Plan to Lose 10 Pounds in a Week </p>
+<p> It is a very low-calorie diet plan that includes apples for breakfast, lunch, and dinner. </p>
+<p> Proponents of the apple diet claim this program can help you lose weight quickly by merely following a 5-day meal plan. </p>
+<p> In fact, some articles tout that you can lose 3 to 10 pounds in a week while on this diet. </p>
+<p> These promises are based on the belief that apples can aid in weight loss by making you feel fuller and decreasing hunger pangs, which ultimately causes you to eat less. </p>
+<p> Additionally, sources also claim that following the 5-day apple diet may have health benefits, including a reduced risk of type 2 diabetes, heart disease, and cancer, and a stronger immune system. </p>
+<p> Proponents also claim that this diet can “detox” the body of “toxins.” </p>
+<p> Can a short-term diet deliver on these many promises? More importantly, is it safe? </p>
+<p> This article will provide an overview of the apple diet and closely examine these claims. </p>
+<p> What Is the Apple Diet? </p>
+<p> The apple diet is a 5-day apple weight loss diet and includes a meal plan that is 1200-calories per day or less. </p>
+<p> As you may have guessed from the name, this low-calorie menu includes plenty of whole apples. </p>
+<p> In fact, proponents of this diet claim that eating 5 apples a day will drive weight loss and improve health. </p>
+<p> While some meals on this diet contain only apples, other meals also offer lean proteins, whole grains, and veggies. </p>
+<p> Below you will find an example of the 5-day apple diet plan. </p>
+<p> As you are reading this, keep in mind that the diet plan is too low calorie for most people. </p>
+<p> We’ll discuss more about this later in the article. </p>
+<p> 5-Day Apple Diet Menu </p>
+<p> Day 1 </p>
+<p> Roughly 600 calories </p>
+<p> Day 2 </p>
+<p> Roughly 1,150 calories </p>
+<p> Breakfast: 1 apple, 1 glass of skim milk or unsweetened almond/ soy milk </p>
+<p> Snack: 1 cup of cottage cheese </p>
+<p> Lunch: 1 apple and avocado and green salad, topped with 3 ounces seeds and nuts. Dress it with apple cider vinegar and 1 tablespoon of olive oil. </p>
+<p> Dinner: 2 apples </p>
+<p> Day 3 </p>
+<p> Roughly 1,100 calories </p>
+<p> Breakfast: 1 apple, two slices of whole-grain bread, and two slices turkey bacon </p>
+<p> Day 5 </p>
+<p> Roughly 1,200 calories </p>
+<p> Breakfast: 1 green apple, a bowl of oatmeal, and 1/2 banana </p>
+<p> Snack: 1 cup cottage cheese and a grapefruit </p>
+<p> Lunch: 1 apple, baked salmon, and a green salad dressed with apple cider vinegar and 1 tablespoon of olive oil </p>
+<p> Dinner: 2 apples </p>
+<p> Additional Foods on the Apple Diet </p>
+<p> Some other foods permitted on this diet may include: </p>
+<p> Fruits and veggies: grapefruit, watermelon, bananas, pears, blueberries, strawberries, tomato, leafy greens, pineapple, mango, broccoli, berries, etc. </p>
+<p> Lean proteins: poultry, fish, eggs, lean beef, peanut butter, and tofu </p>
+<p> Dairy: low-fat milk, low-fat yogurt, and cheese (in moderation) </p>
+<p> Herbs and spices: mint leaves, ginger, garlic, coriander, cumin, turmeric, cinnamon, etc. </p>
+<p> 100% whole grains: oats, whole wheat bread, quinoa, etc. </p>
+<p> Fats and oils: olive oil, avocado oil, etc. (in a small amount) </p>
+<p> Beverages: water, 100% fresh fruit juices, unsweetened coconut water </p>
+<p> Different kinds of apple: granny smith apple, McIntosh, golden delicious, gala, etc. </p>
+<p> Foods that are not allowed include: </p>
+<p> Lard, butter, and mayonnaise </p>
+<p> Packaged fruit juices, sodas, and alcohol </p>
+<p> Processed meat and pork </p>
+<p> Junk foods, including processed sweets and desserts </p>
+<p> However, keep in mind that there are no established guidelines for the apple diet, and there may be different versions of this diet with differing food rules. </p>
+<p> Are Apples Good for Weight Loss? </p>
+<p> Overall, apples may be a useful tool to help promote body weight loss, along with healthy lifestyle changes. </p>
+<p> This is mainly because apples are high in fiber and water content, making them a filling food. </p>
+<p> Apples are also lower in calories, with only 95 calories in one medium apple. </p>
+<p> Some health experts hypothesize that the filling nature of apples may encourage you to eat less during the day, ultimately helping with weight loss. </p>
+<p> One recent study consisting of 58 adults found that the participants who ate apple slices before a meal felt fuller than those who consumed applesauce, apple juice, or no apple products (1). </p>
+<p> Additionally, those who started their meals with apple slices consumed an average of 200 fewer calories compared to participants who had no apple snack at the start of the meal (1). </p>
+<p> In a different 10-week trial consisting of 49 overweight women, participants who ate three apples per day lost an average of 3 pounds and ate fewer calories in a day compared to participants who consumed three oat cookies, which were equal to the apples in total grams of fiber (2). </p>
+<p> The researchers speculated that the lower energy density of the apples played a role in weight loss. </p>
+<p> This could mean that eating a diet high in fruits, which are low energy density foods, could help with weight maintenance. </p>
+<p> Potential Health Benefits of Apples </p>
+<p> Apples are an exceptionally healthy fruit and are a source of fiber, vitamin C, potassium, vitamin K, vitamin A, and vitamin B6. </p>
+<p> In fact, one medium apple with the peel contains the following nutrients (3): </p>
+<p> Fiber: 4 grams of fiber </p>
+<p> Carbs: 25 grams </p>
+<p> Sugar: 13 grams of sugar </p>
+<p> Vitamin C: 14% of the Reference Daily Intake (RDI) </p>
+<p> Vitamin K: 5% of the RDI </p>
+<p> Vitamin A: 2% of the RDI </p>
+<p> Vitamin B6: 4% of the RDI </p>
+<p> Apples are also a rich source of polyphenols and phytochemicals- compounds found in plants that may protect against chronic diseases. </p>
+<p> There is some research to suggest that apples are associated with heart health. </p>
+<p> This is because apples contain soluble fiber, which has been linked to lower blood cholesterol levels and better blood sugar or glucose control. </p>
+<p> Apples are also a source of antioxidants known as flavonoids, which may help protect against heart disease by lowering blood pressure, reducing “bad” LDL cholesterol, and protecting against inflammation, chronic inflammation, and damage from free radicals (4). </p>
+<p> One large review analysis found that high intakes of flavonoids from plant and tea sources were linked to a 20% lower risk of stroke when compared to low intakes of flavonoids (5). </p>
+<p> Consuming apples may also be beneficial for gut health. </p>
+<p> Apples contain a soluble fiber known as pectin, which acts as a prebiotic. </p>
+<p> This means that pectin is a food source for the “good” bacteria in your colon and digestive system. </p>
+<p> Some new research hypothesizes that apples may have a protective effect against obesity, cardiovascular disease, and diabetes by helping to maintain healthy gut bacteria (6). </p>
+<p> Please keep in mind that these are the potential benefits of eating apples as part of a varied diet with other healthy foods. </p>
+<p> It is not a list of the potential benefits of the apple diet. </p>
+<p> There is currently no research that examines the effects of the apple diet on weight loss or health. </p>
+<p> Can You Lose Weight by Eating Only Apples? </p>
+<p> Apples are a nutritional powerhouse and may have the potential to help with weight loss, mainly due to their fiber and high water content. </p>
+<p> However, it is not likely that only eating apples will result in long-term weight loss. </p>
+<p> This is because any diet that advocates eating only one food, such as apples, is not sustainable, and therefore, is not a healthy way to lose weight. </p>
+<p> While 5 days on the apple diet is possible, eating the same foods and such little calories every day could lead individuals to abandon this plan. </p>
+<p> Additionally, any extra pounds that you might lose by only eating apples will likely return as quickly as they left once you resume a regular diet. </p>
+<p> How Many Apples Should I Eat a Day to Lose Weight? </p>
+<p> Proponents of this diet would have you believe that eating five apples a day will result in weight loss. </p>
+<p> As previously mentioned, there is some scientific evidence that including apples in your diet may help you lose weight. </p>
+<p> One study found that participants who ate three apples per day lost an average of 3 pounds during the 10-week clinical trial compared to participants who consumed three oat cookies (2). </p>
+<p> However, more research is needed to determine the connection between apple consumption and weight loss. </p>
+<p> Currently, no evidence suggests eating more of any specific food will lead to weight loss without additional lifestyle changes. </p>
+<p> Overall, the foods you eat will likely not produce weight change unless combined with healthy lifestyle choices. </p>
+<p> Ultimately, there is no magic food or “best fruit” that will burn body fat or trim your waistline, and most of the weight you lose on the apple menu will be due to the calorie restriction. </p>
+<p> Does This Diet Work? </p>
+<p> The apple diet may result in short-term weight loss but is likely not a good strategy for long-term weight maintenance. </p>
+<p> This is because the apple weight loss diet lowers your daily calorie intake to less than 1,200 calories per day, which creates a calorie deficit. </p>
+<p> A calorie deficit occurs when you eat fewer calories per day than you burn and is the primary driver of weight loss while on any diet. </p>
+<p> However, any weight that is lost on this diet will likely be temporary, and promises of a 10-pound weight loss in only a week are unrealistic and unsustainable. </p>
+<p> Research has shown that low-calorie diets rarely result in permanent weight change. </p>
+<p> Most individuals will experience weight regain after completing this short-term diet unless they have a plan to maintain these changes (7). </p>
+<p> Is This Diet Evidence-Based? </p>
+<p> Currently, there are no studies on this diet. </p>
+<p> Additionally, there is little information on the apple diet, which could point to this being a relatively new fad. </p>
+<p> Without high-quality, recent research, it is impossible to compare this diet’s efficacy and safety to other, well-researched diets and eating patterns. </p>
+<p> Potential Drawbacks of The Apple Diet </p>
+<p> Limited Variety of Nutrients </p>
+<p> One drawback of this diet is that it lacks variety during the diet period. </p>
+<p> Due to the extensive calorie restriction and reliance on apples, most people will not consume enough vitamins (such as folate), minerals (such as calcium), protein, and unsaturated fats (a type of fat that is good for heart health) during the diet days. </p>
+<p> For example, the first day of this diet consists of only apples, which are low in protein and heart-healthy fats. </p>
+<p> This approach may be counterintuitive as research suggests that high-protein diet plans may help reduce appetite and promote weight loss (8). </p>
+<p> Additionally, eating a diet with a moderate amount of heart-healthy or good fats has actually been shown to increase feelings of satiety and decrease hunger. </p>
+<p> This is because fat is known to slow digestion, which can help you feel fuller. </p>
+<p> The apple diet is notably low in dietary fat. </p>
+<p> Furthermore, by eating mostly apples in your diet, you may inadvertently replace other, nutritious fruits, such as pears, watermelon, bananas, strawberries, pineapple, blueberries, and grapefruits. </p>
+<p> Different fruits contain different types of vitamins, minerals, antioxidants, and phytochemicals, so it is important to eat a variety of fruits and veggies. </p>
+<p> For example, citrus fruits such as pineapple and grapefruit have more vitamin C than apples and bananas have more potassium. </p>
+<p> Too Low in Calories </p>
+<p> According to proponents of the apple diet, this diet program is a 1,200 calorie meal plan. However, after examining some of the meal plans currently circulating the internet, it appears that most days are less than 1,200 calories. </p>
+<p> While temporarily following a very low-calorie diet may be safe for well-nourished adults, it is not recommended for everyone. </p>
+<p> Also, it should only be undertaken with the help of healthcare professionals or nutritionists. </p>
+<p> You should not follow a very low-calorie diet if you are pregnant or breastfeeding, trying to conceive, are underweight, or have a history of eating disorders. </p>
+<p> Additionally, the apple diet is too low in calories for long-term use and could result in nutrient deficiencies and a decrease in metabolism (9). </p>
+<p> Therefore, consuming too few calories to lose weight can quickly backfire and may even cause you to gain weight as your metabolism slows. </p>
+<p> Keep in mind that daily calorie estimates range from 1,600 to 2,400 calories per day for adult women and 2,000 to 3,000 calories for adult men (10). </p>
+<p> Weight Regain and Yo-Yo Dieting </p>
+<p> The apple diet is a short-term, 5-day weight loss plan. </p>
+<p> One of the problems with these quick weight loss diets is that you may regain weight once you stop following the menu plan. </p>
+<p> This cycle of dieting, gaining weight, and dieting again is sometimes referred to as yo-yo dieting. </p>
+<p> Research has linked yo-yo dieting to potential health problems, including increased appetite, greater weight gain over time, and increased body and stomach fat. </p>
+<p> For example, one review study found that people on short-term diets regained 30 to 65% of the weight they had lost within one year after the diet (11). </p>
+<p> In a different review article, 11 out of 19 studies determined that a history of yo-yo dieting was associated with higher percentages of body fat and greater amounts of stomach or belly fat (12). </p>
+<p> Unfortunately, fad diets, such as the apple diet, can encourage yo-yo dieting since these programs do not provide any guidance for long-term weight maintenance and are often too low in calories to sustain. </p>
+<p> Additional Considerations </p>
+<p> As you might imagine, the most likely side-effect of this diet is hunger. Any diet that is so low in calories will cause hunger pangs. </p>
+<p> You may also experience headaches and food cravings. The apple diet can also result in digestive distress, including stomach pain and diarrhea. </p>
+<p> This is because apples contain a natural sugar known as fructose, which may have a laxative effect when consumed in large quantities. </p>
+<p> Consuming too many apples may cause problems for individuals with irritable bowel syndrome. </p>
+<p> Apples are high in carbohydrates known as FODMAPs that can cause digestive distress, such as gas, stomach cramps, constipation, and diarrhea, in some people. </p>
+<p> Additionally, apples are a decent source of vitamin K, and individuals who are taking warfarin or Coumadin should speak with their doctor before making any changes to their current diet. </p>
+<p> Warfarin is a blood thinner that helps prevent or treat blood clots by interfering with vitamin K clotting factors. </p>
+<p> It is recommended that individuals taking this medication maintain a consistent intake of vitamin K from food (including apples), as significant changes to the diet can alter this drug’s effectiveness. </p>
+<p> Final Thoughts </p>
+<p> Overall, the apple diet appears to be another fad diet and has no real merit to back its many claims. </p>
+<p> While this diet may help with quick weight loss, the weight will likely return once you stop dieting and is not a great way to maintain your weight. </p>
+<p> Outside of a handful of small studies, there is no evidence to suggest that apples have any magical power other than the fact that they are a nutritious, low calorie, high-fiber food. </p>
+<p> Additionally, most of the research on apples’ overall health benefits looks at including apples as part of a balanced, healthy diet. </p>
+<p> There is no evidence that consuming five apples a day will cause an increase in these benefits. </p>
+<p> In fact, consuming mostly apples can displace other, nutritious fruits and veggies from your diet. </p>
+<p> Instead of focusing on just apples, try aiming for the recommended 2 to 2.5 servings of fruit per day. Apples can be part of these servings or added to the diet as a healthy snack, but you do not need to follow the apple weight loss diet to reap their health benefits. </p>
+<p> Ultimately, this diet is just another “quick fix” fad and may not be a good idea for long-term, healthy weight loss. </p>
+<p> Instead of following this diet, try focusing on healthy habits to set you up for long-term success. </p>
+<p> The best way to start may be to cut back on processed foods and added sugar, eat a variety of fruits and veggies, establish a workout or gym routine, drink plenty of water, and get enough sleep. </p>
+<p> Sources: </p>
+<p> Flood-Obbagy, Julie E, and Barbara J Rolls. “The effect of fruit in different forms on energy intake and satiety at a meal.” Appetite vol. 52,2 (2009): 416-22. doi:10.1016/j.appet.2008.12.001 </p>
+<p> de Oliveira, Maria Conceição et al. “A low-energy-dense diet adding fruit reduces weight and energy intake in women.” Appetite vol. 51,2 (2008): 291-5. doi:10.1016/j.appet.2008.03.001 </p>
+<p> “Apples, Raw, with Skin [Includes USDA Commodity Food A343] Nutrition Facts & Calories.” Nutrition Data Know What You Eat., nutritiondata.self.com/facts/fruits-and-fruit-juices/1809/2. </p>
+<p> Majewska-Wierzbicka, Monika, and Hanna Czeczot. “Flawonoidy w prewencji i leczeniu chorób układu sercowo-naczyniowego” [Flavonoids in the prevention and treatment of cardiovascular diseases]. Polski merkuriusz lekarski : organ Polskiego Towarzystwa Lekarskiego vol. 32,187 (2012): 50-4. </p>
+<p> Hollman, Peter C H et al. “Dietary flavonol intake may lower stroke risk in men and women.” The Journal of nutrition vol. 140,3 (2010): 600-4. doi:10.3945/jn.109.116632 </p>
+<p> Koutsos, Athanasios et al. “Apples and cardiovascular health–is the gut microbiota a core consideration?.” Nutrients vol. 7,6 3959-98. 26 May. 2015, doi:10.3390/nu7063959 </p>
+<p> Benton, David, and Hayley A Young. “Reducing Calorie Intake May Not Help You Lose Body Weight.” Perspectives on psychological science : a journal of the Association for Psychological Science vol. 12,5 (2017): 703-714. doi:10.1177/1745691617690878 </p>
+<p> Paddon-Jones, Douglas et al. “Protein, weight management, and satiety.” The American journal of clinical nutrition vol. 87,5 (2008): 1558S-1561S. doi:10.1093/ajcn/87.5.1558S </p>
+<p> Fothergill, Erin et al. “Persistent metabolic adaptation 6 years after “The Biggest Loser” competition.” Obesity (Silver Spring, Md.) vol. 24,8 (2016): 1612-19 doi:10.1002/oby.21538 </p>
+<p> “Appendix 2. Estimated Calorie Needs per Day, by Age, Sex, and Physical Activity Level.” Appendix 2. Estimated Calorie Needs per Day, by Age, Sex, and Physical Activity Level – 2015-2020 Dietary Guidelines, health.gov/our-work/food-nutrition/2015-2020-dietary-guidelines/guidelines/appendix-2/. </p>
+<p> Dulloo, A G, and J-P Montani. “Pathways from dieting to weight regain, to obesity and to the metabolic syndrome: an overview.” Obesity reviews: an official journal of the International Association for the Study of Obesity vol. 16 Suppl 1 (2015): 1-6. doi:10.1111/obr.122 </p>
+<p> Mackie, Grace M et al. “Does weight cycling promote obesity and metabolic risk factors?.” Obesity research & clinical practice vol. 11,2 (2017): 131-139. doi:10.1016/j.orcp.2016.10.2 </p>
+<p> Share Article: </p>
+<p> About the Author </p>
+<p> Allison Herries is a registered dietitian and freelance nutrition writer with more than five years of experience in the nutrition and dietetics field. Her specialties include diet and aging, nutrition for older adults, intuitive eating, nondiet approaches to health, and nutrition research. Allison loves food and nutrition and she loves sharing her nutrition knowledge with the world. </p>
+<p> Similar Posts </p>
+<p> There is no shortage of fast weight-loss diets on the market that claim to help you lose… </p>
+<p> Studies show that excessive belly fat as exhibited by larger waist size and waist circumference is… </p>
+<p> Protein shakes are a great addition to any weight loss plan. This is because protein gives… </p>
+<p> ByMisato Alexandre September 1, 2021September 1, 2021 2 Mins Read </p>
+<p> We know by now that protein-riched breakfasts are good for bones and muscles and coffee helps… </p>
+<p> Blueberries are sweet and nutritious. They pair perfectly with yogurt or sprinkled on top of your… </p>
+<p> Keep your immune system in check and give your wellness a boost with this powerful turmeric… </p>
+<p> Subscribe to Fitwirr </p>
+<p> Get the latest posts delivered right to your email. </p>
+</doc>
+<doc id="file22196660" filename="can-beagles-eat-apples" parent_folder="web2 apple" url="https://atractivopets.com/can-beagles-eat-apples/">
+<p> Can Beagles Eat Apples? </p>
+<p> Apple is a common fruit. For some time, Apple has been considered one of the most healthy foods for humans because it contains a lot of vitamins and minerals. </p>
+<p> Studies have shown that eating Apples may help lower cholesterol levels and prevent certain types of cancer. </p>
+<p> But what about Beagles? Can Beagles eat Apples? </p>
+<p> Beagles can eat apples, which are a great source of vitamins A and C. They also contain fiber, potassium, and phytonutrients for beagle owners to take advantage of. </p>
+<p> Be sure not to feed them entire apples, however. If they are not properly chewed, it can cause intestinal blockages, which is a serious problem for beagles. </p>
+<p> One medium-sized apple’s nutritional value </p>
+<p> Why are apples good for Beagles? </p>
+<p> Apples contain vitamins A and C which are essential in strengthening the immune system of Beagles. </p>
+<p> Vitamins also help prevent cancer and heart disease which are two of the biggest killers among dogs. </p>
+<p> In addition, apples are rich in fiber, an essential component for a healthy digestive tract. A dog suffering from constipation can be helped by eating apples because of their high fiber content. </p>
+<p> Moreover, apples are rich in antioxidants and phytonutrients. Antioxidants protect the body from diseases by preventing cellular damage caused by free radicals. </p>
+<p> Phytonutrients enhance the effects of antioxidants so they can fight more effectively. </p>
+<p> How to feed apples to your dog? </p>
+<p> Apple slices are the best way to feed apples to your Beagle. </p>
+<p> Be sure not to give them whole apples because they contain seeds and a lot of pulp that can cause digestive problems for your dog. </p>
+<p> Never feed them seeds, the core, or any part of apple trees as these parts are toxic to dogs. It is highly recommended to avoid apples if your dog has digestive problems. </p>
+<p> Beagles are known to be picky eaters but once they get used to eating apples as a snack, they will surely enjoy it. </p>
+<p> Freeze apple sauce in an ice cube tray and give them one or two pieces. </p>
+<p> How often should you feed Beagles Apples? </p>
+<p> Beagles can have apples as a snack or treat anytime. </p>
+<p> You should always thoroughly wash the apple before giving it to your pet so that it’s clean and free of dirt, pesticides, and other harmful impurities. </p>
+<p> Wash them in running water, peel them if necessary, and cut them into small pieces for your pet to enjoy eating. </p>
+<p> Don’t feed them too much as it may upset the stomach of your pet. </p>
+<p> Can beagle puppies eat apples? </p>
+<p> Beagle puppies can eat apples but in moderation. Too many apples can cause gastrointestinal upset. </p>
+<p> Moreover, apples are high in sugar content, which can cause them to gain weight. </p>
+<p> In fact, too much sugar is unhealthy for puppies so it is best avoided except only as a treat or when used to lure the beagle into taking medication such as pills. </p>
+<p> Can pregnant beagles eat apples? </p>
+<p> Yes, pregnant beagles can eat apples. Apples are an excellent source of vitamins and minerals which is why they should be included in the diet of pregnant females. </p>
+<p> In addition, apples are high in fiber which helps prevent constipation and other pregnancy-related issues. </p>
+<p> Pregnant beagles should be fed apples only as a treat, not on a regular basis. If eaten too often or too much, they could upset the stomach of pregnant females just like any other dog. </p>
+<p> Can old beagles eat apples? </p>
+<p> It’s a great snack, especially for senior beagles. Like many other dogs, apples help soothe an upset stomach and ease indigestion in older canines, making them less likely to have gas and flatulence. </p>
+<p> But make sure older beagles don’t eat too many apples, especially if they are on medication. </p>
+<p> Its natural sugar content can cause them to gain weight, and diabetes is a typical problem for senior beagles. </p>
+<p> Note: Remove seeds and core first as they are not recommended for beagles. </p>
+<p> Can beagle eat apple cores? </p>
+<p> No, beagles should not eat apple cores. Apple seeds contain cyanide that is produced if the seed is cut open or bitten into. </p>
+<p> As little as one seed is harmful to beagles so never feed them their core, just throw it away after cutting. </p>
+<p> Can beagle eat apple seeds? </p>
+<p> No, apple seeds can be poisonous to dogs so it’s best not to feed them. </p>
+<p> Apple seeds are a type of amygdalin, which is found in the pits or seeds of apples (and other fruits). </p>
+<p> Amygdalin breaks down into hydrogen cyanide when these seeds are chewed on. Hydrogen cyanide is a colorless and flammable gas that has a distinctive bitter almond smell. </p>
+<p> Hydrogen cyanide is highly toxic and can be fatal to dogs and other mammals. Exposure results in rapid breathing, irregular heart function, coma, convulsions, and death within hours from respiratory failure. </p>
+<p> Final Verdict </p>
+<p> Apples are very healthy for Beagles. But you have to make sure that the apple core, seeds, and other parts of the tree are not given to your pet as they can be dangerous. </p>
+<p> Never give them whole apples or any big chunk of the fruit. Always slice them first into thin slices so they can easily be digestible. </p>
+</doc>
+<doc id="file22196661" filename="can-dogs-eat-apple-peels" parent_folder="web2 apple" url="https://petfoodfuss.com/dogs/can-dogs-eat-apple-peels/">
+<p> Can Dogs Eat Apple Peels? (The Risks!) </p>
+<p> However, apple peels only should be fed to your pet dog in small amounts. </p>
+<p> Apple peel should not be an issue if you’re feeding your dog a few slices of apple. However, large amounts of apples can cause digestive problems. Before serving, remove the apple core and seeds to minimize digestive issues. </p>
+<p> However, if you want to feed your dog apple cores, you can, just remove the apple seeds which are toxic to dogs. </p>
+<p> Can dogs eat green apple peels? </p>
+<p> Yes, dogs can eat green apple peels. Dogs shouldn’t have an issue eating raw or cooked apple peelings in moderation, same goes for the fruit itself. </p>
+<p> Again, removing the apple seeds is advised to minimize digestive issues with apples. </p>
+<p> An apple a day keeps the doctor away but remember that overall health matters more than one good food. </p>
+<p> Apple seeds are toxic to dogs, however! Remove the apple seeds before giving your dog an apple or an apple peel. Also, don’t serve it in large amounts, as this can cause digestive problems. </p>
+<p> Can apple peels cause stomach problems to dogs? </p>
+<p> Apple peels are safe to be given to dogs in moderation, however, large amounts can cause stomach problems. </p>
+<p> Although apple seeds are toxic to dogs, the core is referred to as horse-apple or pomace which is considered a healthy source of fiber for dogs. </p>
+<p> Are apple peels good for dogs? </p>
+<p> Apple peels are good for dogs as long as they’re given in moderation and not large amounts, apple peels can cause stomach problems if fed excessively. </p>
+<p> Although apple seeds are toxic to dogs, the core is considered a healthy source of fiber for dogs, so it’s OK to feed your dog this. </p>
+<p> Can puppies eat apple peels? </p>
+<p> Yes, puppies can eat apple peels. </p>
+<p> Apple peels are safe for dogs as long as given in moderation, don’t give large amounts of apple peels or apple peels to your dog or they may cause digestive problems. </p>
+<p> Can elderly dogs eat apple peels? </p>
+<p> Apple peels and apple, in general, is safe for dogs in moderation, large amounts can cause digestive problems. </p>
+<p> It’s advised to remove the seeds from apples before feeding them to your dog, they’re toxic to dogs. Feeding an apple core or any other part of the fruit containing the core is fine for dogs too. </p>
+<p> Can pregnant dogs eat apple peels? </p>
+<p> Apple peels and apples, in general, can be given to dogs in moderation, large amounts may cause digestive problems. </p>
+<p> Although apple seeds are toxic to dogs, the core is safe for them, so it’s OK to feed your dog this. </p>
+<p> Be aware of green apples because they’re not ripe yet! </p>
+<p> Can nursing dogs eat apple peels? </p>
+<p> Apple peels are safe for dogs as long as given in moderation, large amounts can cause digestive problems. </p>
+<p> Apple peels help nursing dogs produce breast milk, so feel free to feed this to your dog. </p>
+<p> Apple peels contain fiber which is good for your dog’s overall health, apple seeds are toxic to dogs though so avoid them at all costs. </p>
+<p> Can overweight dogs eat apple peels? </p>
+<p> Yes, overweight dogs can also eat apple peels. However, overweight dogs should be fed in moderation and take into consideration the number of calories. </p>
+<p> Can diabetic dogs eat apple peels? </p>
+<p> Yes, dogs can eat apple peels. </p>
+<p> However, weigh the good of feeding your dog this against the bad of the calories. A small number of calories shouldn’t pose any problem for a diabetic dog as long as it is well-regulated by its owner’s veterinarian. </p>
+</doc>
+<doc id="file22196662" filename="can-dogs-eat-apple-pie" parent_folder="web2 apple" url="https://petfoodfuss.com/dogs/can-dogs-eat-apple-pie/">
+<p> Can Dogs Eat Apple Pie? (The Risks!) </p>
+<p> If the apple pie is made with sugar, cinnamon, and apples, your dog should be fine. In most recipes, all of the typical elements are safe in amounts used. Apples themselves may be a nutritional treat for your pet if you share them with him. </p>
+<p> However, make sure that these are the only ingredients in your specific type of apple pie and it doesn’t contain any artificial sweeteners like xylitol which is toxic to dogs. </p>
+<p> Will apple pie make a dog sick? </p>
+<p> Apple pie shouldn’t make your dog sick. If it’s made with sugar, cinnamon, and apples then you can safely share it with your pet. However, if the apple pie contains anything additional than these ingredients it may be dangerous for your pet. </p>
+<p> Be sure to keep an eye on him while he enjoys some apple pie. Dogs are at risk for choking on food, so be sure to watch him and remove any leftover pieces of apple pie from his reach afterward. </p>
+<p> Apple pie is a safe treat for dogs as long as it’s made with sugar, apples, and cinnamon. </p>
+<p> Can dogs eat mcdonalds apple pie? </p>
+<p> Yes, dogs can eat apple pie from McDonald’s. All ingredients in the apple pies at Mickey D’s are safe for canines to eat. </p>
+<p> McDonald’s also includes a packet of sugar-free artificial sweeteners with its apple pies that your dog should not eat because it contains xylitol which is toxic to animals. </p>
+<p> Luring your dog to the pies with a “Gimme” is probably not advisable, because most dogs are susceptible to choking on food. </p>
+<p> Can dogs eat apple pie crust? </p>
+<p> Apple pie crust contains wheat flour, sugar, cold water, and canola oil which are safe for your pet to eat in small amounts. </p>
+<p> However, make sure that there is no additional ingredient like cinnamon or sugar, and check with your vet before sharing any additional food with your pet. </p>
+<p> Can dogs eat apple pie and custard? </p>
+<p> Yes, dogs can eat apple pie and custard. </p>
+<p> Apple pie and custard contain cinnamon, apples, and sugar which are safe in small amounts for your pet. </p>
+<p> However, check with your vet before sharing any additional food with your pet. Don’t lure your dog to the pies with a “Gimme” because most dogs are susceptible to choking on food. </p>
+<p> Can dogs eat cinnamon apple pie? </p>
+<p> Cinnamon apple pie is safe for your pet to eat because it contains apples, sugar, and cinnamon. </p>
+<p> However, make sure that the only ingredients in the recipe are these three elements and that there’s no additional ingredient added like nuts or raisins which may be dangerous for your dog. </p>
+<p> Should puppies eat apple pie? </p>
+<p> Apple pie is safe for puppies to eat. </p>
+<p> In fact, puppies should be introduced to human food gradually because their stomachs are very sensitive and can develop digestive problems from too much rich food too fast. Puppies need a healthy diet of pet food, but the occasional small treat won’t hurt them as long as it’s not done in excess. </p>
+<p> An occasional treat of some apple pie may be okay for your dog if it’s made with sugar, cinnamon, and apples. But make sure that no additional ingredients are added like nuts or raisins. </p>
+<p> Can elderly dogs eat apple pie? </p>
+<p> Apple pie is safe for elderly dogs as well but check with your vet before sharing any additional food with your pet. </p>
+<p> Should pregnant dogs eat apple pie? </p>
+<p> No, don’t feed a pregnant dog apple pie. </p>
+<p> Apple pie contains wheat flour which is not good for your pet’s digestion. In addition, the sugar and cinnamon in an apple pie may exacerbate morning sickness symptoms in some dogs. </p>
+<p> Can nursing dogs eat apple pie? </p>
+<p> No, don’t feed a nursing dog apple pie. </p>
+<p> Apple pie contains an ingredient that isn’t good for your pet’s digestion and may be harmful to her blood sugars. In addition, you should avoid sharing sugar-based treats with a nursing dog because this can lower her milk production. </p>
+<p> Should sick dogs eat apple pie? </p>
+<p> Don’t feed a sick dog apple pie. </p>
+<p> Apple pie contains sugar and cinnamon which may exacerbate the symptoms of some illnesses and lower your pet’s blood sugar levels. In addition, you should avoid sharing anything sweet with a sick dog to prevent diarrhea or vomiting from occurring as these side effects may make her feel even worse. </p>
+<p> Can diabetic dogs eat apple pie? </p>
+<p> Dogs with diabetes shouldn’t eat apple pies because the sugar and cinnamon in an apple pie may lower your pet’s blood sugar levels. </p>
+<p> Should overweight dogs eat apple pie? </p>
+<p> Apple pie is not a good treat for overweight dogs because of the sugar and cinnamon which may cause some health problems. </p>
+<p> In addition, this food has lots of calories so it’s best to avoid sharing any type of high-calorie treats with your pet. </p>
+</doc>
+<doc id="file22196663" filename="do-deer-eat-apples" parent_folder="web2 apple" url="https://worlddeer.org/do-deer-eat-apples/">
+<p> Do Deer Eat Apples? </p>
+<p> Deer are one of the most recognized animals in North America. Most people have seen a whitetail deer, while hunters specifically will spend a lot of time with these animals. Still, how many people know what a deer eats? They probably know it’s fruit, plant stuff, or vegetables, but not exactly what they eat. For example, can a deer eat apples? </p>
+<p> Yes, deer do eat apples. That’s the short answer, but not the whole story. </p>
+<p> Deer Do Eat Apples But Not Exclusively </p>
+<p> While deer do eat apples, it should in no way become their staple diet. Think of apple as a candy treat for deer. They find them delicious, but it is hardly good for them to eat exclusively. Deer enjoy apples but have difficulty digesting them. In fact, if deer exclusively eat apples there’s a good chance the animal will starve to death. Apples do not provide deer the full nutrients it needs to be healthy and often interfere with their seasonal diets during winter. </p>
+<p> Similar trends happen every year with corn feeding. During winter people worry deer will starve in the wild, cold, and harsh conditions. Out of concern, they may leave out a bag of corn or apples for deer to eat, or may try other means of feeding deer. </p>
+<p> Naturally, the deer will gobble this down without giving it much thought. A few weeks later that deer may still die of starvation. </p>
+<p> Below you can read why this interesting contradiction (feed a deer which then dies of starvation) happens and under what circumstances you can feed white tails apple. </p>
+<p> When Can Deer Eat Apples? </p>
+<p> You may be wondering what all the fuss is about. After-all, you have observed wild deer eating apple on a hike or even in your garden. That’s true and apple is a part of a deer diet, but it is all about availability. Remember when we called apple like candy for deer? </p>
+<p> Apple is not readily available to deer. It grows in trees and is usually out of reach, which means deer only access apple when the fruit falls to the ground or they are fed it by humans. </p>
+<p> Whitetail stomachs can handle apple in small quantities. In fact a deer will likely gobble down this treat with glee. Apples contain ample calories for deer, and they will even eat an apple that is starting to rot after falling from a tree. </p>
+<p> How Deer Digest Their Food </p>
+<p> Deer stomachs contain millions of microorganisms that can break down just about anything within the animal’s specialist range of foods. For example, they can handle the messy wood stuffs and leaves deer eat during winter. </p>
+<p> Deer can handle corn and apples but they have some trouble digesting these foods. </p>
+<p> Whitetails struggle with radical changes to their diet. If they have been foraging during winter and suddenly munch down on a pile of corn until they are full, those microorganisms won’t like it. </p>
+<p> The deer leaves full, but the digestive system will not be able to process all that corn and the deer may starve. Some may survive, but when their diet again switches back to woody materials, the stomach again goes into flux and puts the animal at risk. </p>
+<p> Winter Feeding </p>
+<p> Winter conditions across many deer ranges around the world can get harsh. Whitetails have many challenges during winter weather in North America. Forests and open spaces the deer use suddenly become covered in a thick layer of foot-high snow and plants die off. This leaves deer eating a diet of dead leaves, tree bark, woody browse, and lichens. </p>
+<p> Sounds depressing, right? Well, the deer isn’t a fan of it either. It’s something that has been programmed in whitetails for hundreds of thousands of years, and probably longer. </p>
+<p> Deer are foraging animals by nature, during the summer it is easy to find food and during the winter it is not. During the winter season, the digestive system of deer is fine-tuned for foraging and living off the bare sustenance it can get. </p>
+<p> Almost all whitetails will lose over 20% of their body weight during winter. Winter is also nature’s way of removing weaker animals from the ecosystem. It is not nice to think about, but it’s the reality of nature. </p>
+<p> Of course, many well-meaning people think they can help deer by feeding them, and corn or apples are a common choice. </p>
+<p> Using Apples to Attract Deer </p>
+<p> For hunters, there are some clear pros and cons to using apple to attract deer. </p>
+<p> On the pro side, deer love apples and are likely to come to them when they’re used as a lure. If you happen to be in wait, apples take longer to eat than other foodstuffs and may keep the deer distracted for longer. </p>
+<p> One major con to using apple to attract deer is other animals also love them. You are just as likely to attract raccoons (or worse, bears) than you are a deer. </p>
+<p> If you live in a non-urban area that sits within deer territory, having an apple tree in your garden is a great way to attract deer. Again, there some problems because apples will also attract other animals so if you’re sole purpose is to observe deer up close, perhaps look for another way to attract them … or prepare to have foxes and raccoons also become frequent visitors to your garden. </p>
+</doc>
+<doc id="file22196669" filename="heres-what-actually-happens-when-you-eat-an-apple-every-day" parent_folder="web2 apple" url="https://www.thelist.com/232099/heres-what-actually-happens-when-you-eat-an-apple-every-day/">
+<p> Here's What Actually Happens When You Eat An Apple Every Day </p>
+<p> Apples are one of America's favorite fruits, and it's not hard to see why. Red or green, apples are nutritional powerhouses (and they're even better if you choose organic). According to the Harvard School of Public Health, eating apples has been proven to help with everything from weight loss to heart health. Since they're easy to toss in your bag and eat on-the-go, apples have earned their place as one of the most convenient healthy snacks. </p>
+<p> The average American eats nearly 17 pounds of apples per year (via Statista), and sliced apples are even served at fast food restaurants like McDonald's. But what happens to your health when you eat an apple every day? Does an apple's sweetness hide a poisonous secret? (Spoiler: Nope, eating an apple a day is good for you.) </p>
+<p> Apples boost your head-to-toe health </p>
+<p> Shutterstock </p>
+<p> Apples and oranges might be different, but they're both great sources of vitamin C. Per Self's Nutrition Data, a medium apple provides 14 percent of the recommended daily use of vitamin C, as well as six percent of your recommended potassium. Apples are jam-packed with flavonoids, naturally occurring chemicals with antioxidant and anti-inflammatory effects (via the Harvard School of Public Health.) And because apples are 85 percent water, they're hydrating as well as filling, according to Nola.com. </p>
+<p> Apples are also a great source of fiber, with 4.4 grams of fiber in every medium-sized fruit. According to the Mayo Clinic, high fiber diets do more than regulate your digestive system; they can also lower cholesterol, help control blood sugar levels, and reduce the risk of cardiovascular disease and cancers. Plus, roughly 20 percent of an apple's fruit consists of pectin, which has been linked to lower cholesterol (via Healthline.) That makes a daily apple a sweet part of a high fiber nutrition plan. </p>
+<p> Apples help with good gut bacteria </p>
+<p> Shutterstock </p>
+<p> Eating apples is great for your gut health. Per Washington State University, a study showed that the non-digestible compounds in apples contribute to the growth of healthy bacteria. Having healthy gut bacteria helps ward off viruses and other harmful bacteria (via University of California, Davis Health.) Adding apples to your diet can have a major effect on your overall gut health, too. According to food scientist Giuliana Noratto, "Obese people have an out-of-balance gut. So changing our gut bacteria via what we eat, making it similar to that of a lean person, could help prevent weight gain." (via Fox News) </p>
+<p> While there are hundreds of apple varieties, one kind of apple provides the most gut health benefits: the humble Granny Smith. Granny Smiths outperformed Fuji, Gala, McIntosh, and other popular varieties when it came to the concentration of fiber and low level of carbohydrates. That doesn't mean you have to bump red apples off the table. Nutritionist Fiona Tuck told the Huffington Post that while green apples slightly outperform with fiber, red apples have slightly more antioxidants. Bottom line: Any color of apple will be beneficial for your health. </p>
+<p> You can actually eat more than one apple a day </p>
+<p> Shutterstock </p>
+<p> When it comes to apples, it's hard to get too much of a good thing. Nutritionist Leslie Beck told The Globe and Mail that eating an apple a day is perfectly safe and won't add too much sugar to your diet. Beck suggests aiming to consume two to three servings of fruit every day. That means, while eating one apple a day has plenty of benefits, it's safe to eat even more. The United Kingdom National Health Service reported that eating two apples per day can help cut cholesterol levels by four percent. </p>
+<p> Craving a third apple? One study in the journal Nutrition showed that eating three apples (or pears) per day helped overweight women lose weight. While it might be safe to eat even more apples, there are some downsides. LiveStrong notes that eating too much fiber can cause bloating, and despite their low calorie count, too many apples can help you pack on the pounds. Still, an apple or two a day has more benefits than drawbacks. And while it won't necessarily keep the doctor away, eating an apple a day might keep another medical professional at bay: the pharmacist. According to a JAMA study, daily apple eaters tend to take fewer prescription medicines. </p>
+<p> Apple juice doesn't provide the same benefits </p>
+<p> Shutterstock </p>
+<p> Sweet, tart apple juice tastes delicious, whether it's added to a green juice or sipped by itself. Unfortunately, apple juice strips away most of the nutritional benefits of just eating an apple. According to Healthline, apple juice is high in sugar and low in fiber. Not only does that mean missing out on fiber's benefits for your digestive system, it means apple juice will leave you feeling hungry sooner than if you ate an apple instead. When you do drink apple juice, try to pair it with a protein. One study showed that eating peanut butter alongside a breakfast with apple juice reduces the magnitude of blood sugar spikes. </p>
+<p> To get maximum health benefits from an apple, put your peeler away! Apple skin is responsible for most of the fiber and nutrients in apples, according to the Harvard School of Public Health. Peeling an apple more than halves the amount of fiber in the fruit (via Huffington Post.) If you're really hardcore, an apple's core will provide additional nutritional benefits. According to Today, apple cores contain more healthy bacteria than just the apple flesh. But however you eat an apple, your body will be glad you did. </p>
+</doc>
+<doc id="file22196670" filename="reasons-eat-apple-every-day-4868729" parent_folder="web2 apple" url="https://www.treehugger.com/reasons-eat-apple-every-day-4868729">
+<p> 9 Reasons to Eat an Apple Every Day </p>
+<p> Starre Vartan is an environmental and science journalist. She holds an MFA degree from Columbia University and Geology and English degrees from Syracuse University. </p>
+<p> You've heard the old "apple a day" expression. The original has been traced back to 1866 and was: "Eat an apple on going to bed, and you'll keep the doctor from earning his bread." Science seems to be backing up this old idea up. </p>
+<p> From brand new medical research to common sense advice, here are several reasons to eat a nutritious apple every day. </p>
+<p> 1. Apples contain an anti-aging compound. </p>
+<p> Some of how we age is uncontrollable — it's in our genes. But some of how fast we age — and how healthfully we do so — is under our control. Scientists are always looking for ways to slow down aging, no matter our genetic destiny. In a study published in EBioMedicine by the Lancet, they looked at which flavonoids (naturally occurring compounds in fruits and vegetables) had the most antioxidant and anti-inflammatory properties. </p>
+<p> They discovered that fisetin, which is found in apples, strawberries, cucumbers, persimmons and onions, had the strongest effects. "Administration of fisetin to wild-type mice late in life ... extended median and maximum lifespan," the researchers wrote. The tests also were run on human fat tissue to see if the results translated — and they did. </p>
+<p> "These results suggest that we can extend the period of health, termed healthspan, even towards the end of life," professor Paul D. Robbins from the University of Minnesota, told Medical News Today. </p>
+<p> 2. They're packed with soluble fiber. </p>
+<p> A high-fiber diet is important for digestive health and keeping cholesterol low. Fiber also has been shown to reduce the risk of conditions such as heart disease, diabetes, obesity and diverticulitis. According to the Mayo Clinic, one apple with the peel on has about 4.4 grams of soluble fiber, which depending on your age, is about 15 percent of the daily recommended intake. </p>
+<p> 3. They can lower your asthma risk. </p>
+<p> A study in Australia of 1,600 people and another study in the U.K. of 1,500 people both found that apples increased pulmonary health in general and reduced the risk of asthma, according to a study published in Nutrition Journal. Researchers found that people who ate five apples a week saw the biggest boost in respiratory health. </p>
+<p> 4. Apples are excellent thirst-quenchers. </p>
+<p> Did you know apples are 86 percent water? If you're looking for ways to stay hydrated during the day, toss a sturdy apple into your bag for a refreshing treat. </p>
+<p> 5. Apple cider vinegar is all-around awesome. </p>
+<p> Throughout history, apple cider vinegar has been used as a natural remedy for everything from soothing sore throats to relieving acid reflux to getting rid of the hiccups. </p>
+<p> 6. Apples can help with weight loss. </p>
+<p> This one isn't rocket science. Apples are a fruit, they have no fat or artificial ingredients, and as previously mentioned, they're high in fiber and water. So it's common sense that eating apples instead of, say, a bag of chips or a candy bar is a smarter nutritional decision that will lead to less weight gain. A study published in the journal Nutrition found that women who ate three apples each day were more likely to lose weight than women who didn't. </p>
+<p> 7. They have very few calories. </p>
+<p> Depending on the size of your apple, it probably has about 90 calories. Which is another point in support of the claim above about weight loss. </p>
+<p> 8. They have a plethora of vitamins and minerals. </p>
+<p> Apples have about 14 percent of your daily recommended intake of vitamin C and 5% of the recommended amount of vitamin B6. They have 2% of your daily vitamin A, calcium and iron needs. And with 195 milligrams of potassium, an apple has 6% of your daily potassium needs. </p>
+<p> 9. They're delicious and versatile! </p>
+<p> Make apple sauce, apple butter or apple jelly. Cook up a pie or cobbler. Taste different-colored apples from red to green to yellow. Go savory and incorporate apples into chicken or pork recipes, or add chopped apples to stuffing. Or just eat the fruit as-is in its perfect, natural form. </p>
+<p> No matter how you choose to eat an apple, leave the skin on — it's where most of the nutrients are. </p>
+<p> Your Privacy Rights </p>
+<p> Treehugger and our third-party partners use cookies and process personal data like unique identifiers based on your consent to store and/or access information on a device, display personalized ads and for content measurement, audience insight, and product development. To change or withdraw your consent choices for Treehugger.com, including your right to object where legitimate interest is used, click below. At any time, you can update your settings through the "EU Privacy" link at the bottom of any page. These choices will be signaled globally to our partners and will not affect browsing data. List of Partners (vendors) </p>
+<p> We and our partners process data to: </p>
+<p> Actively scan device characteristics for identification. Use precise geolocation data. Store and/or access information on a device. Select personalised content. Create a personalised content profile. Measure ad performance. Select basic ads. Create a personalised ads profile. Select personalised ads. Apply market research to generate audience insights. Measure content performance. Develop and improve products. List of Partners (vendors) </p>
+</doc>
