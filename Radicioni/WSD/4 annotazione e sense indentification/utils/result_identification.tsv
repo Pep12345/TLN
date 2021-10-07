@@ -1,0 +1,103 @@
+# Row1:expected
+# Row2:predicted
+# word1,word2,bn_synset1,bn_synset2,terms_bn_synset1,terms_bn_synset2
+demonio	angelo	bn:21446786n	bn:00004063n	diavolo, demonio, Diavoli	angelo
+demonio	angelo	bn:00009586n	bn:00004063n	{'shaitan', 'nemico', 'il_tentatore', 'satana', 'beel_zebub', 'lucifero', 'belzebù', 'diavolo', 'old_nick', 'beelzebub', 'demonio', 'satanael', 'diavoli', 'berlic', 'principe_delle_tenebre', 'demoni', 'demòni', 'berlicche'}	{'angelo', 'angeli', 'tribunale_celeste', 'roveto_ardente'}
+crittogramma	simbolo	bn:00024193n	bn:00075652n	Testo cifrato	simbolo  segno
+crittogramma	simbolo	bn:00024193n	bn:00070445n	{'crittogrammi', 'crittogramma'}	{'semiologo', 'semiologia', 'semiologi', 'semiotica', 'simbolo', 'semeiologia'}
+campus	università	bn:00015097n	bn:00079152n	universià americana	università, accademia, ateneo, collegio, istituto
+campus	università	bn:00015097n	bn:00079152n	{'campus_universitario', 'cittadella_universitaria', 'campus', 'città_universitaria'}	{'accademia', 'scuola', 'università_di_ricerca', 'università_degli_studi', 'status_di_università', 'studi_universitari', 'università_ricerca', 'ateneo', 'università', 'ente_universitario', 'università_globale'}
+libertà	libertà	bn:00050954n	bn:00050954n	libertà, 	libertà
+libertà	libertà	bn:00007389n	bn:00007389n	{'autonomia', 'autonomia_nazionale', 'governo_autonomo', 'libertà', 'autonoma'}	{'autonomia', 'autonomia_nazionale', 'governo_autonomo', 'libertà', 'autonoma'}
+tifone	ciclone	bn:00045282n	bn:00045282n	uragano,Ciclone tropicale,ciclone,tifone,tornado	uragano,Ciclone tropicale,ciclone,tifone,tornado
+tifone	ciclone	bn:00045282n	bn:00045282n	{'tifone', 'depressioni_tropicali', 'nucleo_caldo', 'uragani', 'ciclone_tropicale', 'cicloni_tropicali', 'tromba_d'aria', 'basso_tropicale', 'uragano', 'ciclone', 'tempeste_tropicali', 'tempesta_tropicale', 'tornado', 'depressione_tropicale'}	{'tifone', 'depressioni_tropicali', 'nucleo_caldo', 'uragani', 'ciclone_tropicale', 'cicloni_tropicali', 'tromba_d'aria', 'basso_tropicale', 'uragano', 'ciclone', 'tempeste_tropicali', 'tempesta_tropicale', 'tornado', 'depressione_tropicale'}
+manuale	guida turistica	bn:00030689n	bn:00042106n	vademecum,manuale,enchiridio,guida,metodo	guida, guida turistica
+manuale	guida turistica	bn:00030689n	bn:00042106n	{'vademecum', 'metodo', 'guida', 'manuale', 'prontuario', 'enchiridio', 'enchiridion'}	{'guida', 'guida_turistica', 'turistica'}
+Ebola	virus Ebola	bn:00029565n	bn:00029566n	Malattia da virus Ebola,ebola,febbre emorragica Ebola,Zaire ebolavirus	Virus Ebola,Zaire ebolavirus
+Ebola	virus Ebola	bn:00029565n	bn:00029566n	{'ebola_febbre', 'febbre_emorragica_ebola', 'ebola_virus_disease', 'malattia_da_virus_ebola', 'zaire_ebolavirus', 'ebola', 'febbre_emorragica_da_ebola'}	{'virus_ebola', 'ebola_virus'}
+principessa	biscotto	bn:00064417n	bn:00010697n	principessa,equivalente femminile di principe	biscotto,Cookie,biscuit
+principessa	biscotto	bn:00064417n	bn:00048549n	{'princessa', 'principessa', 'principesse'}	{'jumbal', 'biscotto'}
+treno	tram	bn:00066028n	bn:03294634n	treno,convoglio,treno passeggeri	 Metropolitana leggera,metrotranvia,tram
+treno	tram	bn:00066028n	bn:03294634n	{'treni', 'ferrovia_treno', 'treno_locale', 'ferrovia_passeggeri', 'treno_passeggeri', 'convoglio', 'treni_passeggeri', 'treno'}	{'tram', 'veicoli_ferroviari_leggeri', 'luce-veicolo_ferroviario', 'sistema_di_metropolitana_leggera', 'metropolitana_leggera', 'light_rail_transit', 'ferrovia_leggera', 'veicolo_metropolitana_leggera'}
+ecosistema	economia	bn:00029687n	bn:00029676n	ecosistema,biogeocenosi,biosistema,sistema ecologico	economia,economia politica,scienze economiche,economia della politica
+ecosistema	economia	bn:00029687n	bn:00029683n	{'ecosistemi', 'equilibrio_ecologico', 'sistema_ecologico', 'eco-sistema', 'ecosistema', 'sistemi_ecologici', 'biosistema', 'biogeocenosi'}	{'risparmio', 'economia'}
+regina regnante	regina degli scacchi	bn:00034025n	bn:17765539n	regina,Regina regnante	La regina degli scacchi,Regina degli scacchi (titolo film)
+regina regnante	regina degli scacchi	None	None	None	None
+oro	zinco	bn:00006911n	bn:00006861n	oro, elemento chimico Au	zinco, elemento chimico Zn
+oro	zinco	bn:00006911n	bn:00006861n	{'giacimenti_auriferi', 'numero_atomico_79', 'produzione_di_oro_mondiale', 'oro_bianco', 'estrazione_dell'oro', 'au', 'sole_obrizzo', 'oro_nativo', 'oro', 'giacimento_aurifero', 'oro_lode', 'oro_zecchino', 'miniere_d'oro', 'miniera_d'oro'}	{'vitamina_z', 'zn', 'zinco', 'numero_atomico_30'}
+cursore	patatine fritte	bn:00024529n	bn:00018527n	cursore, indicatore (informatica)	patate fritte,patatine fritte,patatine,patata fritta,patatina fritta
+cursore	patatine fritte	bn:00024529n	bn:00743205n	{'puntatore_del_mouse', 'indicatore_di_misura', 'cursore', 'puntatore'}	{'fries_with_that', 'fries_with_that?', 'patatine_fritte'}
+Rio delle Amazzoni	foresta	bn:00003245n	bn:00035868n	Rio delle Amazzoni, Amazzoni	 foresta,bosco,selva,bosco misto
+Rio delle Amazzoni	foresta	bn:00003245n	bn:00041737n	{'solimões', 'amazon_river', 'solimoes', 'rio_delle_amazzoni', 'amazzoni'}	{'foresta'}
+tennis	statistica	bn:00050287n	bn:00074061n	tennis,pallacorda,tennis sull'erba	statistica,analisi statistica
+tennis	statistica	bn:00495691n	bn:03399058n	{'tennis'}	{'statistica', 'attributo', 'abilità'}
+Bolzano	teorema	bn:00011913n	bn:00076831n	Bolzano, città	teorema, Proposizione dimostrabile
+Bolzano	teorema	bn:13890341n	bn:01145346n	{'bolzano', 'bolzano_bellunese'}	{'teorema'}
+altitudine	conversione	bn:00003142n	bn:00003126n	altitudine, quota	alterazione,cambiamento,conversione,divenire,mutamento
+altitudine	conversione	bn:00003143n	bn:00077989n	{'altitudine', 'ortocentro', 'altezza'}	{'trasformazione', 'conversione'}
+barca	albero	bn:00011674n	bn:00078131n	 barca,battello,imbarcazione,natante,lancia	albero,albore,arbore
+barca	albero	bn:00008596n	bn:00053706n	{'brigantino_a_palo', 'barca'}	{'albero_di_mezzana', 'albero', 'albero_maestro'}
+trono	spada	bn:00077086n	bn:00011081n	trono,truono,Seggio regio	spada,acciaro,brando,durindana,durlindana
+trono	spada	bn:00077086n	bn:03829974n	{'truono', 'trono'}	{'periodo_delle_migrazioni', 'spada'}
+cotone	maglione	bn:00023073n	bn:00048570n	cotone,cotonato	maglione,Maglia,pullover,golf
+cotone	maglione	bn:00023073n	bn:00048570n	{'cotonato', 'cotone'}	{'pullover', 'maglione', 'maglioni', 'golf', 'maglia'}
+ciliegia	fragola	bn:20277261n	bn:00074577n	Ciliegia,frutto del ciliegio	fragola,fraga,Fragaria x ananassa(pianta)
+ciliegia	fragola	bn:00018175n	bn:00074577n	{'ciliegio', 'ciliegie', 'cerasicoltura', 'ciliegia', 'durone'}	{'fraga', 'fragaria_ananassa', 'fragola', 'fragole'}
+Islam	Corano	bn:00047600n	bn:00002370n	Islam,islamismo,maomettismo,mezza luna,mezzaluna	Libro sacro dei Musulmani
+Islam	Corano	bn:00047600n	bn:00002370n	{'islamica', 'musulmani', 'islàm', 'islām', 'mussulmanesimo', 'mezzaluna', 'musulmano', 'muhammadanism', 'religione_musulmana', 'islam_militante', 'fede_islamica', 'islamico', 'islamici', 'islamisti', 'religione_islamica', 'maomettismo', 'islam_politico', 'islami', 'islamismo', 'mezza_luna', 'musulmanesimo', 'islam'}	{'mushaf', 'qur'an', 'al-qur'an', 'corano', 'alcorano', 'quran', 'il_corano', 'traduzioni_del_corano'}
+Neanderthal	sport	bn:00044581n	bn:00006759n	,Homo neanderthalensis,Homo sapiens neanderthalensis,Neanderthal	sport,atletica
+Neanderthal	sport	bn:00044581n	bn:00215325n	{'paleantropo', 'neandertal', 'neanderthal', 'neandertaliano', 'homo_neanderthalensis', 'l'uomo_di_neandertal', 'neanderthal_man', 'uomo_di_neanderthal', 'uomo_di_neandertal', 'homo_sapiens_neanderthalensis'}	{'sport'}
+nepotismo	re	bn:00057307n	bn:00024097n	nepotismo,nipotismo,favorire i propri parenti	 monarca,re,sovrano,regnante
+nepotismo	re	bn:00057307n	bn:00024097n	{'nepotismo', 'familismo', 'clientelare', 'nipotismo', 'baronismo'}	{'sovrani', 're', 'testa_coronata', 'monarca', 'monarchi', 'sovrano', 'regnante'}
+personaggio	persona	bn:00017746n	bn:00046516n	personaggio,Personaggio immaginario,figura	 individuo,persona,mortale,essere umano,anima
+personaggio	persona	bn:00017749n	bn:00017749n	{'ruolo_teatrale', 'persona', 'parte', 'personae', 'personaggi', 'ruolo', 'personaggio'}	{'ruolo_teatrale', 'persona', 'parte', 'personae', 'personaggi', 'ruolo', 'personaggio'}
+cisterna	vagone	bn:00074452n	bn:00015785n	serbatoio,cisterna	automotrice,vagone,bisarca,cabina,carro merci
+cisterna	vagone	bn:00074452n	bn:00015785n	{'serbatoi_di_stoccaggio', 'tanica_serbatoio_bombola', 'serbatoi', 'cisterna', 'serbatoio'}	{'veicoli_ferroviari', 'carro_merci', 'trasporto_ferroviario', 'vagoni_merci', 'carrozza', 'vagone_ferroviario', 'carro', 'automotrice', 'carro_ferroviario_merci', 'ferrovia_auto', 'bisarca', 'railcar', 'vagone', 'automotrice_diesel', 'vagoni', 'carro_ferroviario', 'veicolo_ferroviario', 'veicolo_su_rotaia'}
+Mercurio	Giove	bn:09063133n	bn:00048646n	pianeta del sistema solare	quinto pianeta del sistema solare
+Mercurio	Giove	bn:00063119n	bn:00063119n	{'segno_del_sole', 'pianeta', 'luna', 'giove', 'plutone', 'mercurio', 'venere', 'marte'}	{'segno_del_sole', 'pianeta', 'luna', 'giove', 'plutone', 'mercurio', 'venere', 'marte'}
+bronchite	acetaminofene	bn:00013313n	bn:00000834n	Infiammazione dei bronchi	Paracetamolo,paracetamol,Acetaminofene,Efferalgan,Paracetomolo
+bronchite	acetaminofene	bn:00013313n	bn:00000834n	{'bronchite'}	{'tachifludec', 'efferalgan', 'acetaminofene', 'tachipirina', 'tempra', 'tylenol_pm', 'paracetamolo', 'anacin_iii', 'co-codamol', 'panadol', 'paracetamol', 'datril', 'phenaphen', 'paracetomolo', 'tylenol'}
+sangue	corpo	bn:00011346n	bn:14263042n	Liquido organico	l'insieme dei tessuti che compongono un essere vivente
+sangue	corpo	bn:00011346n	bn:00011748n	{'blood', 'ematologiche', 'flusso_sanguigno', 'elementi_figurati', 'ematico', 'sangue_umano', 'elementi_corpuscolati', 'sangue_ossigenato', 'sangue', 'cellule_ematiche', 'sanguigni', 'globulo', 'flusso_ematico'}	{'tronco', 'corpo', 'busto', 'fusto', 'torso', 'torace'}
+islamofobia	ISIS	bn:00047611n	bn:15487402n	islamofobo,pregiudizio e discriminazione verso l'islam	Stato Islamico,Da'esh,Da'ish,Daech,Daesh,ISIS
+islamofobia	ISIS	bn:00047611n	bn:15487402n	{'islamofobo', 'islamofobia', 'islamofobi'}	{'daesh', 'stato_islamico_dell'iraq_e_della_siria', 'stato_islamico', 'is', 'isil', 'isis', 'da'esh', 'daech', 'dāʿesh', 'daish', 'stato_islamico_dell'iraq', 'stato_islamico_dell'iraq_e_del_levante', 'stato_islamico_dell'iraq_e_levante', 'da'ish'}
+uncinetto	uniforme	bn:00023884n	bn:14044808n	uncinetto,crochet,croscè,lavoro all'uncinetto,maglia	Uniforme,divisa
+uncinetto	uniforme	bn:00023885n	bn:00042407n	{'crochet', 'lavoro_all'uncinetto', 'uncinetto', 'aghetto', 'uncinetto_a_forcella', 'crochet_ago'}	{'amazzone', 'riding_habit', 'uniforme'}
+Hadoop	touchscreen	bn:03415734n	bn:00077733n	Apache Hadoop,Hadoopd,framework	schermo tattile,schermo a sfioramento,Touchscreen
+Hadoop	touchscreen	bn:03415734n	bn:00077733n	{'hdfs', 'hadoop_distributed_file_system', 'hadoop', 'apache_hadoop'}	{'touch_screen', 'touchscreen', 'schermo_tattile', 'touchscreen_capacitivo', 'schermo_sensibile_al_contatto', 'display_capacitivo', 'schermo_a_sfioramento', 'touch-sensitive', 'capacitive_display', 'touch-screen'}
+combustibile fossile	fossile	bn:00036027n	bn:00036026n	Combustibili derivanti dalla trasformazione di sostanza organica	Resto di organismo animale o vegetale
+combustibile fossile	fossile	bn:00036027n	bn:00036026n	{'fonte_fossile', 'combustibile_fossile', 'carburante_fossile', 'petrolio_e_gas', 'fonti_fossili', 'combustibili_fossili', 'sostanze_fossili', 'energia_fossile', 'carburanti_fossili'}	{'microfossili', 'fossile', 'fossilifero', 'fossili', 'fossilizzato'}
+mutante	sociobiologia	bn:00018894n	bn:00072570n	Mutazione genetica,mutazione	corrente della sociologia
+mutante	sociobiologia	bn:00018894n	bn:00072570n	{'mutare', 'mutazione_frameshift', 'mutante', 'mutazione_puntiforme', 'mutazione', 'anomalia_cromosomica', 'anomalie_cromosomiche', 'mutazioni_genetiche', 'mutato', 'mutazione_spontanea', 'mutazioni_puntiformi', 'mutazione_genetica', 'mutazione_cromosomica', 'missenso', 'mutagene', 'mutazione_indietro', 'mutazione_schiena', 'mutazione_somatica', 'mutanti', 'mutazioni'}	{'sociobiologia'}
+sorella	fratello	bn:00071400n	bn:00071400n	 fratello,fratello o sorella,fratelli,Sorella,fratellastro	fratello,fratello o sorella,fratelli,Sorella,fratellastro
+sorella	fratello	bn:00071400n	bn:00071400n	{'fratellastro', 'fratelli', 'sorella', 'fratello_o_sorella', 'sorelle', 'parente_congiunto', 'fratello', 'sorellastra'}	{'fratellastro', 'fratelli', 'sorella', 'fratello_o_sorella', 'sorelle', 'parente_congiunto', 'fratello', 'sorellastra'}
+matita	storia	bn:00061334n	bn:00044268n	matita,lapis,Strumento per scrivere	Dottrina,disciplina
+matita	storia	bn:02272538n	bn:00044269n	{'matita', 'fascio_di_piani'}	{'storia'}
+eczema	dermatite	bn:00029715n	bn:00026454n	esantema, Malattia della pelle	dermatite,dermatosi,Malattia della cute
+eczema	dermatite	bn:00029715n	bn:00026454n	{'esantema', 'eczema', 'eczemi'}	{'dermatite', 'dermatiti', 'dermatosi'}
+imperatore	governatore	bn:00014550n	bn:00041204n	 Cesare,Gaio Giulio Cesare,Giulio Cesare,Caio Giulio Cesare,imperatore	governante,Funzionario con incarichi governativi
+imperatore	governatore	bn:00014550n	bn:01550599n	{'iulius_caesar', 'caio_giulio_cesare', 'gaius_iulius_caesar', 'gaio_giulio_cesare', 'cesare', 'gaius_julius_caesar', 'imperatore', 'giulio_cesare', 'cesariani'}	{'governatore', 'governatore_romano', 'governatore_provinciale_romano'}
+corona	chiave	bn:01238039n	bn:00048985n	copricapo cerimoniale	Strumento metallico atto ad aprire e a chiudere una serratura
+corona	chiave	bn:00034102n	bn:00019683n	{'corona', 'fermata', 'punto_coronato'}	{'chiave_di_contralto', 'chiave_di_sol', 'chiave_musicale', 'chiave_di_mezzosoprano', 'chiave_di_violino_francese', 'chiavi_musicali', 'chiave_di_baritono', 'chiave_di_tenore', 'chiave_di_soprano', 'chiave_di_violino', 'chiave_di_do', 'chiave_di_fa', 'chiave_di_basso', 'chiave_di_subbasso', 'chiave'}
+algebra	operazione	bn:00002676n	bn:00053826n	Branca della matematica	operazione aritmetica
+algebra	operazione	bn:03325213n	bn:00053826n	{'r-algebra', 'algebra', 'algebra_su_un_anello', 'algebra_su_anello_commutativo'}	{'operando', 'operazione_matematica', 'operandi', 'procedimento_matematico', 'operazione', 'operazione_interna', 'operazioni_aritmetiche', 'operazione_aritmetica'}
+pistone	motore	bn:00062630n	bn:00030850n	stantuffo, organo metallico che percorre il cilindro	Converte energia termica in lavoro meccanico
+pistone	motore	bn:00062630n	bn:00030850n	{'stantuffo', 'pistone'}	{'motori', 'motore', 'propulsore'}
+borsa di studio	retta	bn:00069614n	bn:00078557n	finanziamento agli studi	tassa d'iscrizione,tassa scolastica,tassa universitaria
+borsa di studio	retta	bn:00014060n	bn:00078557n	{'borse_di_studio', 'borsa_di_studio'}	{'tassa_universitaria', 'tassa_d'iscrizione', 'retta', 'retta_scolastica', 'tasse_universitarie', 'tassa_scolastica'}
+libro	manoscritto	bn:00012059n	bn:00044453n	Lavoro scritto che stato pubblicato	Libro,testo scritto a mano
+libro	manoscritto	bn:00012059n	bn:00044453n	{'libro', 'dal_rotolo_al_codex', 'controguardia', 'sovracoperta', 'libri_antichi', 'storia_del_libro', 'carte_di_guardia', 'libri', 'piatto_superiore', 'prima_di_copertina', 'libro_antico', 'sguardie'}	{'manoscritti', 'manoscritto', 'integri', 'mutili', 'copiatura'}
+lantana	bocca di leone	bn:00049943n	bn:00004738n	Arbusto ramoso	pianta
+lantana	bocca di leone	bn:00049943n	bn:00004738n	{'lantana'}	{'bocca_di_leone', 'antirrhinum_majus', 'bocca_di_leone_comune', 'mediterraneo_bocca_di_leone'}
+buco nero	vuoto	bn:00010920n	bn:03321000n	Stella ad altissima densità	un enorme spazio di densità estremamente bassa in confronto a quanto si osserva nell'Universo
+buco nero	vuoto	bn:00010920n	bn:03321000n	{'buchi_neri', 'buco_nero'}	{'vuoto', 'vuoto_cosmico'}
+Impero Persiano	Ciro	bn:00061704n	bn:00024877n	Impero di Persia	Ciro il giovane, impero achemenide, satrapo persiano
+Impero Persiano	Ciro	bn:00061704n	bn:03352442n	{'storia_della_persia', 'trono_del_pavone', 'regno_persiano', 'impero_di_persia', 'impero_persiano', 'persia', 'regno_di_persia'}	{'ciro'}
+editoriale	notizia	bn:00020825n	bn:00057546n	articolo di giornale,articolo di fondo,cronaca	Informazione riportata da un media, annuncio,cronaca
+editoriale	notizia	bn:00020825n	bn:00057563n	{'editoriale', 'editoriali', 'colonna', 'colonna_di_giornale', 'fondo', 'giornale_colonna', 'articolo_di_fondo', 'rubrica', 'pagina_editoriale'}	{'giornale_della_sera', 'quotidiano', 'giornalismo', 'quotidiano_nazionale', 'giornali', 'rivista', 'quotidiano_della_sera', 'periodico', 'cronaca', 'notizia', 'storia_dei_quotidiani_e_dei_periodici', 'giornale_locale', 'foglio', 'giornale'}
+decorazione	busta	bn:00025767n	bn:03384143n	addobbo	prodotto postale
+decorazione	busta	bn:00025767n	bn:02096953n	{'decorazione', 'addobbo'}	{'busta'}
+squalo balena	aragosta	bn:00067621n	bn:00051731n	pesce	crostaceo
+squalo balena	aragosta	bn:00067621n	bn:03823397n	{'rhincodon_typus', 'squalo_balena', 'squali_balena', 'rhincodon', 'rhincodontidae'}	{'aragosta_mediterranea', 'aragosta', 'aragoste', 'palinurus_elephas', 'palinurus_vulgaris', 'palinurus_quadricornis'}
+mais	granturco	bn:00022678n	bn:00022678n	granturco,granoturco,formentone	mais,granoturco,formentone
+mais	granturco	bn:00022678n	bn:00022678n	{'messe', 'grano_turco', 'granoturco', 'formentone', 'granturco', 'z._mays', 'meliga', 'frumentone', 'granone', 'zea_mays', 'mais'}	{'messe', 'grano_turco', 'granoturco', 'formentone', 'granturco', 'z._mays', 'meliga', 'frumentone', 'granone', 'zea_mays', 'mais'}

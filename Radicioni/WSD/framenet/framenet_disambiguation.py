@@ -1,28 +1,9 @@
 from nltk.corpus import framenet as fn
 from nltk.corpus import wordnet as wn
-from nltk.stem import WordNetLemmatizer
-import os
-import nltk
-import sys
-from nltk.stem import PorterStemmer
+from utils import read_valutation_file, extract_fn_wn_word
 from pprint import pprint
-import json
-import re
-sys.path.append('..')
-from similarity_and_wsd import wsd_ex as wsd
-
-
-
-'''
-    Domande:
-        1) Nella costruzione del contesto FN dovrei usare anche le definizioni delle LU?
-        2) Nella creazione delle bag of words, è corretto usare un set? Per es.
-                A 'dog' 
-                B 'dog', 'dog'
-            Considera 1 overlap quando sarebbero 2
-'''
-
-
+from bag_of_words_alg import get_framenet_context_bow, get_wordnet_context_bow, wsd
+from graph_score import probability, get_big_framenet_context_bow
 '''
     student: Biondi
         ID:   44	frame: Volubility
@@ -31,202 +12,150 @@ from similarity_and_wsd import wsd_ex as wsd
         ID: 1863	frame: Becoming_separated
         ID:  277	frame: Food
 '''
-list_input = ['Volubility', 'Coincidence', 'Transfer_scenario', 'Becoming_separated', 'Food']
 
 
-def stemmer(list_of_words):
-    porter = PorterStemmer()
-    return [porter.stem(w) for w in list_of_words]
-
-
-### METODI PER FILE ###
-
-# Creo file da annotare manualmente coi synset attesi
-# Nota: per i termini composti 'Transfer_scenario' a mano verranno scelte le parole principali sul file
-def create_valutation_file():
-    v = {}
-    for w in list_input:
-        fe_expected_result_dictionary = { fe : "None" for fe in fn.frames(w)[0].FE}
-        lu_expected_result_dictionary = { lu : "None" for lu in fn.frames(w)[0].lexUnit}
-        v[w] = {'this': None, 'FE': fe_expected_result_dictionary,'LU': lu_expected_result_dictionary}
-    with open('valutation_file2.txt', 'w') as f:
-        f.write(json.dumps(v, indent=4))
-
-
-def read_valutation_file():
-    with open('valutation_file.txt', 'r') as f:
-        data = json.load(f)
-    return data
-
-
-### METODI CONTEXT ###
-
-# bow = bag of words
-def get_wordnet_context_bow(synset):     ### Ctx(s)
-    signature = wsd.read_gloss_and_examples(synset)
-    for hyp in synset.hypernyms():
-        signature += wsd.read_gloss_and_examples(hyp)
-    for hyp1 in synset.hyponyms():
-        signature += wsd.read_gloss_and_examples(hyp1)
-    return stemmer(signature)
-
-
-#def get_framenet_context_bow(frame_term):     ### Ctx(w)
-    #frame = fn.frame(frame_term)
-    #signature = wsd.extract_words_from_sentence(frame.definition)
-    #for f in frame.FE:
-    #    signature += wsd.extract_words_from_sentence(frame.FE[f].definition)
-    #for lu in frame.lexUnit:           # dovrei usare anche la definizione delle lu?
-        #signature += wsd.extract_words_from_sentence(frame.lexUnit[lu].definition)
-    #return stemmer(signature)
-def get_framenet_context_bow(frame_part):     ### Ctx(w)
-    signature = wsd.extract_words_from_sentence(frame_part.definition)
-    return stemmer(signature)
-
-
-### METODI MAPPING SCORE ###
-
+# ctxw lo passo da fuori per non ricalcolarlo ad ogni iterazione
 def bag_of_words_score(ctxw, synset):
     ctxs = get_wordnet_context_bow(synset)
-    #ctxw = get_framenet_context_bow(frame)
     return len(set(ctxs).intersection(set(ctxw)))+1
 
 
-def graphic_score(frame, synset):
-    return
+def graphic_score(fn_ctxw, wn_word, sns, l):
+    return probability(sns, wn_word, fn_ctxw, l)
 
 
-def extract_fn_wn_word(term):
-    # per gestire le parole composte nel file scriveremo 'parola_composta[parola]' così da usare parola per wn
-    if '[' in term:
-        wordnet_word = re.search(r'(?<=\[).+?(?=\])', term).group()
-        frame_word = re.search(r'.+?(?=\[)', term).group()
-    else:
-        frame_word = term
-        wordnet_word = term
-    return frame_word, wordnet_word
-
-
-def get_best_synset(wordnet_word, frame_part, flag=0):
+# Estraggo il best synset in base al tipo di score, flag 0 per bag of words, flag != 0 per graph (TODO)
+def get_best_synset(wordnet_word, frame_part, flag=0, pos=None):
     if len(wn.synsets(wordnet_word)) == 0:
         return None
 
     framenet_ctxw = get_framenet_context_bow(frame_part)
+    framenet_ctxw_big = get_big_framenet_context_bow(frame.name)
     best_score = -1
-    for synset in wn.synsets(wordnet_word):    ## dovrei mettere n per prendere solo noun?
+
+    # nel caso delle lex_units sfruttiamo la conoscenza sul pos per ridurre i synset
+    if pos:
+        wn_sns = wn.synsets(wordnet_word, pos)
+    else:
+        wn_sns = wn.synsets(wordnet_word)
+
+    for sns in wn_sns:
         if flag == 0:
-            score = bag_of_words_score(framenet_ctxw, synset)
-        #else:
-         #   score = graphic_score(frame,synset)
+            score = bag_of_words_score(framenet_ctxw_big, sns)
+        else:
+            score = graphic_score(framenet_ctxw, wordnet_word, sns, 4)
+
         if score > best_score:
             best_score = score
-            best_sense = synset
+            best_sense = sns
     #print(word, ': ',best_sense, best_score)
     return best_sense
 
 
-# Confronto gli ID, creato per leggibilità
+# Confronto gli ID
 def compare_syn(found_synset, expected_string):
     return wn.synset(expected_string).offset() == found_synset.offset()
 
 
-def print_wrong_result(found, expected):
-    print("Wrong result:\n\texpected: ", expected[0]," words: ", expected[1],
-          "\n\tfound: ", found.name(), "words: ", found.lemma_names())
+# stampo i risultati non uguali
+def print_wrong_result(word, found, expected):
+    print(f"Wrong result on word: {word}\n\texpected: ", expected[0]," terms: ", expected[1],
+          "\n\tfound: ", found.name(), "terms: ", found.lemma_names(),"\n")
 
-if __name__ == "__main__":
-    #print(get_best_synset('Transfer_scenario[Transfer]'))
-    #print(input.get('Volubility').get('FE').get('Speaker')[0] == str(wn.synset('speaker.n.1')))
-    ###
-    # wsd.read_stop_words()
-   # frame = fn.frames(wn_input[1])[0]
-   # synset = wn.synsets(wn_input[1])[0]
-   # print(get_wordnet_context_bow(synset), get_framenet_context_bow(frame))
-    #print(wsd.compute_overlap(get_wordnet_context_bow(synset), get_framenet_context_bow(frame)))
-   # print(bag_of_words_score(frame, synset))
-###
-    # Carico le stop-words in memoria
-    wsd.read_stop_words()
-    # Carico Dictionary con gli elementi da cercare e i risultati attesi. Per info: valutation_file.txt
-    input = read_valutation_file()
-    result_counter = []
-    
-    for word in input.keys():
-        # Inizializzo parametri
-        correct, total = 0, 0
 
-        # Estraggo frame
-        frame_word, wordnet_word = extract_fn_wn_word(word) # Metodo per gestire parole composte
+# estraggo dal frame l'elemento in base al tipo (main,fe,lu) e al termine
+def extract_frame_syn(frame_word, type):
+    global frame
+    if type == 'MAIN':
         frame = fn.frame(frame_word)
-        
-        # Estraggo best synset e confronto
-        syn = get_best_synset(wordnet_word, frame)
-        if compare_syn(syn, input[word]['this'][0]):
+        return frame
+    if type == 'FE':
+        return frame.FE[frame_word]
+    if type == 'LU':
+        return frame.lexUnit[frame_word]
+    raise ValueError("frame type unknown")
+
+
+# controllo se predizione ( best_syn) e atteso (expected_result) combaciano
+# se si incremento variabili di score globali
+def compare(word, expected_result, type):
+    global correct, total
+    if expected_result != "None":
+        fn_word, wn_word = extract_fn_wn_word(word)
+
+        # solo per lex units:
+        # per rimuovere la parte sul tipo del lexunit es. 'effusive.a'
+        pos = None
+        if type == 'LU' and '.' in wn_word:
+            split = wn_word.split('.')
+            wn_word = split[0]
+            pos = split[1]
+            if pos == 'adv': pos = 'r'  # correzione per gli avverbi che han simboli diversi
+
+        best_syn = get_best_synset(wn_word, extract_frame_syn(fn_word, type), flag=1, pos=pos)
+        if compare_syn(best_syn, expected_result[0]):
             correct += 1
         else:
-            print_wrong_result(syn, input[word]['this'])
+            print_wrong_result(word, best_syn, expected_result)
         total += 1
 
+
+# per ogni fe/lu controllo se predizione e atteso son uguali
+def compare_loop(frame_dict, category_type):
+    if category_type not in {'FE','LU'}: raise ValueError('wrong type line 133')
+
+    sub_dict = frame_dict[category_type]
+    for key in sub_dict.keys():
+        compare(key, sub_dict.get(key), type=category_type)
+
+
+if __name__ == "__main__":
+
+    # INIT STOP WORDS
+    wsd.read_stop_words()
+
+    # INIT EXPECTED RESULT
+    input = read_valutation_file()
+
+    result_counter = []  # salvo i risultati
+
+    # Per ognuna delle 5 parole:
+    for word in input.keys():
+
+        print(f"Starting frame for word: {word}\n")
+        # Inizializzo parametri score
+        correct, total = 0, 0
+
+        # controllo se predizione e atteso combaciano nel significato generale
+        compare(word, input[word]['this'], type='MAIN')
+
         # Ripeto per ogni FE
-        fe_expected_result_dictionary = input[word]['FE']
-        for fe in fe_expected_result_dictionary.keys():
-            if fe_expected_result_dictionary.get(fe) == "None":
-                print(correct)
-                print(total)
-                exit() #continue
+        compare_loop(input[word], category_type='FE')
 
-            frame_word, wordnet_word = extract_fn_wn_word(fe)
+         # Ripeto per ogni LexUnits
+        compare_loop(input[word], category_type='LU')
 
-            fe_syn = get_best_synset(wordnet_word, frame.FE[frame_word])
-            if compare_syn(fe_syn, fe_expected_result_dictionary.get(fe)[0]):
-                correct += 1
-            else:
-                print_wrong_result(fe_syn, fe_expected_result_dictionary.get(fe))
-            total += 1
+        # memorizzo risultati
+        result_counter.append((word, correct, total))
 
-        
-        # Ripeto per ogni LexUnits
-        lu_expected_result_dictionary = input[word]['LU']
-        for lu in lu_expected_result_dictionary.keys():
+    # stampo risultati
+    for r in result_counter:
+        print(f"Result for word: {r[0]}:")
+        print(f"Correct predictions: {r[1]}")
+        print(f"Total comparisons: {r[2]}")
+        print(f"Score: {r[1]/r[2]}\n")
+'''
+bag of words
+Volubility 27 34
+Coincidence 7 14
+Transfer_scenario[Transfer] 5 5
+Becoming_separated[Becoming] 9 16
+Food 62 75
 
-            frame_word, wordnet_word = extract_fn_wn_word(lu)
-            # per rimuovere la parte sul tipo del lexunit es. 'effusive.a'
-            if '.' in wordnet_word:
-                wordnet_word = wordnet_word.split('.')[0]
-
-            lu_syn = get_best_synset(wordnet_word, frame.lexUnit[frame_word])
-            if compare_syn(lu_syn, lu_expected_result_dictionary.get(lu)[0]):
-                correct += 1
-            else:
-                print_wrong_result(lu_syn, lu_expected_result_dictionary.get(lu))
-            total += 1
-
-        print(word, correct, total)
-    exit()
-
-
-
-
-
-
-
-
-
-
-
-    for lu in frame.lexUnit:
-        print(frame.lexUnit[lu].definition)
-        print(frame.lexUnit[lu].name)
-    print(get_framenet_context_bow(frame))
-    exit()
-    for i in range(0,5):
-        best_sense = check_similarity(wn_input[i], fn.frames(list_input[i])[0])
-        print(best_sense)
-    exit()
-    for input in list_input:
-        print(len(fn.frames(input)))
-        frame = fn.frames(input)[0]
-        print(frame.name)
-        print(frame.definition)
-        print(frame.FE)
-        print(frame.lexUnit.keys())
+graph
+Volubility 24 34
+Coincidence 9 14
+Transfer_scenario[Transfer] 3 5
+Becoming_separated[Becoming] 9 16
+Food 51 75
+'''

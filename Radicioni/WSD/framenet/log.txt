@@ -1,0 +1,230 @@
+### SIMPLY SCORE ###
+graph-based large bag of word:
+    Volubility 24 34
+    Coincidence 10 14
+    Transfer_scenario[Transfer] 3 5
+    Becoming_separated[Becoming] 10 16
+    Food 56 75
+
+graph-based small:
+     Volubility 24 34
+     Coincidence 10 14
+     Transfer_scenario[Transfer] 3 5
+     Becoming_separated[Becoming] 10 16
+     Food 56 75
+
+bag-of-word small:
+     Volubility 28 34
+     Coincidence 9 14
+     Transfer_scenario[Transfer] 5 5
+     Becoming_separated[Becoming] 9 16
+     Food 62 75
+
+bag-of-word big:
+     Volubility 25 34
+     Coincidence 9 14
+     Transfer_scenario[Transfer] 4 5
+     Becoming_separated[Becoming] 8 16
+     Food 51 75
+
+### FULL SCORE ###
+graph-score large bag of word:
+    Starting frame for word: Volubility
+
+    Wrong result on word: Company
+    	expected:  company.n.3  terms:  ['companionship', 'fellowship']
+    	found:  ship's_company.n.01 terms:  ["ship's_company", 'company']
+
+    Wrong result on word: Medium
+    	expected:  medium.n.1  terms:  ['instrumentality for communicating information']
+    	found:  medium.n.03 terms:  ['medium']
+
+    Wrong result on word: Judge
+    	expected:  judge.n.2  terms:  ['evaluator']
+    	found:  evaluate.v.02 terms:  ['evaluate', 'pass_judgment', 'judge']
+
+    Wrong result on word: silent.a
+    	expected:  silent.s.2  terms:  ['mum', 'uncommunicative']
+    	found:  silent.s.01 terms:  ['silent', 'soundless', 'still']
+
+    Wrong result on word: talkative.a
+    	expected:  talkative.s.3  terms:  ['expansive']
+    	found:  chatty.s.01 terms:  ['chatty', 'gabby', 'garrulous', 'loquacious', 'talkative', 'talky']
+
+    Wrong result on word: expansive.a
+    	expected:  expansive.s.4  terms:  ['talkative']
+    	found:  expansive.a.01 terms:  ['expansive']
+
+    Wrong result on word: gushing.a
+    	expected:  gushing.s.2  terms:  ['burbling', 'burbly', 'effusive']
+    	found:  gushing.s.01 terms:  ['gushing', 'pouring']
+
+    Wrong result on word: chatterbox.n
+    	expected:  chatterbox.n.2  terms:  ['chatterer', 'babbler', 'prater', 'magpie', 'spouter']
+    	found:  stream_orchid.n.01 terms:  ['stream_orchid', 'chatterbox', 'giant_helleborine', 'Epipactis_gigantea']
+
+    Wrong result on word: reserved.a
+    	expected:  reserved.a.2  terms:  ['self-restraint and reticence']
+    	found:  reserved.a.01 terms:  ['reserved']
+
+    Wrong result on word: quiet.a
+    	expected:  quiet.a.2  terms:  ['free of noise', 'making little if any sound']
+    	found:  quiet.a.01 terms:  ['quiet']
+
+    Starting frame for word: Coincidence
+
+    Wrong result on word: Place
+    	expected:  place.n.1  terms:  ['topographic point', 'spot']
+    	found:  station.v.01 terms:  ['station', 'post', 'send', 'place']
+
+    Wrong result on word: accident.n
+    	expected:  accident.n.2  terms:  ['stroke', 'fortuity', 'chance event']
+    	found:  accident.n.01 terms:  ['accident']
+
+    Wrong result on word: happen.v
+    	expected:  happen.v.2  terms:  ['befall', 'bechance']
+    	found:  happen.v.01 terms:  ['happen', 'hap', 'go_on', 'pass_off', 'occur', 'pass', 'fall_out', 'come_about', 'take_place']
+
+    Wrong result on word: chance.n
+    	expected:  chance.n.1  terms:  ['opportunity']
+    	found:  luck.n.02 terms:  ['luck', 'fortune', 'chance', 'hazard']
+
+    Starting frame for word: Transfer_scenario[Transfer]
+
+    Wrong result on word: Transfer_scenario[Transfer]
+    	expected:  transfer.n.6  terms:  ['transference', 'transferring ownership']
+    	found:  transportation.n.02 terms:  ['transportation', 'transport', 'transfer', 'transferral', 'conveyance']
+
+    Wrong result on word: Recipient
+    	expected:  recipient.n.2  terms:  ['recipient role']
+    	found:  recipient.n.01 terms:  ['recipient', 'receiver']
+
+    Starting frame for word: Becoming_separated[Becoming]
+
+    Wrong result on word: Parts
+    	expected:  part.n.9  terms:  ['section', 'division']
+    	found:  separate.v.09 terms:  ['separate', 'part', 'split']
+
+    Wrong result on word: Part_1[part]
+    	expected:  part.n.9  terms:  ['section', 'division']
+    	found:  part.n.01 terms:  ['part', 'portion', 'component_part', 'component', 'constituent']
+
+    Wrong result on word: Part_2[part]
+    	expected:  part.n.9  terms:  ['section', 'division']
+    	found:  separate.v.09 terms:  ['separate', 'part', 'split']
+
+    Wrong result on word: Time
+    	expected:  time.n.1  terms:  ['an instance or single occasion for some event']
+    	found:  time.n.02 terms:  ['time']
+
+    Wrong result on word: separate.v
+    	expected:  separate.v.2  terms:  ['divide', 'disunite', 'part']
+    	found:  separate.v.01 terms:  ['separate', 'divide']
+
+    Wrong result on word: divide.v
+    	expected:  divide.v.4  terms:  ['separate', 'part']
+    	found:  divide.v.01 terms:  ['divide', 'split', 'split_up', 'separate', 'dissever', 'carve_up']
+
+    Starting frame for word: Food
+
+    Wrong result on word: Food
+    	expected:  food.n.1  terms:  ['nutrient']
+    	found:  food.n.02 terms:  ['food', 'solid_food']
+
+    Wrong result on word: Type
+    	expected:  type.n.1  terms:  ['a subdivision of a particular kind of thing']
+    	found:  type.n.05 terms:  ['type']
+
+    Wrong result on word: Constituent_parts[constituent]
+    	expected:  constituent.n.3  terms:  ['part', 'portion', 'component part', 'component']
+    	found:  component.n.03 terms:  ['component', 'constituent', 'element']
+
+    Wrong result on word: carrot.n
+    	expected:  carrot.n.3  terms:  ['orange root']
+    	found:  carrot.n.01 terms:  ['carrot']
+
+    Wrong result on word: beef.n
+    	expected:  beef.n.2  terms:  ['meat from an adult domestic bovine']
+    	found:  beef.n.01 terms:  ['beef', 'beef_cattle']
+
+    Wrong result on word: lamb.n
+    	expected:  lamb.n.5  terms:  ['the flesh of a young domestic sheep eaten as food']
+    	found:  lamb.n.01 terms:  ['lamb']
+
+    Wrong result on word: poultry.n
+    	expected:  poultry.n.2  terms:  ['flesh of chickens or turkeys or ducks or geese raised for food']
+    	found:  domestic_fowl.n.01 terms:  ['domestic_fowl', 'fowl', 'poultry']
+
+    Wrong result on word: turkey.n
+    	expected:  turkey.n.1  terms:  ['Meleagris gallopavo', 'large gallinaceous bird']
+    	found:  turkey.n.04 terms:  ['turkey']
+
+    Wrong result on word: tuna.n
+    	expected:  tuna.n.2  terms:  ['tuna fish', 'tunny']
+    	found:  tuna.n.03 terms:  ['tuna', 'tunny']
+
+    Wrong result on word: shellfish.n
+    	expected:  shellfish.n.1  terms:  ['meat of edible aquatic invertebrate with a shell']
+    	found:  mollusk.n.01 terms:  ['mollusk', 'mollusc', 'shellfish']
+
+    Wrong result on word: lobster.n
+    	expected:  lobster.n.1  terms:  ['flesh of a lobster']
+    	found:  lobster.n.02 terms:  ['lobster']
+
+    Wrong result on word: almond.n
+    	expected:  almond.n.2  terms:  ['oval-shaped edible seed of the almond tree']
+    	found:  almond.n.01 terms:  ['almond', 'sweet_almond', 'Prunus_dulcis', 'Prunus_amygdalus', 'Amygdalus_communis']
+
+    Wrong result on word: peanut.n
+    	expected:  peanut.n.4  terms:  ['earthnut', 'goober', 'goober pea', 'groundnut', 'monkey nut']
+    	found:  peanut.n.01 terms:  ['peanut']
+
+    Wrong result on word: pasta.n
+    	expected:  pasta.n.2  terms:  ['alimentary paste']
+    	found:  pasta.n.01 terms:  ['pasta']
+
+    Wrong result on word: cereal.n
+    	expected:  cereal.n.3  terms:  ['a breakfast food prepared from grain']
+    	found:  grain.n.02 terms:  ['grain', 'food_grain', 'cereal']
+
+    Wrong result on word: lettuce.n
+    	expected:  lettuce.n.2  terms:  ['any of various plants of the genus Lactuca']
+    	found:  boodle.n.01 terms:  ['boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'gelt', 'kale', 'lettuce', 'lolly', 'lucre', 'loot', 'moolah', 'pelf', 'scratch', 'shekels', 'simoleons', 'sugar', 'wampum']
+
+    Wrong result on word: sweet.n
+    	expected:  sweet.n.3  terms:  ['confection']
+    	found:  sweet.n.01 terms:  ['Sweet', 'Henry_Sweet']
+
+    Wrong result on word: water.n
+    	expected:  water.n.6  terms:  ['a liquid necessary for the life of most animals and plants']
+    	found:  water.n.01 terms:  ['water', 'H2O']
+
+    Wrong result on word: date.n
+    	expected:  date.n.7  terms:  ['sweet edible fruit of the date palm']
+    	found:  date.n.08 terms:  ['date']
+
+
+    Result for word: Volubility:
+    Correct predictions: 24
+    Total comparisons: 34
+    Score: 0.7058823529411765
+
+    Result for word: Coincidence:
+    Correct predictions: 10
+    Total comparisons: 14
+    Score: 0.7142857142857143
+
+    Result for word: Transfer_scenario[Transfer]:
+    Correct predictions: 3
+    Total comparisons: 5
+    Score: 0.6
+
+    Result for word: Becoming_separated[Becoming]:
+    Correct predictions: 10
+    Total comparisons: 16
+    Score: 0.625
+
+    Result for word: Food:
+    Correct predictions: 56
+    Total comparisons: 75
+    Score: 0.7466666666666667

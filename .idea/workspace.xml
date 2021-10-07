@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="260d9c8f-52ac-47f0-94e9-47afa010e046" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/babelnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/nasari.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/semantic_similarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/sense_identification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/si.test.data.expected.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/bag_of_words_alg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Di Caro/es3.1/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Di Caro/es3.1/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/.ipynb_checkpoints/FN_lab-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/FN_lab.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/esercitazione_Mapping di Frame in WN Synsets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/stop_words_FULL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/valutation_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/valutation_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/similarity.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,19 +127,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TLN\Radicioni\WSD\annotazione e sense indentification" />
+      <recent name="E:\TLN\Radicioni\WSD\annotazione e sense indentification\utils" />
       <recent name="E:\TLN\Radicioni\WSD\summarisation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\TLN\Radicioni\WSD\annotazione e sense indentification" />
       <recent name="E:\TLN\Radicioni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="babelfy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.framenet_disambiguation">
+    <configuration name="framenet_disambiguation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/framenet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/summarisation/babelfy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="graph_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/framenet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/summarisation/evaluation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/framenet/graph_score.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nasari" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="semantic_similarity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/summarisation/nasari.py" />
+      <option name="SCRIPT_NAME" value="E:\TLN\Radicioni\WSD\annotazione e sense indentification\semantic_similarity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="summarisation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sense_identification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/summarisation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification/sense_identification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wsd_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/wsd_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.summarisation" />
-        <item itemvalue="Python.evaluation" />
-        <item itemvalue="Python.babelfy" />
-        <item itemvalue="Python.nasari" />
+        <item itemvalue="Python.framenet_disambiguation" />
+        <item itemvalue="Python.graph_score" />
+        <item itemvalue="Python.wsd_ex" />
+        <item itemvalue="Python.sense_identification" />
+        <item itemvalue="Python.semantic_similarity" />
       </list>
     </recent_temporary>
   </component>
