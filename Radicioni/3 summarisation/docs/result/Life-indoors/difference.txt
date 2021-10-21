@@ -1,0 +1,16 @@
+sentence removed:
+的 would rather see a patient in the office ...
+I focus more when I am at school as I have less distraction.的 hope all this will come to an end ...
+Teaching, working and socialising have moved online as never before.
+的 get up much later and I go to bed later than usual.
+After life returns to normal, I think the first thing for me is to have a big meal in a decent restaurant.
+的t was a painful decision.
+
+
+sentence removed expected:
+的 would rather see a patient in the office ...
+Teaching, working and socialising have moved online as never before.
+的 get up much later and I go to bed later than usual.
+展e help our daughter build her own daily plan, which includes English, maths study, cello practice, reading as well as her favourite, watching cartoons.
+的t was a painful decision.
+It is a poor replacement.

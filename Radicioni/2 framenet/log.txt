@@ -1,0 +1,254 @@
+### SIMPLY SCORE ###
+graph-based large bag of word:
+    Volubility 24 34
+    Coincidence 10 14
+    Transfer_scenario[Transfer] 3 5
+    Becoming_separated[Becoming] 10 16
+    Food 56 75
+
+graph-based small:
+     Volubility 24 34
+     Coincidence 10 14
+     Transfer_scenario[Transfer] 3 5
+     Becoming_separated[Becoming] 10 16
+     Food 56 75
+
+bag-of-word small:
+     Volubility 28 34
+     Coincidence 9 14
+     Transfer_scenario[Transfer] 5 5
+     Becoming_separated[Becoming] 9 16
+     Food 62 75
+
+bag-of-word big:
+     Volubility 25 34
+     Coincidence 9 14
+     Transfer_scenario[Transfer] 4 5
+     Becoming_separated[Becoming] 8 16
+     Food 51 75
+
+### FULL SCORE ###
+# si riporta solo il caso graph-score con bag of word sull'intero frame in quanto è l'unico a richiedere molto tempo
+graph-score large bag of word: (l = 3)
+    Starting frame for word: Volubility
+
+    Wrong result on word: Speaker
+        expected:  speaker.n.1  terms:  ['talker', 'verbalizer']
+        found:  loudspeaker.n.01 terms:  ['loudspeaker', 'speaker', 'speaker_unit', 'loudspeaker_system', 'speaker_system']
+
+    Wrong result on word: Company
+        expected:  company.n.3  terms:  ['companionship', 'fellowship']
+        found:  ship's_company.n.01 terms:  ["ship's_company", 'company']
+
+    Wrong result on word: Topic
+        expected:  topic.n.1  terms:  ['subject', 'theme']
+        found:  topic.n.02 terms:  ['topic', 'subject', 'issue', 'matter']
+
+    Wrong result on word: Medium
+        expected:  medium.n.1  terms:  ['instrumentality for communicating information']
+        found:  medium.n.06 terms:  ['medium']
+
+    Wrong result on word: Degree
+        expected:  degree.n.1  terms:  ['grade', 'level']
+        found:  degree.n.02 terms:  ['degree', 'level', 'stage', 'point']
+
+    Wrong result on word: Judge
+        expected:  judge.n.2  terms:  ['evaluator']
+        found:  evaluate.v.02 terms:  ['evaluate', 'pass_judgment', 'judge']
+
+    Wrong result on word: talkative.a
+        expected:  talkative.s.3  terms:  ['expansive']
+        found:  chatty.s.01 terms:  ['chatty', 'gabby', 'garrulous', 'loquacious', 'talkative', 'talky']
+
+    Wrong result on word: curt.a
+        expected:  curt.s.1  terms:  ['brusk', 'brusque', 'short']
+        found:  crisp.s.06 terms:  ['crisp', 'curt', 'laconic', 'terse']
+
+    Wrong result on word: expansive.a
+        expected:  expansive.s.4  terms:  ['talkative']
+        found:  expansive.a.01 terms:  ['expansive']
+
+    Wrong result on word: gushing.a
+        expected:  gushing.s.2  terms:  ['burbling', 'burbly', 'effusive']
+        found:  gushing.s.01 terms:  ['gushing', 'pouring']
+
+    Wrong result on word: reserved.a
+        expected:  reserved.a.2  terms:  ['self-restraint and reticence']
+        found:  reserved.a.01 terms:  ['reserved']
+
+    Wrong result on word: quiet.a
+        expected:  quiet.a.2  terms:  ['free of noise', 'making little if any sound']
+        found:  quiet.a.01 terms:  ['quiet']
+
+    Starting frame for word: Coincidence
+
+    Wrong result on word: Place
+        expected:  place.n.1  terms:  ['topographic point', 'spot']
+        found:  target.v.01 terms:  ['target', 'aim', 'place', 'direct', 'point']
+
+    Wrong result on word: happen.v
+        expected:  happen.v.2  terms:  ['befall', 'bechance']
+        found:  happen.v.01 terms:  ['happen', 'hap', 'go_on', 'pass_off', 'occur', 'pass', 'fall_out', 'come_about', 'take_place']
+
+    Wrong result on word: chance.n
+        expected:  chance.n.1  terms:  ['opportunity']
+        found:  luck.n.02 terms:  ['luck', 'fortune', 'chance', 'hazard']
+
+    Starting frame for word: Transfer_scenario[Transfer]
+
+    Wrong result on word: Transfer_scenario[Transfer]
+        expected:  transfer.n.6  terms:  ['transference', 'transferring ownership']
+        found:  transfer.n.02 terms:  ['transfer', 'transferee']
+
+    Wrong result on word: Recipient
+        expected:  recipient.n.2  terms:  ['recipient role']
+        found:  recipient.n.01 terms:  ['recipient', 'receiver']
+
+    Starting frame for word: Becoming_separated[Becoming]
+
+    Wrong result on word: Becoming_separated[Becoming]
+        expected:  become.v.1  terms:  ['go', 'get']
+        found:  become.v.03 terms:  ['become']
+
+    Wrong result on word: Whole
+        expected:  whole.n.1  terms:  ['all of something']
+        found:  whole.n.02 terms:  ['whole', 'unit']
+
+    Wrong result on word: Parts
+        expected:  part.n.9  terms:  ['section', 'division']
+        found:  separate.v.09 terms:  ['separate', 'part', 'split']
+
+    Wrong result on word: Part_1[part]
+        expected:  part.n.9  terms:  ['section', 'division']
+        found:  separate.v.09 terms:  ['separate', 'part', 'split']
+
+    Wrong result on word: Part_2[part]
+        expected:  part.n.9  terms:  ['section', 'division']
+        found:  separate.v.09 terms:  ['separate', 'part', 'split']
+
+    Wrong result on word: Degree
+        expected:  degree.n.1  terms:  ['grade', 'level']
+        found:  degree.n.02 terms:  ['degree', 'level', 'stage', 'point']
+
+    Wrong result on word: Means
+        expected:  means.n.1  terms:  ['agency', 'way']
+        found:  think_of.v.04 terms:  ['think_of', 'have_in_mind', 'mean']
+
+    Wrong result on word: Time
+        expected:  time.n.1  terms:  ['an instance or single occasion for some event']
+        found:  time.n.03 terms:  ['time']
+
+    Wrong result on word: Place
+        expected:  place.n.1  terms:  ['spot', 'topographic point']
+        found:  put.v.01 terms:  ['put', 'set', 'place', 'pose', 'position', 'lay']
+
+    Wrong result on word: separate.v
+        expected:  separate.v.2  terms:  ['divide', 'disunite', 'part']
+        found:  separate.v.09 terms:  ['separate', 'part', 'split']
+
+    Wrong result on word: split.v
+        expected:  split.v.1  terms:  ['divide', 'split up', 'separate', 'dissever', 'carve up']
+        found:  separate.v.09 terms:  ['separate', 'part', 'split']
+
+    Wrong result on word: divide.v
+        expected:  divide.v.4  terms:  ['separate', 'part']
+        found:  separate.v.02 terms:  ['separate', 'disunite', 'divide', 'part']
+
+    Starting frame for word: Food
+
+    Wrong result on word: banana.n
+        expected:  banana.n.2  terms:  ['elongated crescent-shaped yellow fruit']
+        found:  banana.n.01 terms:  ['banana', 'banana_tree']
+
+    Wrong result on word: carrot.n
+        expected:  carrot.n.3  terms:  ['orange root']
+        found:  carrot.n.02 terms:  ['carrot', 'cultivated_carrot', 'Daucus_carota_sativa']
+
+    Wrong result on word: pea.n
+        expected:  pea.n.1  terms:  ['seed of a pea plant']
+        found:  pea.n.03 terms:  ['pea', 'pea_plant']
+
+    Wrong result on word: chicken.n
+        expected:  chicken.n.2  terms:  ['Gallus', 'domestic fowl']
+        found:  chicken.n.01 terms:  ['chicken', 'poulet', 'volaille']
+
+    Wrong result on word: turkey.n
+        expected:  turkey.n.1  terms:  ['Meleagris gallopavo', 'large gallinaceous bird']
+        found:  turkey.n.04 terms:  ['turkey']
+
+    Wrong result on word: shrimp.n
+        expected:  shrimp.n.3  terms:  ['small slender-bodied chiefly marine decapod crustaceans']
+        found:  prawn.n.01 terms:  ['prawn', 'shrimp']
+
+    Wrong result on word: lobster.n
+        expected:  lobster.n.1  terms:  ['flesh of a lobster']
+        found:  lobster.n.02 terms:  ['lobster']
+
+    Wrong result on word: nut.n
+        expected:  nut.n.1  terms:  ['usually large hard-shelled seed']
+        found:  testis.n.01 terms:  ['testis', 'testicle', 'orchis', 'ball', 'ballock', 'bollock', 'nut', 'egg']
+
+    Wrong result on word: peanut.n
+        expected:  peanut.n.4  terms:  ['earthnut', 'goober', 'goober pea', 'groundnut', 'monkey nut']
+        found:  peanut.n.01 terms:  ['peanut']
+
+    Wrong result on word: spice.n
+        expected:  spice.n.2  terms:  ['aromatic vegetable substances used for flavoring food']
+        found:  spiciness.n.01 terms:  ['spiciness', 'spice', 'spicery']
+
+    Wrong result on word: cereal.n
+        expected:  cereal.n.3  terms:  ['a breakfast food prepared from grain']
+        found:  grain.n.02 terms:  ['grain', 'food_grain', 'cereal']
+
+    Wrong result on word: lettuce.n
+        expected:  lettuce.n.2  terms:  ['any of various plants of the genus Lactuca']
+        found:  boodle.n.01 terms:  ['boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'gelt', 'kale', 'lettuce', 'lolly', 'lucre', 'loot', 'moolah', 'pelf', 'scratch', 'shekels', 'simoleons', 'sugar', 'wampum']
+
+    Wrong result on word: sweet.n
+        expected:  sweet.n.3  terms:  ['confection']
+        found:  sweet.n.04 terms:  ['sweet', 'sweetness', 'sugariness']
+
+    Wrong result on word: sugar.n
+        expected:  sugar.n.1  terms:  ['refined sugar']
+        found:  boodle.n.01 terms:  ['boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'gelt', 'kale', 'lettuce', 'lolly', 'lucre', 'loot', 'moolah', 'pelf', 'scratch', 'shekels', 'simoleons', 'sugar', 'wampum']
+
+    Wrong result on word: dressing.n
+        expected:  dressing.n.1  terms:  ['salad dressing']
+        found:  stuffing.n.01 terms:  ['stuffing', 'dressing']
+
+    Wrong result on word: lasagne.n
+        expected:  lasagne.n.1  terms:  ['lasagna', 'baked dish of layers of lasagna pasta with sauce and cheese and meat or vegetables']
+        found:  lasagna.n.02 terms:  ['lasagna', 'lasagne']
+
+    Wrong result on word: date.n
+        expected:  date.n.7  terms:  ['sweet edible fruit of the date palm']
+        found:  date.n.08 terms:  ['date']
+
+    Wrong result on word: cabbage.n
+        expected:  cabbage.n.3  terms:  ['cultivated cabbage', 'Brassica oleracea']
+        found:  boodle.n.01 terms:  ['boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'gelt', 'kale', 'lettuce', 'lolly', 'lucre', 'loot', 'moolah', 'pelf', 'scratch', 'shekels', 'simoleons', 'sugar', 'wampum']
+
+    Result for word: Volubility:
+    Correct predictions: 22
+    Total comparisons: 34
+    Score: 0.6470588235294118
+
+    Result for word: Coincidence:
+    Correct predictions: 11
+    Total comparisons: 14
+    Score: 0.7857142857142857
+
+    Result for word: Transfer_scenario[Transfer]:
+    Correct predictions: 3
+    Total comparisons: 5
+    Score: 0.6
+
+    Result for word: Becoming_separated[Becoming]:
+    Correct predictions: 4
+    Total comparisons: 16
+    Score: 0.25
+
+    Result for word: Food:
+    Correct predictions: 57
+    Total comparisons: 75
+    Score: 0.76

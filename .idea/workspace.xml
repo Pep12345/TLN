@@ -5,26 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="260d9c8f-52ac-47f0-94e9-47afa010e046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/babelnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/nasari.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/semantic_similarity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/sense_identification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/si.test.data.expected.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/bag_of_words_alg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Di Caro/es3.1/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Di Caro/es3.1/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/.ipynb_checkpoints/FN_lab-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/FN_lab.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/esercitazione_Mapping di Frame in WN Synsets.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/2-FrameNet/stop_words_FULL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/valutation_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/framenet/valutation_file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/similarity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/.idea/WSD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/babelnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/nasari.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/semantic_similarity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/sense_identification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/._mini_NASARI.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/.ipynb_checkpoints/semeval_mapper-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/SemEval17_IT_senses2synsets.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/it.test.data.expected.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/it.test.data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/mini_NASARI.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/mini_NASARI.tsv.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/result_identification.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/result_valutation.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/semeval_mapper.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/4 annotazione e sense indentification/utils/si.test.data.expected.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/bag_of_words_alg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/graph_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/framenet/valutation_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/WordSim353.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/similarity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/stop_words_FULL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/wsd_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/babelfy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Andy-Warhol/difference.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Andy-Warhol/gold.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Andy-Warhol/my_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Ebola-virus-disease/difference.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Ebola-virus-disease/gold.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Ebola-virus-disease/my_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Life-indoors/difference.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Life-indoors/gold.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Life-indoors/my_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Napoleon-wiki/difference.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Napoleon-wiki/gold.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Napoleon-wiki/my_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Trump-wall/difference.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Trump-wall/gold.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/docs/result/Trump-wall/my_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/nasari.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/summarisation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/NASARI_vectors/dd-small-nasari-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/docs/Andy-Warhol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/docs/Ebola-virus-disease.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/docs/Life-indoors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/docs/Napoleon-wiki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Radicioni/WSD/summarisation/utils/docs/Trump-wall.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +169,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -141,7 +186,7 @@
       <recent name="E:\TLN\Radicioni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.framenet_disambiguation">
+  <component name="RunManager" selected="Python.summarisation">
     <configuration name="framenet_disambiguation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,32 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/framenet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/2 framenet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/framenet/framenet_disambiguation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="graph_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TLN" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/framenet" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/framenet/graph_score.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/2 framenet/framenet_disambiguation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/4 annotazione e sense indentification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\TLN\Radicioni\WSD\annotazione e sense indentification\semantic_similarity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/4 annotazione e sense indentification/semantic_similarity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/4 annotazione e sense indentification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/annotazione e sense indentification/sense_identification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/4 annotazione e sense indentification/sense_identification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wsd_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="summarisation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TLN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,11 +258,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/3 summarisation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/WSD/similarity_and_wsd/wsd_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/3 summarisation/summarisation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wsd_ex (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TLN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Radicioni/1 similarity_and_wsd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radicioni/1 similarity_and_wsd/wsd_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.framenet_disambiguation" />
-        <item itemvalue="Python.graph_score" />
-        <item itemvalue="Python.wsd_ex" />
+        <item itemvalue="Python.summarisation" />
         <item itemvalue="Python.sense_identification" />
         <item itemvalue="Python.semantic_similarity" />
+        <item itemvalue="Python.framenet_disambiguation" />
+        <item itemvalue="Python.wsd_ex (1)" />
       </list>
     </recent_temporary>
   </component>

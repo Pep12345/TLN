@@ -1,0 +1,30 @@
+sentence removed:
+The Spanish and the Portuguese revolted with British support.
+The French launched a major invasion of Russia in the summer of 1812.
+Napoleon's political and cultural legacy has endured as one of the most celebrated and controversial leaders in human history.He was born in Corsica to a relatively modest Italian family from minor nobility.
+He was serving as an artillery officer in the French army when the French Revolution erupted in 1789.
+He orchestrated a coup in November 1799 and became First Consul of the Republic.
+The French Directory eventually gave him command of the Army of Italy after he suppressed the 13 Vendémiaire revolt against the government from royalist insurgents.
+The British exiled him to the remote island of Saint Helena in the South Atlantic, where he died six years later at the age of 51.Napoleon's influence on the modern world brought liberal reforms to the numerous territories that he conquered and controlled, such as the Low Countries, Switzerland, and large parts of modern Italy and Germany.
+He rapidly rose through the ranks of the military, seizing the new opportunities presented by the Revolution and becoming a general at age 24.
+The Continental System caused recurring diplomatic conflicts between France and its client states, especially Russia.
+He sold the Louisiana Territory to the United States, and he attempted to restore slavery to the French Caribbean colonies.
+He implemented fundamental liberal policies in France and throughout Western Europe.
+He was exiled to the island of Elba off the coast of Tuscany, and the Bourbon dynasty was restored to power.
+In 1798, he led a military expedition to Egypt that served as a springboard to political power.
+
+
+sentence removed expected:
+The Spanish and the Portuguese revolted with British support.
+To them he added a rational and efficient local administration, an end to rural banditry, the encouragement of science and the arts, the abolition of feudalism and the greatest codification of laws since the fall of the Roman Empire".
+It resulted in the collapse of the Grande Armée and inspired a renewed push against Napoleon by his enemies.
+The French launched a major invasion of Russia in the summer of 1812.
+Napoleon's political and cultural legacy has endured as one of the most celebrated and controversial leaders in human history.He was born in Corsica to a relatively modest Italian family from minor nobility.
+His Napoleonic Code has influenced the legal systems of more than 70 nations around the world.
+He was serving as an artillery officer in the French army when the French Revolution erupted in 1789.
+He orchestrated a coup in November 1799 and became First Consul of the Republic.
+Tilsit signified the high-water mark of the French Empire.
+He rapidly rose through the ranks of the military, seizing the new opportunities presented by the Revolution and becoming a general at age 24.
+He was Emperor of the French as Napoleon I from 1804 until 1814 and again briefly in 1815 during the Hundred Days.
+He was exiled to the island of Elba off the coast of Tuscany, and the Bourbon dynasty was restored to power.
+British historian Andrew Roberts states: "The ideas that underpin our modern world—meritocracy, equality before the law, property rights, religious toleration, modern secular education, sound finances, and so on—were championed, consolidated, codified and geographically extended by Napoleon.
