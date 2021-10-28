@@ -130,7 +130,7 @@ def execute_test(list_words_for_sentence):
         print("Return False")
         return None
 
-        calculated_synset = simplified_lesk(word.text, full_sentence)
+    calculated_synset = simplified_lesk(word.text, full_sentence)
                         # simplified_lesk(word.attrib["lemma"], full_sentence)
 
     print("Algorithm result: ", calculated_synset)
